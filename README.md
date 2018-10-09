@@ -11,7 +11,7 @@ Universidad Politécnica de Madrid, Spain 🌞
 Open Linked Big Data Project 📊
 
 ## Palette of Colors
-- Logo ![#4D4343](https://placehold.it/15/4D4343/000000?text=+) `#4D4343`
+- Logo ![#585858](https://placehold.it/15/585858/000000?text=+) `#585858`
 
 
 ## Credits
