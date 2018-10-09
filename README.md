@@ -5,7 +5,7 @@
 Authors:  Filippo Calzavara ([@philosss](https://github.com/philosss)) and Cesare Curcio ([@Caesarc95](https://github.com/Caesarc95))
 
 
-Universidad Politécnica de Madrid, Spain 🌞
+Universidad Politécnica de Madrid 🌞
 
 
 Open Linked Big Data Project 📊
