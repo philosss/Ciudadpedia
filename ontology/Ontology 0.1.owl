@@ -1,0 +1,106 @@
+Prefix(:=<http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#>)
+Prefix(owl:=<http://www.w3.org/2002/07/owl#>)
+Prefix(rdf:=<http://www.w3.org/1999/02/22-rdf-syntax-ns#>)
+Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
+Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
+Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
+
+
+Ontology(<http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5>
+
+Declaration(Class(:City))
+Declaration(Class(:County_Seat))
+Declaration(Class(:Crime))
+Declaration(Class(:Drugs_Traffic))
+Declaration(Class(:Homicides))
+Declaration(Class(:Public_Debt))
+Declaration(Class(:Region))
+Declaration(Class(:Thefts))
+Declaration(ObjectProperty(:has_a))
+Declaration(ObjectProperty(:in))
+Declaration(ObjectProperty(:of))
+Declaration(ObjectProperty(:reports))
+Declaration(DataProperty(:Crime_amount))
+Declaration(DataProperty(:Debt_amount))
+Declaration(DataProperty(:Name))
+Declaration(DataProperty(:Population))
+############################
+#   Object Properties
+############################
+
+# Object Property: :has_a (:has_a)
+
+ObjectPropertyDomain(:has_a :City)
+ObjectPropertyDomain(:has_a :Region)
+ObjectPropertyRange(:has_a :Public_Debt)
+
+# Object Property: :in (:in)
+
+ObjectPropertyDomain(:in :City)
+ObjectPropertyRange(:in :Region)
+
+# Object Property: :of (:of)
+
+ObjectPropertyDomain(:of :County_Seat)
+ObjectPropertyRange(:of :Region)
+
+# Object Property: :reports (:reports)
+
+ObjectPropertyDomain(:reports :City)
+ObjectPropertyDomain(:reports :Region)
+ObjectPropertyRange(:reports :Crime)
+ObjectPropertyRange(:reports :Drugs_Traffic)
+ObjectPropertyRange(:reports :Homicides)
+ObjectPropertyRange(:reports :Thefts)
+
+
+############################
+#   Data Properties
+############################
+
+# Data Property: :Crime_amount (:Crime_amount)
+
+DataPropertyDomain(:Crime_amount :Crime)
+DataPropertyRange(:Crime_amount xsd:int)
+
+# Data Property: :Debt_amount (:Debt_amount)
+
+DataPropertyDomain(:Debt_amount :Public_Debt)
+DataPropertyRange(:Debt_amount xsd:int)
+
+# Data Property: :Name (:Name)
+
+DataPropertyDomain(:Name :City)
+DataPropertyDomain(:Name :Region)
+DataPropertyRange(:Name xsd:string)
+
+# Data Property: :Population (:Population)
+
+DataPropertyDomain(:Population :City)
+DataPropertyDomain(:Population :Region)
+DataPropertyRange(:Population xsd:int)
+
+
+
+############################
+#   Classes
+############################
+
+# Class: :County_Seat (:County_Seat)
+
+SubClassOf(:County_Seat :City)
+
+# Class: :Drugs_Traffic (:Drugs_Traffic)
+
+SubClassOf(:Drugs_Traffic :Crime)
+
+# Class: :Homicides (:Homicides)
+
+SubClassOf(:Homicides :Crime)
+
+# Class: :Thefts (:Thefts)
+
+SubClassOf(:Thefts :Crime)
+
+
+)
