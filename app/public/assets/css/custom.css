@@ -1,0 +1,19 @@
+.tiles article>.image:before {
+  opacity: 0.4;
+}
+
+.tiles article.style1>.image:before {
+  background-color: #6f5353;
+}
+
+.tiles article.style2>.image:before {
+  background-color: #29332f;
+}
+
+.tiles article.style3>.image:before {
+  background-color: #404e6d;
+}
+
+*+.tiles {
+  margin-top: -2em;
+}
