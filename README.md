@@ -10,6 +10,21 @@ Universidad Politécnica de Madrid 🌞
 
 Open Linked Big Data Project 📊
 
+## To run the project
+Open the terminal into the app folder
+### 1. Install the dependencies
+```
+npm install
+```
+### 2. Start the server
+```
+npm start
+```
+## Requirements
+Make sure npm is running on port 3000
+- [Dataset Requirements](http://localhost:3000/datasetRequirements)
+- [Application Requirements](http://localhost:3000/applicationRequirements)
+
 ## Palette of Colors
 - Logo ![#585858](https://placehold.it/15/585858/000000?text=+) `#585858`
 
