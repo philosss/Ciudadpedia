@@ -1,6 +1,11 @@
 <p align="center">
-<a href="https://github.com/philosss/Ciudadpedia"><img src="https://github.com/philosss/Ciudadpedia/blob/master/graphics/Logo.png?raw=true" width="500px"></a>
+<a href="https://github.com/philosss/Provincepedia"><img src="https://github.com/philosss/Provincepedia/blob/master/app/public/images/Logo.png?raw=true" width="500px"></a>
 </p>
+
+
+Provincepedia is an encyclopedia of Spanish 🇪🇸 provinces containing data collected through different public CSV datasets, transformed into graphs.
+This project is part of the Open Linked Big Data class taught at Universidad Politécnica de Madrid 🌞 offered by prof. Raúl García-Castro and prof. Óscar Corcho of the Ontology Engineering Group
+
 
 Authors:  Filippo Calzavara ([@philosss](https://github.com/philosss)) and Cesare Curcio ([@Caesarc95](https://github.com/Caesarc95))
 
@@ -33,5 +38,5 @@ Make sure npm is running on port 3000
 - [Font Beredith](https://www.dafont.com/es/beredith.font)
 
 <p align="center">
-<a href="http://upm.es/"><img src="https://github.com/philosss/Ciudadpedia/blob/master/graphics/images/upm.png" width="300px"></a>
+<a href="http://upm.es/"><img src="https://github.com/philosss/Provincepedia/blob/master/graphics/images/upm.png" width="300px"></a>
 </p>
