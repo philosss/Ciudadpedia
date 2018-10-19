@@ -24,12 +24,6 @@
     rdfs:range :Province .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#of
-:of rdf:type owl:ObjectProperty ;
-    rdfs:domain :County_Seat ;
-    rdfs:range :Province .
-
-
 ###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#reports
 :reports rdf:type owl:ObjectProperty ;
          rdfs:domain :Administration_entity ;
@@ -67,6 +61,12 @@
             rdfs:range xsd:int .
 
 
+###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Total_province_debt_amount
+:Total_province_debt_amount rdf:type owl:DatatypeProperty ;
+                            rdfs:domain :Province ;
+                            rdfs:range xsd:int .
+
+
 #################################################################
 #    Classes
 #################################################################
@@ -83,11 +83,6 @@
 ###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#City
 :City rdf:type owl:Class ;
       rdfs:subClassOf :Administration_entity .
-
-
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#County_Seat
-:County_Seat rdf:type owl:Class ;
-             rdfs:subClassOf :City .
 
 
 ###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Crime
