@@ -1,1753 +1,585 @@
-TERRITORIO;TIPOLOGÍA PENAL;2015;2016
-ANDALUCÍA;1.-DELITOS Y FALTAS (EU);258032;252684
-ANDALUCÍA;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);48;49
-ANDALUCÍA;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);5423;5686
-ANDALUCÍA;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);13571;13945
-ANDALUCÍA;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);6669;6600
-ANDALUCÍA;6.-TRÁFICO DE DROGAS (EU);2469;2444
-ANDALUCÍA;7.-DAÑOS;25514;25882
-ANDALUCÍA;8.-HURTOS;84504;84445
-Provincia de Almería;1.-DELITOS Y FALTAS (EU);23562;23277
-Provincia de Almería;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);4;5
-Provincia de Almería;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);511;492
-Provincia de Almería;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1974;2067
-Provincia de Almería;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);505;497
-Provincia de Almería;6.-TRÁFICO DE DROGAS (EU);187;206
-Provincia de Almería;7.-DAÑOS;2732;2990
-Provincia de Almería;8.-HURTOS;6506;6165
-Municipio de Almería;1.-DELITOS Y FALTAS (EU);7055;6544
-Municipio de Almería;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Almería;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);236;170
-Municipio de Almería;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);424;349
-Municipio de Almería;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);206;225
-Municipio de Almería;6.-TRÁFICO DE DROGAS (EU);50;61
-Municipio de Almería;7.-DAÑOS;801;859
-Municipio de Almería;8.-HURTOS;2238;2020
-Municipio de Roquetas de Mar;1.-DELITOS Y FALTAS (EU);4454;4690
-Municipio de Roquetas de Mar;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Roquetas de Mar;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);103;133
-Municipio de Roquetas de Mar;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);406;421
-Municipio de Roquetas de Mar;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);73;81
-Municipio de Roquetas de Mar;6.-TRÁFICO DE DROGAS (EU);37;32
-Municipio de Roquetas de Mar;7.-DAÑOS;454;584
-Municipio de Roquetas de Mar;8.-HURTOS;1401;1390
-Municipio de Ejido (El);1.-DELITOS Y FALTAS (EU);2901;2900
-Municipio de Ejido (El);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Municipio de Ejido (El);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);66;69
-Municipio de Ejido (El);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);162;241
-Municipio de Ejido (El);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);46;41
-Municipio de Ejido (El);6.-TRÁFICO DE DROGAS (EU);12;18
-Municipio de Ejido (El);7.-DAÑOS;368;395
-Municipio de Ejido (El);8.-HURTOS;715;685
-Provincia de Cádiz;1.-DELITOS Y FALTAS (EU);41455;38356
-Provincia de Cádiz;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);8;9
-Provincia de Cádiz;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);720;678
-Provincia de Cádiz;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1829;1614
-Provincia de Cádiz;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);1361;1282
-Provincia de Cádiz;6.-TRÁFICO DE DROGAS (EU);760;569
-Provincia de Cádiz;7.-DAÑOS;4441;4228
-Provincia de Cádiz;8.-HURTOS;13350;12708
-Municipio de Algeciras;1.-DELITOS Y FALTAS (EU);4429;3672
-Municipio de Algeciras;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;3
-Municipio de Algeciras;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);74;76
-Municipio de Algeciras;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);162;136
-Municipio de Algeciras;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);144;102
-Municipio de Algeciras;6.-TRÁFICO DE DROGAS (EU);373;244
-Municipio de Algeciras;7.-DAÑOS;430;326
-Municipio de Algeciras;8.-HURTOS;1093;908
-Municipio de Cádiz;1.-DELITOS Y FALTAS (EU);4703;4339
-Municipio de Cádiz;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Cádiz;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);66;67
-Municipio de Cádiz;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);54;37
-Municipio de Cádiz;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);202;232
-Municipio de Cádiz;6.-TRÁFICO DE DROGAS (EU);61;32
-Municipio de Cádiz;7.-DAÑOS;376;367
-Municipio de Cádiz;8.-HURTOS;2000;1915
-Municipio de Chiclana de la Frontera;1.-DELITOS Y FALTAS (EU);2394;2614
-Municipio de Chiclana de la Frontera;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;1
-Municipio de Chiclana de la Frontera;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);39;28
-Municipio de Chiclana de la Frontera;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);378;354
-Municipio de Chiclana de la Frontera;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);46;69
-Municipio de Chiclana de la Frontera;6.-TRÁFICO DE DROGAS (EU);16;13
-Municipio de Chiclana de la Frontera;7.-DAÑOS;281;330
-Municipio de Chiclana de la Frontera;8.-HURTOS;603;682
-Municipio de Jerez de la Frontera;1.-DELITOS Y FALTAS (EU);8306;7453
-Municipio de Jerez de la Frontera;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Jerez de la Frontera;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);191;196
-Municipio de Jerez de la Frontera;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);202;169
-Municipio de Jerez de la Frontera;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);263;191
-Municipio de Jerez de la Frontera;6.-TRÁFICO DE DROGAS (EU);27;33
-Municipio de Jerez de la Frontera;7.-DAÑOS;861;789
-Municipio de Jerez de la Frontera;8.-HURTOS;3069;2850
-Municipio de Línea de la Concepción (La);1.-DELITOS Y FALTAS (EU);2456;1953
-Municipio de Línea de la Concepción (La);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Municipio de Línea de la Concepción (La);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);63;48
-Municipio de Línea de la Concepción (La);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);85;47
-Municipio de Línea de la Concepción (La);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);90;83
-Municipio de Línea de la Concepción (La);6.-TRÁFICO DE DROGAS (EU);49;51
-Municipio de Línea de la Concepción (La);7.-DAÑOS;274;225
-Municipio de Línea de la Concepción (La);8.-HURTOS;559;448
-Municipio de Puerto de Santa María (El);1.-DELITOS Y FALTAS (EU);3278;3040
-Municipio de Puerto de Santa María (El);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Municipio de Puerto de Santa María (El);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);58;48
-Municipio de Puerto de Santa María (El);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);94;55
-Municipio de Puerto de Santa María (El);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);89;78
-Municipio de Puerto de Santa María (El);6.-TRÁFICO DE DROGAS (EU);36;25
-Municipio de Puerto de Santa María (El);7.-DAÑOS;470;435
-Municipio de Puerto de Santa María (El);8.-HURTOS;1222;1085
-Municipio de San Fernando;1.-DELITOS Y FALTAS (EU);2579;2599
-Municipio de San Fernando;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de San Fernando;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);29;29
-Municipio de San Fernando;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);54;66
-Municipio de San Fernando;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);114;130
-Municipio de San Fernando;6.-TRÁFICO DE DROGAS (EU);19;13
-Municipio de San Fernando;7.-DAÑOS;302;286
-Municipio de San Fernando;8.-HURTOS;939;968
-Municipio de Sanlúcar de Barrameda;1.-DELITOS Y FALTAS (EU);1935;1960
-Municipio de Sanlúcar de Barrameda;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Sanlúcar de Barrameda;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);57;52
-Municipio de Sanlúcar de Barrameda;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);87;97
-Municipio de Sanlúcar de Barrameda;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);97;96
-Municipio de Sanlúcar de Barrameda;6.-TRÁFICO DE DROGAS (EU);5;12
-Municipio de Sanlúcar de Barrameda;7.-DAÑOS;236;280
-Municipio de Sanlúcar de Barrameda;8.-HURTOS;721;723
-Provincia de Córdoba;1.-DELITOS Y FALTAS (EU);19586;18218
-Provincia de Córdoba;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;0
-Provincia de Córdoba;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);382;392
-Provincia de Córdoba;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);875;904
-Provincia de Córdoba;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);290;323
-Provincia de Córdoba;6.-TRÁFICO DE DROGAS (EU);94;140
-Provincia de Córdoba;7.-DAÑOS;1980;1849
-Provincia de Córdoba;8.-HURTOS;6162;5897
-Municipio de Córdoba;1.-DELITOS Y FALTAS (EU);11640;10637
-Municipio de Córdoba;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Córdoba;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);299;307
-Municipio de Córdoba;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);344;326
-Municipio de Córdoba;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);185;200
-Municipio de Córdoba;6.-TRÁFICO DE DROGAS (EU);47;86
-Municipio de Córdoba;7.-DAÑOS;1143;1089
-Municipio de Córdoba;8.-HURTOS;4083;4087
-Provincia de Granada;1.-DELITOS Y FALTAS (EU);24497;24279
-Provincia de Granada;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);5;4
-Provincia de Granada;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);542;527
-Provincia de Granada;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1473;1684
-Provincia de Granada;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);625;652
-Provincia de Granada;6.-TRÁFICO DE DROGAS (EU);379;395
-Provincia de Granada;7.-DAÑOS;2623;2604
-Provincia de Granada;8.-HURTOS;7669;7718
-Municipio de Granada;1.-DELITOS Y FALTAS (EU);9268;9486
-Municipio de Granada;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Granada;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);295;308
-Municipio de Granada;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);322;364
-Municipio de Granada;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);269;238
-Municipio de Granada;6.-TRÁFICO DE DROGAS (EU);102;79
-Municipio de Granada;7.-DAÑOS;816;856
-Municipio de Granada;8.-HURTOS;3787;4153
-Municipio de Motril;1.-DELITOS Y FALTAS (EU);1986;1825
-Municipio de Motril;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Motril;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);38;33
-Municipio de Motril;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);74;144
-Municipio de Motril;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);36;59
-Municipio de Motril;6.-TRÁFICO DE DROGAS (EU);35;29
-Municipio de Motril;7.-DAÑOS;212;224
-Municipio de Motril;8.-HURTOS;546;499
-Provincia de Huelva;1.-DELITOS Y FALTAS (EU);14894;15327
-Provincia de Huelva;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;6
-Provincia de Huelva;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);265;255
-Provincia de Huelva;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1243;1129
-Provincia de Huelva;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);259;278
-Provincia de Huelva;6.-TRÁFICO DE DROGAS (EU);116;102
-Provincia de Huelva;7.-DAÑOS;1125;1304
-Provincia de Huelva;8.-HURTOS;4293;4553
-Municipio de Huelva;1.-DELITOS Y FALTAS (EU);5615;5334
-Municipio de Huelva;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Huelva;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);123;126
-Municipio de Huelva;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);135;88
-Municipio de Huelva;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);87;54
-Municipio de Huelva;6.-TRÁFICO DE DROGAS (EU);36;32
-Municipio de Huelva;7.-DAÑOS;550;532
-Municipio de Huelva;8.-HURTOS;2231;2206
-Provincia de Jaén;1.-DELITOS Y FALTAS (EU);12872;12572
-Provincia de Jaén;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);4;1
-Provincia de Jaén;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);267;253
-Provincia de Jaén;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);709;735
-Provincia de Jaén;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);282;284
-Provincia de Jaén;6.-TRÁFICO DE DROGAS (EU);63;70
-Provincia de Jaén;7.-DAÑOS;1567;1505
-Provincia de Jaén;8.-HURTOS;3365;3226
-Municipio de Jaén;1.-DELITOS Y FALTAS (EU);3486;3522
-Municipio de Jaén;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Jaén;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);141;130
-Municipio de Jaén;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);145;181
-Municipio de Jaén;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);136;130
-Municipio de Jaén;6.-TRÁFICO DE DROGAS (EU);4;20
-Municipio de Jaén;7.-DAÑOS;456;427
-Municipio de Jaén;8.-HURTOS;1048;1054
-Municipio de Linares;1.-DELITOS Y FALTAS (EU);1461;1436
-Municipio de Linares;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Linares;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);50;35
-Municipio de Linares;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);63;68
-Municipio de Linares;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);32;41
-Municipio de Linares;6.-TRÁFICO DE DROGAS (EU);6;12
-Municipio de Linares;7.-DAÑOS;196;199
-Municipio de Linares;8.-HURTOS;483;466
-Provincia de Málaga;1.-DELITOS Y FALTAS (EU);58787;60373
-Provincia de Málaga;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);13;13
-Provincia de Málaga;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1108;1269
-Provincia de Málaga;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);2840;3272
-Provincia de Málaga;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);1874;1742
-Provincia de Málaga;6.-TRÁFICO DE DROGAS (EU);625;655
-Provincia de Málaga;7.-DAÑOS;5384;5811
-Provincia de Málaga;8.-HURTOS;22115;23171
-Municipio de Benalmádena;1.-DELITOS Y FALTAS (EU);3298;2924
-Municipio de Benalmádena;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Benalmádena;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);33;48
-Municipio de Benalmádena;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);125;149
-Municipio de Benalmádena;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);105;74
-Municipio de Benalmádena;6.-TRÁFICO DE DROGAS (EU);19;24
-Municipio de Benalmádena;7.-DAÑOS;379;345
-Municipio de Benalmádena;8.-HURTOS;1247;1115
-Municipio de Estepona;1.-DELITOS Y FALTAS (EU);2624;2704
-Municipio de Estepona;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;2
-Municipio de Estepona;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);35;27
-Municipio de Estepona;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);193;183
-Municipio de Estepona;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);90;74
-Municipio de Estepona;6.-TRÁFICO DE DROGAS (EU);40;35
-Municipio de Estepona;7.-DAÑOS;289;324
-Municipio de Estepona;8.-HURTOS;788;816
-Municipio de Fuengirola;1.-DELITOS Y FALTAS (EU);4585;4112
-Municipio de Fuengirola;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Fuengirola;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);118;91
-Municipio de Fuengirola;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);127;87
-Municipio de Fuengirola;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);147;120
-Municipio de Fuengirola;6.-TRÁFICO DE DROGAS (EU);66;75
-Municipio de Fuengirola;7.-DAÑOS;400;351
-Municipio de Fuengirola;8.-HURTOS;2099;1871
-Municipio de Málaga;1.-DELITOS Y FALTAS (EU);19446;19258
-Municipio de Málaga;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;6
-Municipio de Málaga;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);432;564
-Municipio de Málaga;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);423;581
-Municipio de Málaga;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);641;595
-Municipio de Málaga;6.-TRÁFICO DE DROGAS (EU);206;210
-Municipio de Málaga;7.-DAÑOS;1306;1388
-Municipio de Málaga;8.-HURTOS;8718;8804
-Municipio de Marbella;1.-DELITOS Y FALTAS (EU);8338;9953
-Municipio de Marbella;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;0
-Municipio de Marbella;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);181;188
-Municipio de Marbella;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);426;509
-Municipio de Marbella;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);297;355
-Municipio de Marbella;6.-TRÁFICO DE DROGAS (EU);64;73
-Municipio de Marbella;7.-DAÑOS;699;1014
-Municipio de Marbella;8.-HURTOS;3177;3942
-Municipio de Mijas;1.-DELITOS Y FALTAS (EU);3892;3822
-Municipio de Mijas;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);4;1
-Municipio de Mijas;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);52;45
-Municipio de Mijas;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);424;415
-Municipio de Mijas;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);184;167
-Municipio de Mijas;6.-TRÁFICO DE DROGAS (EU);27;33
-Municipio de Mijas;7.-DAÑOS;450;447
-Municipio de Mijas;8.-HURTOS;1158;1156
-Municipio de Vélez-Málaga;1.-DELITOS Y FALTAS (EU);2120;2169
-Municipio de Vélez-Málaga;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Vélez-Málaga;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);22;36
-Municipio de Vélez-Málaga;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);92;76
-Municipio de Vélez-Málaga;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);49;23
-Municipio de Vélez-Málaga;6.-TRÁFICO DE DROGAS (EU);41;32
-Municipio de Vélez-Málaga;7.-DAÑOS;273;235
-Municipio de Vélez-Málaga;8.-HURTOS;706;805
-Municipio de Torremolinos;1.-DELITOS Y FALTAS (EU);3933;3854
-Municipio de Torremolinos;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;2
-Municipio de Torremolinos;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);79;81
-Municipio de Torremolinos;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);97;110
-Municipio de Torremolinos;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);80;78
-Municipio de Torremolinos;6.-TRÁFICO DE DROGAS (EU);40;56
-Municipio de Torremolinos;7.-DAÑOS;363;347
-Municipio de Torremolinos;8.-HURTOS;1601;1607
-Provincia de Sevilla;1.-DELITOS Y FALTAS (EU);62379;60282
-Provincia de Sevilla;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);9;11
-Provincia de Sevilla;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1628;1820
-Provincia de Sevilla;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);2628;2540
-Provincia de Sevilla;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);1473;1542
-Provincia de Sevilla;6.-TRÁFICO DE DROGAS (EU);245;307
-Provincia de Sevilla;7.-DAÑOS;5662;5591
-Provincia de Sevilla;8.-HURTOS;21044;21007
-Municipio de Alcalá de Guadaíra;1.-DELITOS Y FALTAS (EU);3020;2863
-Municipio de Alcalá de Guadaíra;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Municipio de Alcalá de Guadaíra;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);39;31
-Municipio de Alcalá de Guadaíra;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);180;158
-Municipio de Alcalá de Guadaíra;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);61;63
-Municipio de Alcalá de Guadaíra;6.-TRÁFICO DE DROGAS (EU);10;9
-Municipio de Alcalá de Guadaíra;7.-DAÑOS;319;309
-Municipio de Alcalá de Guadaíra;8.-HURTOS;893;934
-Municipio de Dos Hermanas;1.-DELITOS Y FALTAS (EU);3772;3244
-Municipio de Dos Hermanas;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Dos Hermanas;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);94;77
-Municipio de Dos Hermanas;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);107;115
-Municipio de Dos Hermanas;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);97;86
-Municipio de Dos Hermanas;6.-TRÁFICO DE DROGAS (EU);15;30
-Municipio de Dos Hermanas;7.-DAÑOS;452;397
-Municipio de Dos Hermanas;8.-HURTOS;1241;1053
-Municipio de Sevilla;1.-DELITOS Y FALTAS (EU);33330;32624
-Municipio de Sevilla;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);4;7
-Municipio de Sevilla;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1190;1338
-Municipio de Sevilla;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);734;741
-Municipio de Sevilla;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);861;902
-Municipio de Sevilla;6.-TRÁFICO DE DROGAS (EU);96;103
-Municipio de Sevilla;7.-DAÑOS;2989;3117
-Municipio de Sevilla;8.-HURTOS;13278;13869
-Municipio de Utrera;1.-DELITOS Y FALTAS (EU);2015;1666
-Municipio de Utrera;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Utrera;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);23;15
-Municipio de Utrera;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);121;52
-Municipio de Utrera;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);47;40
-Municipio de Utrera;6.-TRÁFICO DE DROGAS (EU);7;11
-Municipio de Utrera;7.-DAÑOS;202;169
-Municipio de Utrera;8.-HURTOS;591;429
-ARAGÓN;1.-DELITOS Y FALTAS (EU);28441;28206
-ARAGÓN;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);7;8
-ARAGÓN;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);543;691
-ARAGÓN;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1299;1372
-ARAGÓN;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);263;256
-ARAGÓN;6.-TRÁFICO DE DROGAS (EU);215;179
-ARAGÓN;7.-DAÑOS;3983;3861
-ARAGÓN;8.-HURTOS;8938;8720
-Provincia de Huesca;1.-DELITOS Y FALTAS (EU);3873;3805
-Provincia de Huesca;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Provincia de Huesca;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);23;42
-Provincia de Huesca;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);169;153
-Provincia de Huesca;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);35;31
-Provincia de Huesca;6.-TRÁFICO DE DROGAS (EU);33;34
-Provincia de Huesca;7.-DAÑOS;530;573
-Provincia de Huesca;8.-HURTOS;1088;974
-Municipio de Huesca;1.-DELITOS Y FALTAS (EU);852;857
-Municipio de Huesca;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Huesca;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);4;9
-Municipio de Huesca;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);24;20
-Municipio de Huesca;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);5;5
-Municipio de Huesca;6.-TRÁFICO DE DROGAS (EU);6;8
-Municipio de Huesca;7.-DAÑOS;116;115
-Municipio de Huesca;8.-HURTOS;274;281
-Provincia de Teruel;1.-DELITOS Y FALTAS (EU);1965;1887
-Provincia de Teruel;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;0
-Provincia de Teruel;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);20;16
-Provincia de Teruel;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);127;111
-Provincia de Teruel;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);15;14
-Provincia de Teruel;6.-TRÁFICO DE DROGAS (EU);16;14
-Provincia de Teruel;7.-DAÑOS;339;288
-Provincia de Teruel;8.-HURTOS;418;437
-Municipio de Teruel;1.-DELITOS Y FALTAS (EU);492;465
-Municipio de Teruel;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Teruel;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);7;8
-Municipio de Teruel;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);15;19
-Municipio de Teruel;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);6;3
-Municipio de Teruel;6.-TRÁFICO DE DROGAS (EU);10;4
-Municipio de Teruel;7.-DAÑOS;74;63
-Municipio de Teruel;8.-HURTOS;147;154
-Provincia de Zaragoza;1.-DELITOS Y FALTAS (EU);22603;22514
-Provincia de Zaragoza;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);4;8
-Provincia de Zaragoza;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);500;633
-Provincia de Zaragoza;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1003;1108
-Provincia de Zaragoza;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);213;211
-Provincia de Zaragoza;6.-TRÁFICO DE DROGAS (EU);166;131
-Provincia de Zaragoza;7.-DAÑOS;3114;3000
-Provincia de Zaragoza;8.-HURTOS;7432;7309
-Municipio de Zaragoza;1.-DELITOS Y FALTAS (EU);16368;16320
-Municipio de Zaragoza;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;6
-Municipio de Zaragoza;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);451;576
-Municipio de Zaragoza;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);504;592
-Municipio de Zaragoza;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);120;137
-Municipio de Zaragoza;6.-TRÁFICO DE DROGAS (EU);122;93
-Municipio de Zaragoza;7.-DAÑOS;2173;2098
-Municipio de Zaragoza;8.-HURTOS;6019;6109
-ASTURIAS (PRINCIPADO DE);1.-DELITOS Y FALTAS (EU);20194;19711
-ASTURIAS (PRINCIPADO DE);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;4
-ASTURIAS (PRINCIPADO DE);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);463;417
-ASTURIAS (PRINCIPADO DE);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);669;794
-ASTURIAS (PRINCIPADO DE);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);321;279
-ASTURIAS (PRINCIPADO DE);6.-TRÁFICO DE DROGAS (EU);125;78
-ASTURIAS (PRINCIPADO DE);7.-DAÑOS;2352;2241
-ASTURIAS (PRINCIPADO DE);8.-HURTOS;6162;5768
-Municipio de Avilés;1.-DELITOS Y FALTAS (EU);1496;1537
-Municipio de Avilés;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Avilés;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);33;44
-Municipio de Avilés;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);41;73
-Municipio de Avilés;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);66;45
-Municipio de Avilés;6.-TRÁFICO DE DROGAS (EU);19;3
-Municipio de Avilés;7.-DAÑOS;189;186
-Municipio de Avilés;8.-HURTOS;431;470
-Municipio de Gijón;1.-DELITOS Y FALTAS (EU);5164;5408
-Municipio de Gijón;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Municipio de Gijón;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);138;107
-Municipio de Gijón;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);144;149
-Municipio de Gijón;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);71;51
-Municipio de Gijón;6.-TRÁFICO DE DROGAS (EU);28;23
-Municipio de Gijón;7.-DAÑOS;532;571
-Municipio de Gijón;8.-HURTOS;1528;1709
-Municipio de Oviedo;1.-DELITOS Y FALTAS (EU);5050;4573
-Municipio de Oviedo;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Oviedo;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);192;199
-Municipio de Oviedo;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);118;149
-Municipio de Oviedo;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);77;68
-Municipio de Oviedo;6.-TRÁFICO DE DROGAS (EU);28;8
-Municipio de Oviedo;7.-DAÑOS;436;421
-Municipio de Oviedo;8.-HURTOS;2118;1703
-Municipio de Siero;1.-DELITOS Y FALTAS (EU);1320;1176
-Municipio de Siero;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Siero;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);29;13
-Municipio de Siero;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);47;57
-Municipio de Siero;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);15;20
-Municipio de Siero;6.-TRÁFICO DE DROGAS (EU);3;2
-Municipio de Siero;7.-DAÑOS;149;114
-Municipio de Siero;8.-HURTOS;471;416
-BALEARS (ILLES);1.-DELITOS Y FALTAS (EU);53208;53775
-BALEARS (ILLES);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);5;8
-BALEARS (ILLES);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);879;918
-BALEARS (ILLES);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);2604;2456
-BALEARS (ILLES);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);1292;1442
-BALEARS (ILLES);6.-TRÁFICO DE DROGAS (EU);366;416
-BALEARS (ILLES);7.-DAÑOS;3790;3873
-BALEARS (ILLES);8.-HURTOS;22906;22920
-Isla de Eivissa;1.-DELITOS Y FALTAS (EU);12727;12105
-Isla de Eivissa;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Isla de Eivissa;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);243;233
-Isla de Eivissa;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);563;568
-Isla de Eivissa;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);523;509
-Isla de Eivissa;6.-TRÁFICO DE DROGAS (EU);155;183
-Isla de Eivissa;7.-DAÑOS;659;685
-Isla de Eivissa;8.-HURTOS;6606;5752
-Municipio de Eivissa;1.-DELITOS Y FALTAS (EU);3249;3058
-Municipio de Eivissa;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Eivissa;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);51;48
-Municipio de Eivissa;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);53;50
-Municipio de Eivissa;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);209;168
-Municipio de Eivissa;6.-TRÁFICO DE DROGAS (EU);65;53
-Municipio de Eivissa;7.-DAÑOS;146;142
-Municipio de Eivissa;8.-HURTOS;1544;1414
-Isla de Formentera;1.-DELITOS Y FALTAS (EU);651;667
-Isla de Formentera;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Isla de Formentera;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);3;3
-Isla de Formentera;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);130;115
-Isla de Formentera;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);73;80
-Isla de Formentera;6.-TRÁFICO DE DROGAS (EU);6;4
-Isla de Formentera;7.-DAÑOS;67;68
-Isla de Formentera;8.-HURTOS;171;158
-Isla de Mallorca;1.-DELITOS Y FALTAS (EU);37643;38672
-Isla de Mallorca;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);4;6
-Isla de Mallorca;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);616;653
-Isla de Mallorca;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1822;1660
-Isla de Mallorca;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);671;829
-Isla de Mallorca;6.-TRÁFICO DE DROGAS (EU);192;216
-Isla de Mallorca;7.-DAÑOS;2837;2877
-Isla de Mallorca;8.-HURTOS;15454;16213
-Municipio de Calvià;1.-DELITOS Y FALTAS (EU);4453;4829
-Municipio de Calvià;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;2
-Municipio de Calvià;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);150;154
-Municipio de Calvià;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);221;241
-Municipio de Calvià;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);37;42
-Municipio de Calvià;6.-TRÁFICO DE DROGAS (EU);40;55
-Municipio de Calvià;7.-DAÑOS;274;318
-Municipio de Calvià;8.-HURTOS;2122;2291
-Municipio de Palma;1.-DELITOS Y FALTAS (EU);20292;20065
-Municipio de Palma;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);4;1
-Municipio de Palma;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);365;376
-Municipio de Palma;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);464;393
-Municipio de Palma;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);459;524
-Municipio de Palma;6.-TRÁFICO DE DROGAS (EU);75;98
-Municipio de Palma;7.-DAÑOS;1444;1367
-Municipio de Palma;8.-HURTOS;8607;8896
-Isla de Menorca;1.-DELITOS Y FALTAS (EU);2187;2331
-Isla de Menorca;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Isla de Menorca;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);17;29
-Isla de Menorca;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);89;113
-Isla de Menorca;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);25;24
-Isla de Menorca;6.-TRÁFICO DE DROGAS (EU);13;13
-Isla de Menorca;7.-DAÑOS;227;243
-Isla de Menorca;8.-HURTOS;675;797
-CANARIAS;1.-DELITOS Y FALTAS (EU);67416;66330
-CANARIAS;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);12;14
-CANARIAS;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1123;1182
-CANARIAS;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);2497;2576
-CANARIAS;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);1268;1209
-CANARIAS;6.-TRÁFICO DE DROGAS (EU);464;469
-CANARIAS;7.-DAÑOS;5367;5399
-CANARIAS;8.-HURTOS;22636;23286
-Provincia de Palmas (Las);1.-DELITOS Y FALTAS (EU);35409;34876
-Provincia de Palmas (Las);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);10;8
-Provincia de Palmas (Las);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);551;594
-Provincia de Palmas (Las);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1086;1164
-Provincia de Palmas (Las);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);647;594
-Provincia de Palmas (Las);6.-TRÁFICO DE DROGAS (EU);269;308
-Provincia de Palmas (Las);7.-DAÑOS;3049;3066
-Provincia de Palmas (Las);8.-HURTOS;11197;11297
-Isla de Fuerteventura;1.-DELITOS Y FALTAS (EU);3733;3861
-Isla de Fuerteventura;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Isla de Fuerteventura;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);54;61
-Isla de Fuerteventura;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);168;202
-Isla de Fuerteventura;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);62;36
-Isla de Fuerteventura;6.-TRÁFICO DE DROGAS (EU);31;25
-Isla de Fuerteventura;7.-DAÑOS;327;337
-Isla de Fuerteventura;8.-HURTOS;1144;1180
-Isla de Gran Canaria;1.-DELITOS Y FALTAS (EU);26579;25812
-Isla de Gran Canaria;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);7;7
-Isla de Gran Canaria;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);427;419
-Isla de Gran Canaria;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);692;671
-Isla de Gran Canaria;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);483;476
-Isla de Gran Canaria;6.-TRÁFICO DE DROGAS (EU);211;248
-Isla de Gran Canaria;7.-DAÑOS;2245;2250
-Isla de Gran Canaria;8.-HURTOS;8531;8534
-Municipio de Palmas de Gran Canaria (Las);1.-DELITOS Y FALTAS (EU);12125;11782
-Municipio de Palmas de Gran Canaria (Las);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;1
-Municipio de Palmas de Gran Canaria (Las);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);248;248
-Municipio de Palmas de Gran Canaria (Las);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);248;248
-Municipio de Palmas de Gran Canaria (Las);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);270;228
-Municipio de Palmas de Gran Canaria (Las);6.-TRÁFICO DE DROGAS (EU);149;160
-Municipio de Palmas de Gran Canaria (Las);7.-DAÑOS;1008;1015
-Municipio de Palmas de Gran Canaria (Las);8.-HURTOS;4243;4151
-Municipio de San Bartolomé de Tirajana;1.-DELITOS Y FALTAS (EU);3755;3733
-Municipio de San Bartolomé de Tirajana;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;2
-Municipio de San Bartolomé de Tirajana;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);73;70
-Municipio de San Bartolomé de Tirajana;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);70;81
-Municipio de San Bartolomé de Tirajana;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);48;47
-Municipio de San Bartolomé de Tirajana;6.-TRÁFICO DE DROGAS (EU);25;28
-Municipio de San Bartolomé de Tirajana;7.-DAÑOS;239;259
-Municipio de San Bartolomé de Tirajana;8.-HURTOS;1672;1735
-Municipio de Santa Lucía de Tirajana;1.-DELITOS Y FALTAS (EU);2065;1903
-Municipio de Santa Lucía de Tirajana;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Municipio de Santa Lucía de Tirajana;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);27;29
-Municipio de Santa Lucía de Tirajana;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);78;73
-Municipio de Santa Lucía de Tirajana;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);36;37
-Municipio de Santa Lucía de Tirajana;6.-TRÁFICO DE DROGAS (EU);5;7
-Municipio de Santa Lucía de Tirajana;7.-DAÑOS;191;147
-Municipio de Santa Lucía de Tirajana;8.-HURTOS;525;497
-Municipio de Telde;1.-DELITOS Y FALTAS (EU);3374;3217
-Municipio de Telde;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;1
-Municipio de Telde;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);42;34
-Municipio de Telde;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);107;62
-Municipio de Telde;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);73;86
-Municipio de Telde;6.-TRÁFICO DE DROGAS (EU);18;21
-Municipio de Telde;7.-DAÑOS;280;318
-Municipio de Telde;8.-HURTOS;761;700
-Isla de Lanzarote;1.-DELITOS Y FALTAS (EU);5097;5203
-Isla de Lanzarote;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;0
-Isla de Lanzarote;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);70;114
-Isla de Lanzarote;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);226;291
-Isla de Lanzarote;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);102;82
-Isla de Lanzarote;6.-TRÁFICO DE DROGAS (EU);27;35
-Isla de Lanzarote;7.-DAÑOS;477;479
-Isla de Lanzarote;8.-HURTOS;1522;1583
-Municipio de Arrecife;1.-DELITOS Y FALTAS (EU);1749;2025
-Municipio de Arrecife;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;0
-Municipio de Arrecife;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);33;60
-Municipio de Arrecife;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);51;98
-Municipio de Arrecife;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);68;47
-Municipio de Arrecife;6.-TRÁFICO DE DROGAS (EU);11;20
-Municipio de Arrecife;7.-DAÑOS;216;231
-Municipio de Arrecife;8.-HURTOS;385;534
-Provincia de Santa Cruz de Tenerife;1.-DELITOS Y FALTAS (EU);32007;31454
-Provincia de Santa Cruz de Tenerife;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;6
-Provincia de Santa Cruz de Tenerife;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);572;588
-Provincia de Santa Cruz de Tenerife;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1411;1412
-Provincia de Santa Cruz de Tenerife;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);621;615
-Provincia de Santa Cruz de Tenerife;6.-TRÁFICO DE DROGAS (EU);195;161
-Provincia de Santa Cruz de Tenerife;7.-DAÑOS;2318;2333
-Provincia de Santa Cruz de Tenerife;8.-HURTOS;11439;11989
-Isla de Gomera (La);1.-DELITOS Y FALTAS (EU);233;230
-Isla de Gomera (La);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Isla de Gomera (La);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);0;2
-Isla de Gomera (La);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);3;7
-Isla de Gomera (La);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);2;3
-Isla de Gomera (La);6.-TRÁFICO DE DROGAS (EU);2;7
-Isla de Gomera (La);7.-DAÑOS;39;34
-Isla de Gomera (La);8.-HURTOS;33;46
-Isla de Hierro (El);1.-DELITOS Y FALTAS (EU);102;104
-Isla de Hierro (El);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Isla de Hierro (El);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1;1
-Isla de Hierro (El);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);3;3
-Isla de Hierro (El);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);1;1
-Isla de Hierro (El);6.-TRÁFICO DE DROGAS (EU);0;0
-Isla de Hierro (El);7.-DAÑOS;11;11
-Isla de Hierro (El);8.-HURTOS;23;18
-Isla de Palma (La);1.-DELITOS Y FALTAS (EU);1481;1431
-Isla de Palma (La);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Isla de Palma (La);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);9;8
-Isla de Palma (La);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);80;103
-Isla de Palma (La);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);12;16
-Isla de Palma (La);6.-TRÁFICO DE DROGAS (EU);10;11
-Isla de Palma (La);7.-DAÑOS;177;140
-Isla de Palma (La);8.-HURTOS;374;394
-Isla de Tenerife;1.-DELITOS Y FALTAS (EU);30191;29689
-Isla de Tenerife;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;6
-Isla de Tenerife;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);562;577
-Isla de Tenerife;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1325;1299
-Isla de Tenerife;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);606;595
-Isla de Tenerife;6.-TRÁFICO DE DROGAS (EU);183;143
-Isla de Tenerife;7.-DAÑOS;2091;2148
-Isla de Tenerife;8.-HURTOS;11009;11531
-Municipio de Arona;1.-DELITOS Y FALTAS (EU);4215;4022
-Municipio de Arona;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Arona;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);108;89
-Municipio de Arona;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);198;245
-Municipio de Arona;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);94;75
-Municipio de Arona;6.-TRÁFICO DE DROGAS (EU);29;22
-Municipio de Arona;7.-DAÑOS;212;231
-Municipio de Arona;8.-HURTOS;1805;1800
-Municipio de San Cristóbal de la Laguna;1.-DELITOS Y FALTAS (EU);4434;4169
-Municipio de San Cristóbal de la Laguna;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de San Cristóbal de la Laguna;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);113;101
-Municipio de San Cristóbal de la Laguna;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);203;164
-Municipio de San Cristóbal de la Laguna;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);122;96
-Municipio de San Cristóbal de la Laguna;6.-TRÁFICO DE DROGAS (EU);39;24
-Municipio de San Cristóbal de la Laguna;7.-DAÑOS;379;349
-Municipio de San Cristóbal de la Laguna;8.-HURTOS;1293;1299
-Municipio de Santa Cruz de Tenerife;1.-DELITOS Y FALTAS (EU);7901;6901
-Municipio de Santa Cruz de Tenerife;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;3
-Municipio de Santa Cruz de Tenerife;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);192;187
-Municipio de Santa Cruz de Tenerife;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);236;230
-Municipio de Santa Cruz de Tenerife;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);151;184
-Municipio de Santa Cruz de Tenerife;6.-TRÁFICO DE DROGAS (EU);43;28
-Municipio de Santa Cruz de Tenerife;7.-DAÑOS;587;609
-Municipio de Santa Cruz de Tenerife;8.-HURTOS;2823;2603
-CANTABRIA;1.-DELITOS Y FALTAS (EU);12559;12739
-CANTABRIA;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;0
-CANTABRIA;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);208;161
-CANTABRIA;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);487;716
-CANTABRIA;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);182;175
-CANTABRIA;6.-TRÁFICO DE DROGAS (EU);94;71
-CANTABRIA;7.-DAÑOS;1272;1476
-CANTABRIA;8.-HURTOS;3874;3865
-Municipio de Santander;1.-DELITOS Y FALTAS (EU);4627;4499
-Municipio de Santander;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Santander;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);118;88
-Municipio de Santander;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);129;171
-Municipio de Santander;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);85;59
-Municipio de Santander;6.-TRÁFICO DE DROGAS (EU);29;24
-Municipio de Santander;7.-DAÑOS;465;445
-Municipio de Santander;8.-HURTOS;1699;1676
-Municipio de Torrelavega;1.-DELITOS Y FALTAS (EU);1182;1186
-Municipio de Torrelavega;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Torrelavega;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);18;19
-Municipio de Torrelavega;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);45;54
-Municipio de Torrelavega;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);15;12
-Municipio de Torrelavega;6.-TRÁFICO DE DROGAS (EU);3;2
-Municipio de Torrelavega;7.-DAÑOS;96;129
-Municipio de Torrelavega;8.-HURTOS;426;423
-CASTILLA Y LEÓN;1.-DELITOS Y FALTAS (EU);56151;54316
-CASTILLA Y LEÓN;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);6;6
-CASTILLA Y LEÓN;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);689;679
-CASTILLA Y LEÓN;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);2506;2612
-CASTILLA Y LEÓN;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);555;672
-CASTILLA Y LEÓN;6.-TRÁFICO DE DROGAS (EU);240;259
-CASTILLA Y LEÓN;7.-DAÑOS;8071;8103
-CASTILLA Y LEÓN;8.-HURTOS;18340;16932
-Provincia de Ávila;1.-DELITOS Y FALTAS (EU);3728;3630
-Provincia de Ávila;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Provincia de Ávila;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);41;33
-Provincia de Ávila;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);352;327
-Provincia de Ávila;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);29;30
-Provincia de Ávila;6.-TRÁFICO DE DROGAS (EU);18;17
-Provincia de Ávila;7.-DAÑOS;649;632
-Provincia de Ávila;8.-HURTOS;794;698
-Municipio de Ávila;1.-DELITOS Y FALTAS (EU);1060;1108
-Municipio de Ávila;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Ávila;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);15;12
-Municipio de Ávila;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);38;31
-Municipio de Ávila;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);7;11
-Municipio de Ávila;6.-TRÁFICO DE DROGAS (EU);5;5
-Municipio de Ávila;7.-DAÑOS;183;183
-Municipio de Ávila;8.-HURTOS;312;279
-Provincia de Burgos;1.-DELITOS Y FALTAS (EU);8354;8334
-Provincia de Burgos;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;2
-Provincia de Burgos;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);120;147
-Provincia de Burgos;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);345;310
-Provincia de Burgos;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);84;121
-Provincia de Burgos;6.-TRÁFICO DE DROGAS (EU);34;58
-Provincia de Burgos;7.-DAÑOS;1242;1239
-Provincia de Burgos;8.-HURTOS;2929;2733
-Municipio de Burgos;1.-DELITOS Y FALTAS (EU);4401;4304
-Municipio de Burgos;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Burgos;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);68;97
-Municipio de Burgos;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);117;102
-Municipio de Burgos;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);38;56
-Municipio de Burgos;6.-TRÁFICO DE DROGAS (EU);20;19
-Municipio de Burgos;7.-DAÑOS;586;548
-Municipio de Burgos;8.-HURTOS;1883;1778
-Provincia de León;1.-DELITOS Y FALTAS (EU);11689;11182
-Provincia de León;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;2
-Provincia de León;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);176;185
-Provincia de León;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);571;667
-Provincia de León;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);136;161
-Provincia de León;6.-TRÁFICO DE DROGAS (EU);42;32
-Provincia de León;7.-DAÑOS;1803;1684
-Provincia de León;8.-HURTOS;3722;3442
-Municipio de León;1.-DELITOS Y FALTAS (EU);4606;4457
-Municipio de León;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Municipio de León;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);120;113
-Municipio de León;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);111;144
-Municipio de León;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);53;58
-Municipio de León;6.-TRÁFICO DE DROGAS (EU);6;9
-Municipio de León;7.-DAÑOS;612;638
-Municipio de León;8.-HURTOS;1813;1787
-Municipio de Ponferrada;1.-DELITOS Y FALTAS (EU);1628;1409
-Municipio de Ponferrada;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Ponferrada;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);19;19
-Municipio de Ponferrada;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);62;64
-Municipio de Ponferrada;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);23;28
-Municipio de Ponferrada;6.-TRÁFICO DE DROGAS (EU);8;10
-Municipio de Ponferrada;7.-DAÑOS;265;210
-Municipio de Ponferrada;8.-HURTOS;610;465
-Provincia de Palencia;1.-DELITOS Y FALTAS (EU);2992;2927
-Provincia de Palencia;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Provincia de Palencia;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);40;37
-Provincia de Palencia;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);110;110
-Provincia de Palencia;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);18;38
-Provincia de Palencia;6.-TRÁFICO DE DROGAS (EU);14;11
-Provincia de Palencia;7.-DAÑOS;529;508
-Provincia de Palencia;8.-HURTOS;870;784
-Municipio de Palencia;1.-DELITOS Y FALTAS (EU);1585;1506
-Municipio de Palencia;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Palencia;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);27;19
-Municipio de Palencia;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);45;38
-Municipio de Palencia;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);12;19
-Municipio de Palencia;6.-TRÁFICO DE DROGAS (EU);5;7
-Municipio de Palencia;7.-DAÑOS;336;268
-Municipio de Palencia;8.-HURTOS;507;474
-Provincia de Salamanca;1.-DELITOS Y FALTAS (EU);7506;7289
-Provincia de Salamanca;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;2
-Provincia de Salamanca;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);124;117
-Provincia de Salamanca;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);262;191
-Provincia de Salamanca;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);81;91
-Provincia de Salamanca;6.-TRÁFICO DE DROGAS (EU);44;38
-Provincia de Salamanca;7.-DAÑOS;863;916
-Provincia de Salamanca;8.-HURTOS;2823;2876
-Municipio de Salamanca;1.-DELITOS Y FALTAS (EU);4352;4149
-Municipio de Salamanca;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;2
-Municipio de Salamanca;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);100;90
-Municipio de Salamanca;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);76;68
-Municipio de Salamanca;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);41;50
-Municipio de Salamanca;6.-TRÁFICO DE DROGAS (EU);20;13
-Municipio de Salamanca;7.-DAÑOS;432;423
-Municipio de Salamanca;8.-HURTOS;2002;2066
-Provincia de Segovia;1.-DELITOS Y FALTAS (EU);3368;3339
-Provincia de Segovia;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Provincia de Segovia;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);35;22
-Provincia de Segovia;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);203;259
-Provincia de Segovia;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);27;32
-Provincia de Segovia;6.-TRÁFICO DE DROGAS (EU);18;25
-Provincia de Segovia;7.-DAÑOS;519;567
-Provincia de Segovia;8.-HURTOS;885;710
-Municipio de Segovia;1.-DELITOS Y FALTAS (EU);1231;1175
-Municipio de Segovia;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Segovia;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);11;9
-Municipio de Segovia;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);29;23
-Municipio de Segovia;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);9;6
-Municipio de Segovia;6.-TRÁFICO DE DROGAS (EU);5;6
-Municipio de Segovia;7.-DAÑOS;211;198
-Municipio de Segovia;8.-HURTOS;438;373
-Provincia de Soria;1.-DELITOS Y FALTAS (EU);1730;1750
-Provincia de Soria;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Provincia de Soria;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);17;21
-Provincia de Soria;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);96;106
-Provincia de Soria;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);4;19
-Provincia de Soria;6.-TRÁFICO DE DROGAS (EU);13;10
-Provincia de Soria;7.-DAÑOS;210;287
-Provincia de Soria;8.-HURTOS;488;411
-Municipio de Soria;1.-DELITOS Y FALTAS (EU);870;893
-Municipio de Soria;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Soria;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);8;13
-Municipio de Soria;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);20;35
-Municipio de Soria;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);1;15
-Municipio de Soria;6.-TRÁFICO DE DROGAS (EU);6;8
-Municipio de Soria;7.-DAÑOS;100;122
-Municipio de Soria;8.-HURTOS;307;262
-Provincia de Valladolid;1.-DELITOS Y FALTAS (EU);13334;12473
-Provincia de Valladolid;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Provincia de Valladolid;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);99;89
-Provincia de Valladolid;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);426;513
-Provincia de Valladolid;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);121;134
-Provincia de Valladolid;6.-TRÁFICO DE DROGAS (EU);35;48
-Provincia de Valladolid;7.-DAÑOS;1847;1814
-Provincia de Valladolid;8.-HURTOS;4796;4302
-Municipio de Valladolid;1.-DELITOS Y FALTAS (EU);7530;6815
-Municipio de Valladolid;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Valladolid;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);81;68
-Municipio de Valladolid;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);191;228
-Municipio de Valladolid;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);61;61
-Municipio de Valladolid;6.-TRÁFICO DE DROGAS (EU);23;22
-Municipio de Valladolid;7.-DAÑOS;886;854
-Municipio de Valladolid;8.-HURTOS;3179;2844
-Provincia de Zamora;1.-DELITOS Y FALTAS (EU);3450;3392
-Provincia de Zamora;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Provincia de Zamora;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);37;28
-Provincia de Zamora;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);141;129
-Provincia de Zamora;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);55;46
-Provincia de Zamora;6.-TRÁFICO DE DROGAS (EU);22;20
-Provincia de Zamora;7.-DAÑOS;409;456
-Provincia de Zamora;8.-HURTOS;1033;976
-Municipio de Zamora;1.-DELITOS Y FALTAS (EU);1482;1430
-Municipio de Zamora;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Zamora;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);22;16
-Municipio de Zamora;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);47;41
-Municipio de Zamora;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);35;12
-Municipio de Zamora;6.-TRÁFICO DE DROGAS (EU);9;9
-Municipio de Zamora;7.-DAÑOS;199;212
-Municipio de Zamora;8.-HURTOS;492;489
-CASTILLA - LA MANCHA;1.-DELITOS Y FALTAS (EU);50835;48238
-CASTILLA - LA MANCHA;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);11;10
-CASTILLA - LA MANCHA;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);780;791
-CASTILLA - LA MANCHA;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);4517;4400
-CASTILLA - LA MANCHA;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);921;1109
-CASTILLA - LA MANCHA;6.-TRÁFICO DE DROGAS (EU);272;271
-CASTILLA - LA MANCHA;7.-DAÑOS;6043;5404
-CASTILLA - LA MANCHA;8.-HURTOS;12917;12078
-Provincia de Albacete;1.-DELITOS Y FALTAS (EU);9398;8779
-Provincia de Albacete;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;1
-Provincia de Albacete;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);158;167
-Provincia de Albacete;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);561;516
-Provincia de Albacete;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);138;140
-Provincia de Albacete;6.-TRÁFICO DE DROGAS (EU);71;62
-Provincia de Albacete;7.-DAÑOS;955;870
-Provincia de Albacete;8.-HURTOS;3491;3134
-Municipio de Albacete;1.-DELITOS Y FALTAS (EU);4253;4230
-Municipio de Albacete;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Albacete;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);83;98
-Municipio de Albacete;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);162;166
-Municipio de Albacete;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);89;81
-Municipio de Albacete;6.-TRÁFICO DE DROGAS (EU);23;27
-Municipio de Albacete;7.-DAÑOS;242;240
-Municipio de Albacete;8.-HURTOS;2096;2073
-Provincia de Ciudad Real;1.-DELITOS Y FALTAS (EU);10842;9581
-Provincia de Ciudad Real;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);4;0
-Provincia de Ciudad Real;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);127;118
-Provincia de Ciudad Real;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);561;516
-Provincia de Ciudad Real;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);94;130
-Provincia de Ciudad Real;6.-TRÁFICO DE DROGAS (EU);73;86
-Provincia de Ciudad Real;7.-DAÑOS;1280;1018
-Provincia de Ciudad Real;8.-HURTOS;2798;2566
-Municipio de Ciudad Real;1.-DELITOS Y FALTAS (EU);1912;1949
-Municipio de Ciudad Real;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Ciudad Real;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);38;47
-Municipio de Ciudad Real;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);72;77
-Municipio de Ciudad Real;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);13;31
-Municipio de Ciudad Real;6.-TRÁFICO DE DROGAS (EU);13;12
-Municipio de Ciudad Real;7.-DAÑOS;197;211
-Municipio de Ciudad Real;8.-HURTOS;667;749
-Municipio de Puertollano;1.-DELITOS Y FALTAS (EU);1304;1152
-Municipio de Puertollano;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Puertollano;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);18;21
-Municipio de Puertollano;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);63;32
-Municipio de Puertollano;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);11;21
-Municipio de Puertollano;6.-TRÁFICO DE DROGAS (EU);5;5
-Municipio de Puertollano;7.-DAÑOS;149;131
-Municipio de Puertollano;8.-HURTOS;332;315
-Provincia de Cuenca;1.-DELITOS Y FALTAS (EU);4391;4424
-Provincia de Cuenca;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;0
-Provincia de Cuenca;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);62;60
-Provincia de Cuenca;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);313;302
-Provincia de Cuenca;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);47;77
-Provincia de Cuenca;6.-TRÁFICO DE DROGAS (EU);11;10
-Provincia de Cuenca;7.-DAÑOS;629;676
-Provincia de Cuenca;8.-HURTOS;1078;1016
-Municipio de Cuenca;1.-DELITOS Y FALTAS (EU);1405;1381
-Municipio de Cuenca;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;0
-Municipio de Cuenca;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);42;32
-Municipio de Cuenca;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);69;48
-Municipio de Cuenca;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);22;31
-Municipio de Cuenca;6.-TRÁFICO DE DROGAS (EU);0;1
-Municipio de Cuenca;7.-DAÑOS;179;210
-Municipio de Cuenca;8.-HURTOS;409;412
-Provincia de Guadalajara;1.-DELITOS Y FALTAS (EU);6694;6584
-Provincia de Guadalajara;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;6
-Provincia de Guadalajara;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);120;170
-Provincia de Guadalajara;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);603;551
-Provincia de Guadalajara;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);183;232
-Provincia de Guadalajara;6.-TRÁFICO DE DROGAS (EU);23;23
-Provincia de Guadalajara;7.-DAÑOS;1231;984
-Provincia de Guadalajara;8.-HURTOS;1521;1482
-Municipio de Guadalajara;1.-DELITOS Y FALTAS (EU);2379;2303
-Municipio de Guadalajara;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Guadalajara;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);62;79
-Municipio de Guadalajara;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);130;114
-Municipio de Guadalajara;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);77;83
-Municipio de Guadalajara;6.-TRÁFICO DE DROGAS (EU);8;5
-Municipio de Guadalajara;7.-DAÑOS;357;279
-Municipio de Guadalajara;8.-HURTOS;728;738
-Provincia de Toledo;1.-DELITOS Y FALTAS (EU);19510;18870
-Provincia de Toledo;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;3
-Provincia de Toledo;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);313;276
-Provincia de Toledo;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);2479;2515
-Provincia de Toledo;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);459;530
-Provincia de Toledo;6.-TRÁFICO DE DROGAS (EU);94;90
-Provincia de Toledo;7.-DAÑOS;1948;1856
-Provincia de Toledo;8.-HURTOS;4029;3880
-Municipio de Talavera de la Reina;1.-DELITOS Y FALTAS (EU);1957;1859
-Municipio de Talavera de la Reina;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Talavera de la Reina;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);44;51
-Municipio de Talavera de la Reina;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);114;93
-Municipio de Talavera de la Reina;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);30;22
-Municipio de Talavera de la Reina;6.-TRÁFICO DE DROGAS (EU);14;15
-Municipio de Talavera de la Reina;7.-DAÑOS;195;226
-Municipio de Talavera de la Reina;8.-HURTOS;779;616
-Municipio de Toledo;1.-DELITOS Y FALTAS (EU);2362;2540
-Municipio de Toledo;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Toledo;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);29;27
-Municipio de Toledo;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);124;159
-Municipio de Toledo;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);61;74
-Municipio de Toledo;6.-TRÁFICO DE DROGAS (EU);12;12
-Municipio de Toledo;7.-DAÑOS;214;201
-Municipio de Toledo;8.-HURTOS;704;811
-CATALUÑA;1.-DELITOS Y FALTAS (EU);315478;306558
-CATALUÑA;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);28;41
-CATALUÑA;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);16340;14942
-CATALUÑA;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);18030;17696
-CATALUÑA;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);6409;5915
-CATALUÑA;6.-TRÁFICO DE DROGAS (EU);1457;1666
-CATALUÑA;7.-DAÑOS;29517;29404
-CATALUÑA;8.-HURTOS;126154;124432
-Provincia de Barcelona;1.-DELITOS Y FALTAS (EU);238761;235302
-Provincia de Barcelona;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);25;32
-Provincia de Barcelona;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);14566;13176
-Provincia de Barcelona;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);12521;12149
-Provincia de Barcelona;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);5403;5069
-Provincia de Barcelona;6.-TRÁFICO DE DROGAS (EU);841;991
-Provincia de Barcelona;7.-DAÑOS;20982;21095
-Provincia de Barcelona;8.-HURTOS;102564;102958
-Municipio de Badalona;1.-DELITOS Y FALTAS (EU);8247;7968
-Municipio de Badalona;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;2
-Municipio de Badalona;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1027;890
-Municipio de Badalona;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);368;350
-Municipio de Badalona;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);172;176
-Municipio de Badalona;6.-TRÁFICO DE DROGAS (EU);27;28
-Municipio de Badalona;7.-DAÑOS;853;887
-Municipio de Badalona;8.-HURTOS;2673;2310
-Municipio de Barcelona;1.-DELITOS Y FALTAS (EU);115781;115324
-Municipio de Barcelona;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);11;9
-Municipio de Barcelona;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);7872;7017
-Municipio de Barcelona;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);5100;4176
-Municipio de Barcelona;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);3012;2877
-Municipio de Barcelona;6.-TRÁFICO DE DROGAS (EU);331;348
-Municipio de Barcelona;7.-DAÑOS;7068;6992
-Municipio de Barcelona;8.-HURTOS;63175;64444
-Municipio de Castelldefels;1.-DELITOS Y FALTAS (EU);2303;2310
-Municipio de Castelldefels;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);4;0
-Municipio de Castelldefels;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);118;101
-Municipio de Castelldefels;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);154;133
-Municipio de Castelldefels;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);37;40
-Municipio de Castelldefels;6.-TRÁFICO DE DROGAS (EU);6;6
-Municipio de Castelldefels;7.-DAÑOS;241;265
-Municipio de Castelldefels;8.-HURTOS;815;736
-Municipio de Cerdanyola del Vallès;1.-DELITOS Y FALTAS (EU);1588;1410
-Municipio de Cerdanyola del Vallès;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Cerdanyola del Vallès;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);65;45
-Municipio de Cerdanyola del Vallès;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);108;120
-Municipio de Cerdanyola del Vallès;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);19;30
-Municipio de Cerdanyola del Vallès;6.-TRÁFICO DE DROGAS (EU);5;9
-Municipio de Cerdanyola del Vallès;7.-DAÑOS;205;210
-Municipio de Cerdanyola del Vallès;8.-HURTOS;472;356
-Municipio de Cornellà de Llobregat;1.-DELITOS Y FALTAS (EU);3697;3582
-Municipio de Cornellà de Llobregat;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Cornellà de Llobregat;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);292;253
-Municipio de Cornellà de Llobregat;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);142;131
-Municipio de Cornellà de Llobregat;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);86;69
-Municipio de Cornellà de Llobregat;6.-TRÁFICO DE DROGAS (EU);10;12
-Municipio de Cornellà de Llobregat;7.-DAÑOS;410;504
-Municipio de Cornellà de Llobregat;8.-HURTOS;1262;1158
-Municipio de Granollers;1.-DELITOS Y FALTAS (EU);2281;2313
-Municipio de Granollers;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Granollers;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);168;115
-Municipio de Granollers;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);135;161
-Municipio de Granollers;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);25;39
-Municipio de Granollers;6.-TRÁFICO DE DROGAS (EU);4;13
-Municipio de Granollers;7.-DAÑOS;231;261
-Municipio de Granollers;8.-HURTOS;734;668
-Municipio de Hospitalet de Llobregat (L');1.-DELITOS Y FALTAS (EU);11303;11351
-Municipio de Hospitalet de Llobregat (L');2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;2
-Municipio de Hospitalet de Llobregat (L');3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);868;939
-Municipio de Hospitalet de Llobregat (L');4.-ROBOS CON FUERZA EN DOMICILIOS (EU);468;494
-Municipio de Hospitalet de Llobregat (L');5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);361;226
-Municipio de Hospitalet de Llobregat (L');6.-TRÁFICO DE DROGAS (EU);35;54
-Municipio de Hospitalet de Llobregat (L');7.-DAÑOS;1228;1062
-Municipio de Hospitalet de Llobregat (L');8.-HURTOS;4058;4294
-Municipio de Manresa;1.-DELITOS Y FALTAS (EU);2470;2321
-Municipio de Manresa;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Manresa;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);92;85
-Municipio de Manresa;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);143;141
-Municipio de Manresa;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);22;30
-Municipio de Manresa;6.-TRÁFICO DE DROGAS (EU);11;10
-Municipio de Manresa;7.-DAÑOS;277;272
-Municipio de Manresa;8.-HURTOS;682;578
-Municipio de Mataró;1.-DELITOS Y FALTAS (EU);5297;4774
-Municipio de Mataró;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Mataró;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);402;393
-Municipio de Mataró;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);235;162
-Municipio de Mataró;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);115;101
-Municipio de Mataró;6.-TRÁFICO DE DROGAS (EU);16;17
-Municipio de Mataró;7.-DAÑOS;551;546
-Municipio de Mataró;8.-HURTOS;1702;1627
-Municipio de Mollet del Vallès;1.-DELITOS Y FALTAS (EU);1670;1658
-Municipio de Mollet del Vallès;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Mollet del Vallès;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);87;80
-Municipio de Mollet del Vallès;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);69;70
-Municipio de Mollet del Vallès;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);27;30
-Municipio de Mollet del Vallès;6.-TRÁFICO DE DROGAS (EU);7;8
-Municipio de Mollet del Vallès;7.-DAÑOS;256;238
-Municipio de Mollet del Vallès;8.-HURTOS;517;463
-Municipio de Prat de Llobregat (El);1.-DELITOS Y FALTAS (EU);5005;5132
-Municipio de Prat de Llobregat (El);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Prat de Llobregat (El);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);128;117
-Municipio de Prat de Llobregat (El);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);67;38
-Municipio de Prat de Llobregat (El);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);102;85
-Municipio de Prat de Llobregat (El);6.-TRÁFICO DE DROGAS (EU);51;78
-Municipio de Prat de Llobregat (El);7.-DAÑOS;347;332
-Municipio de Prat de Llobregat (El);8.-HURTOS;2645;2865
-Municipio de Rubí;1.-DELITOS Y FALTAS (EU);2236;2139
-Municipio de Rubí;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Rubí;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);78;74
-Municipio de Rubí;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);140;130
-Municipio de Rubí;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);37;66
-Municipio de Rubí;6.-TRÁFICO DE DROGAS (EU);11;13
-Municipio de Rubí;7.-DAÑOS;303;282
-Municipio de Rubí;8.-HURTOS;569;525
-Municipio de Sabadell;1.-DELITOS Y FALTAS (EU);6585;6587
-Municipio de Sabadell;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Sabadell;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);483;449
-Municipio de Sabadell;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);307;414
-Municipio de Sabadell;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);87;76
-Municipio de Sabadell;6.-TRÁFICO DE DROGAS (EU);25;34
-Municipio de Sabadell;7.-DAÑOS;767;873
-Municipio de Sabadell;8.-HURTOS;2007;1687
-Municipio de Sant Boi de Llobregat;1.-DELITOS Y FALTAS (EU);2629;2355
-Municipio de Sant Boi de Llobregat;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;2
-Municipio de Sant Boi de Llobregat;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);120;106
-Municipio de Sant Boi de Llobregat;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);75;88
-Municipio de Sant Boi de Llobregat;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);71;63
-Municipio de Sant Boi de Llobregat;6.-TRÁFICO DE DROGAS (EU);7;4
-Municipio de Sant Boi de Llobregat;7.-DAÑOS;390;359
-Municipio de Sant Boi de Llobregat;8.-HURTOS;869;708
-Municipio de Sant Cugat del Vallès;1.-DELITOS Y FALTAS (EU);2916;3277
-Municipio de Sant Cugat del Vallès;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;0
-Municipio de Sant Cugat del Vallès;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);89;102
-Municipio de Sant Cugat del Vallès;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);283;474
-Municipio de Sant Cugat del Vallès;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);66;86
-Municipio de Sant Cugat del Vallès;6.-TRÁFICO DE DROGAS (EU);6;1
-Municipio de Sant Cugat del Vallès;7.-DAÑOS;313;447
-Municipio de Sant Cugat del Vallès;8.-HURTOS;891;921
-Municipio de Santa Coloma de Gramenet;1.-DELITOS Y FALTAS (EU);3497;3406
-Municipio de Santa Coloma de Gramenet;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;2
-Municipio de Santa Coloma de Gramenet;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);328;355
-Municipio de Santa Coloma de Gramenet;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);154;194
-Municipio de Santa Coloma de Gramenet;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);83;74
-Municipio de Santa Coloma de Gramenet;6.-TRÁFICO DE DROGAS (EU);9;12
-Municipio de Santa Coloma de Gramenet;7.-DAÑOS;360;322
-Municipio de Santa Coloma de Gramenet;8.-HURTOS;1130;948
-Municipio de Terrassa;1.-DELITOS Y FALTAS (EU);5978;5214
-Municipio de Terrassa;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;2
-Municipio de Terrassa;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);242;194
-Municipio de Terrassa;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);293;281
-Municipio de Terrassa;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);78;89
-Municipio de Terrassa;6.-TRÁFICO DE DROGAS (EU);24;27
-Municipio de Terrassa;7.-DAÑOS;820;716
-Municipio de Terrassa;8.-HURTOS;1647;1423
-Municipio de Viladecans;1.-DELITOS Y FALTAS (EU);2051;2013
-Municipio de Viladecans;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Viladecans;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);93;105
-Municipio de Viladecans;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);66;62
-Municipio de Viladecans;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);80;41
-Municipio de Viladecans;6.-TRÁFICO DE DROGAS (EU);4;4
-Municipio de Viladecans;7.-DAÑOS;364;350
-Municipio de Viladecans;8.-HURTOS;637;573
-Municipio de Vilanova i la Geltrú;1.-DELITOS Y FALTAS (EU);2268;2423
-Municipio de Vilanova i la Geltrú;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Vilanova i la Geltrú;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);82;109
-Municipio de Vilanova i la Geltrú;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);137;120
-Municipio de Vilanova i la Geltrú;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);35;26
-Municipio de Vilanova i la Geltrú;6.-TRÁFICO DE DROGAS (EU);9;6
-Municipio de Vilanova i la Geltrú;7.-DAÑOS;344;364
-Municipio de Vilanova i la Geltrú;8.-HURTOS;731;652
-Provincia de Girona;1.-DELITOS Y FALTAS (EU);31747;29000
-Provincia de Girona;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;2
-Provincia de Girona;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);615;612
-Provincia de Girona;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);2117;2279
-Provincia de Girona;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);454;375
-Provincia de Girona;6.-TRÁFICO DE DROGAS (EU);345;347
-Provincia de Girona;7.-DAÑOS;3424;3109
-Provincia de Girona;8.-HURTOS;10733;9574
-Municipio de Girona;1.-DELITOS Y FALTAS (EU);5007;3449
-Municipio de Girona;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Girona;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);155;117
-Municipio de Girona;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);240;197
-Municipio de Girona;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);102;63
-Municipio de Girona;6.-TRÁFICO DE DROGAS (EU);23;20
-Municipio de Girona;7.-DAÑOS;631;378
-Municipio de Girona;8.-HURTOS;1919;1284
-Provincia de Lleida;1.-DELITOS Y FALTAS (EU);14399;13281
-Provincia de Lleida;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;3
-Provincia de Lleida;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);331;308
-Provincia de Lleida;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);632;523
-Provincia de Lleida;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);184;120
-Provincia de Lleida;6.-TRÁFICO DE DROGAS (EU);53;75
-Provincia de Lleida;7.-DAÑOS;1882;1752
-Provincia de Lleida;8.-HURTOS;3973;3788
-Municipio de Lleida;1.-DELITOS Y FALTAS (EU);6707;6306
-Municipio de Lleida;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;0
-Municipio de Lleida;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);255;222
-Municipio de Lleida;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);239;151
-Municipio de Lleida;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);105;65
-Municipio de Lleida;6.-TRÁFICO DE DROGAS (EU);19;22
-Municipio de Lleida;7.-DAÑOS;848;828
-Municipio de Lleida;8.-HURTOS;2069;1868
-Provincia de Tarragona;1.-DELITOS Y FALTAS (EU);30571;28975
-Provincia de Tarragona;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;4
-Provincia de Tarragona;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);828;846
-Provincia de Tarragona;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);2760;2745
-Provincia de Tarragona;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);368;351
-Provincia de Tarragona;6.-TRÁFICO DE DROGAS (EU);218;253
-Provincia de Tarragona;7.-DAÑOS;3229;3448
-Provincia de Tarragona;8.-HURTOS;8884;8112
-Municipio de Reus;1.-DELITOS Y FALTAS (EU);3993;3723
-Municipio de Reus;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Reus;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);234;181
-Municipio de Reus;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);244;249
-Municipio de Reus;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);53;54
-Municipio de Reus;6.-TRÁFICO DE DROGAS (EU);63;48
-Municipio de Reus;7.-DAÑOS;513;559
-Municipio de Reus;8.-HURTOS;1044;901
-Municipio de Tarragona;1.-DELITOS Y FALTAS (EU);6182;6089
-Municipio de Tarragona;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Tarragona;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);193;224
-Municipio de Tarragona;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);427;476
-Municipio de Tarragona;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);103;106
-Municipio de Tarragona;6.-TRÁFICO DE DROGAS (EU);28;18
-Municipio de Tarragona;7.-DAÑOS;548;649
-Municipio de Tarragona;8.-HURTOS;2265;2072
-COMUNITAT VALENCIANA;1.-DELITOS Y FALTAS (EU);179591;176393
-COMUNITAT VALENCIANA;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);34;23
-COMUNITAT VALENCIANA;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);4695;4598
-COMUNITAT VALENCIANA;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);14697;14684
-COMUNITAT VALENCIANA;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);3305;3320
-COMUNITAT VALENCIANA;6.-TRÁFICO DE DROGAS (EU);1177;1292
-COMUNITAT VALENCIANA;7.-DAÑOS;21290;20862
-COMUNITAT VALENCIANA;8.-HURTOS;60521;59599
-Provincia de Alicante/Alacant;1.-DELITOS Y FALTAS (EU);71235;70289
-Provincia de Alicante/Alacant;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);23;11
-Provincia de Alicante/Alacant;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1523;1618
-Provincia de Alicante/Alacant;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);6268;6775
-Provincia de Alicante/Alacant;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);1600;1550
-Provincia de Alicante/Alacant;6.-TRÁFICO DE DROGAS (EU);479;568
-Provincia de Alicante/Alacant;7.-DAÑOS;7648;7366
-Provincia de Alicante/Alacant;8.-HURTOS;25056;24495
-Municipio de Alcoy/Alcoi;1.-DELITOS Y FALTAS (EU);1212;1119
-Municipio de Alcoy/Alcoi;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Alcoy/Alcoi;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);52;30
-Municipio de Alcoy/Alcoi;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);46;62
-Municipio de Alcoy/Alcoi;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);34;20
-Municipio de Alcoy/Alcoi;6.-TRÁFICO DE DROGAS (EU);4;1
-Municipio de Alcoy/Alcoi;7.-DAÑOS;155;118
-Municipio de Alcoy/Alcoi;8.-HURTOS;311;323
-Municipio de Alicante/Alacant;1.-DELITOS Y FALTAS (EU);13527;13426
-Municipio de Alicante/Alacant;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);4;1
-Municipio de Alicante/Alacant;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);460;502
-Municipio de Alicante/Alacant;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);610;677
-Municipio de Alicante/Alacant;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);464;349
-Municipio de Alicante/Alacant;6.-TRÁFICO DE DROGAS (EU);123;142
-Municipio de Alicante/Alacant;7.-DAÑOS;1187;1348
-Municipio de Alicante/Alacant;8.-HURTOS;5735;5760
-Municipio de Benidorm;1.-DELITOS Y FALTAS (EU);5995;5486
-Municipio de Benidorm;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Benidorm;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);144;166
-Municipio de Benidorm;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);135;139
-Municipio de Benidorm;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);98;68
-Municipio de Benidorm;6.-TRÁFICO DE DROGAS (EU);59;75
-Municipio de Benidorm;7.-DAÑOS;393;394
-Municipio de Benidorm;8.-HURTOS;3324;2877
-Municipio de Elche/Elx;1.-DELITOS Y FALTAS (EU);7553;7244
-Municipio de Elche/Elx;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;1
-Municipio de Elche/Elx;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);154;155
-Municipio de Elche/Elx;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);466;422
-Municipio de Elche/Elx;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);198;227
-Municipio de Elche/Elx;6.-TRÁFICO DE DROGAS (EU);64;83
-Municipio de Elche/Elx;7.-DAÑOS;771;742
-Municipio de Elche/Elx;8.-HURTOS;2629;2532
-Municipio de Elda;1.-DELITOS Y FALTAS (EU);1072;1168
-Municipio de Elda;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Elda;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);19;26
-Municipio de Elda;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);63;92
-Municipio de Elda;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);40;37
-Municipio de Elda;6.-TRÁFICO DE DROGAS (EU);10;7
-Municipio de Elda;7.-DAÑOS;130;157
-Municipio de Elda;8.-HURTOS;260;325
-Municipio de Orihuela;1.-DELITOS Y FALTAS (EU);2870;2839
-Municipio de Orihuela;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;2
-Municipio de Orihuela;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);61;79
-Municipio de Orihuela;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);295;360
-Municipio de Orihuela;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);45;40
-Municipio de Orihuela;6.-TRÁFICO DE DROGAS (EU);11;13
-Municipio de Orihuela;7.-DAÑOS;266;247
-Municipio de Orihuela;8.-HURTOS;943;971
-Municipio de San Vicente del Raspeig/Sant Vicent del Raspeig;1.-DELITOS Y FALTAS (EU);1863;1757
-Municipio de San Vicente del Raspeig/Sant Vicent del Raspeig;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de San Vicente del Raspeig/Sant Vicent del Raspeig;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);31;39
-Municipio de San Vicente del Raspeig/Sant Vicent del Raspeig;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);143;136
-Municipio de San Vicente del Raspeig/Sant Vicent del Raspeig;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);60;56
-Municipio de San Vicente del Raspeig/Sant Vicent del Raspeig;6.-TRÁFICO DE DROGAS (EU);2;11
-Municipio de San Vicente del Raspeig/Sant Vicent del Raspeig;7.-DAÑOS;256;199
-Municipio de San Vicente del Raspeig/Sant Vicent del Raspeig;8.-HURTOS;610;643
-Municipio de Torrevieja;1.-DELITOS Y FALTAS (EU);5610;5869
-Municipio de Torrevieja;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;4
-Municipio de Torrevieja;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);141;140
-Municipio de Torrevieja;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);812;774
-Municipio de Torrevieja;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);95;88
-Municipio de Torrevieja;6.-TRÁFICO DE DROGAS (EU);19;26
-Municipio de Torrevieja;7.-DAÑOS;643;655
-Municipio de Torrevieja;8.-HURTOS;1999;2129
-Provincia de Castellón/Castelló;1.-DELITOS Y FALTAS (EU);19596;18752
-Provincia de Castellón/Castelló;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;1
-Provincia de Castellón/Castelló;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);347;395
-Provincia de Castellón/Castelló;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);2211;1848
-Provincia de Castellón/Castelló;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);285;220
-Provincia de Castellón/Castelló;6.-TRÁFICO DE DROGAS (EU);105;92
-Provincia de Castellón/Castelló;7.-DAÑOS;2410;2158
-Provincia de Castellón/Castelló;8.-HURTOS;5905;5980
-Municipio de Castellón de la Plana/Castelló de la Plana;1.-DELITOS Y FALTAS (EU);4117;3985
-Municipio de Castellón de la Plana/Castelló de la Plana;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Castellón de la Plana/Castelló de la Plana;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);90;132
-Municipio de Castellón de la Plana/Castelló de la Plana;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);392;331
-Municipio de Castellón de la Plana/Castelló de la Plana;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);70;59
-Municipio de Castellón de la Plana/Castelló de la Plana;6.-TRÁFICO DE DROGAS (EU);20;8
-Municipio de Castellón de la Plana/Castelló de la Plana;7.-DAÑOS;329;261
-Municipio de Castellón de la Plana/Castelló de la Plana;8.-HURTOS;1425;1538
-Municipio de Vila-Real;1.-DELITOS Y FALTAS (EU);1194;972
-Municipio de Vila-Real;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Vila-Real;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);22;25
-Municipio de Vila-Real;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);107;84
-Municipio de Vila-Real;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);26;20
-Municipio de Vila-Real;6.-TRÁFICO DE DROGAS (EU);1;2
-Municipio de Vila-Real;7.-DAÑOS;178;118
-Municipio de Vila-Real;8.-HURTOS;342;279
-Provincia de Valencia/València;1.-DELITOS Y FALTAS (EU);88760;87352
-Provincia de Valencia/València;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);9;11
-Provincia de Valencia/València;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);2825;2585
-Provincia de Valencia/València;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);6218;6061
-Provincia de Valencia/València;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);1420;1550
-Provincia de Valencia/València;6.-TRÁFICO DE DROGAS (EU);593;632
-Provincia de Valencia/València;7.-DAÑOS;11232;11338
-Provincia de Valencia/València;8.-HURTOS;29560;29124
-Municipio de Gandia;1.-DELITOS Y FALTAS (EU);3658;3249
-Municipio de Gandia;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Gandia;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);59;65
-Municipio de Gandia;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);113;141
-Municipio de Gandia;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);72;78
-Municipio de Gandia;6.-TRÁFICO DE DROGAS (EU);24;38
-Municipio de Gandia;7.-DAÑOS;439;435
-Municipio de Gandia;8.-HURTOS;1452;1094
-Municipio de Paterna;1.-DELITOS Y FALTAS (EU);1798;1742
-Municipio de Paterna;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Paterna;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);44;48
-Municipio de Paterna;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);95;98
-Municipio de Paterna;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);39;41
-Municipio de Paterna;6.-TRÁFICO DE DROGAS (EU);8;6
-Municipio de Paterna;7.-DAÑOS;228;215
-Municipio de Paterna;8.-HURTOS;543;527
-Municipio de Sagunto/Sagunt;1.-DELITOS Y FALTAS (EU);2057;2133
-Municipio de Sagunto/Sagunt;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Sagunto/Sagunt;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);60;58
-Municipio de Sagunto/Sagunt;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);307;225
-Municipio de Sagunto/Sagunt;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);32;18
-Municipio de Sagunto/Sagunt;6.-TRÁFICO DE DROGAS (EU);25;19
-Municipio de Sagunto/Sagunt;7.-DAÑOS;195;234
-Municipio de Sagunto/Sagunt;8.-HURTOS;577;657
-Municipio de Torrent;1.-DELITOS Y FALTAS (EU);2243;2049
-Municipio de Torrent;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Torrent;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);72;71
-Municipio de Torrent;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);193;168
-Municipio de Torrent;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);30;33
-Municipio de Torrent;6.-TRÁFICO DE DROGAS (EU);7;18
-Municipio de Torrent;7.-DAÑOS;293;278
-Municipio de Torrent;8.-HURTOS;518;596
-Municipio de Valencia;1.-DELITOS Y FALTAS (EU);34238;34319
-Municipio de Valencia;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);5;5
-Municipio de Valencia;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1547;1416
-Municipio de Valencia;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1184;1496
-Municipio de Valencia;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);584;658
-Municipio de Valencia;6.-TRÁFICO DE DROGAS (EU);233;239
-Municipio de Valencia;7.-DAÑOS;3697;3736
-Municipio de Valencia;8.-HURTOS;14199;14407
-EXTREMADURA;1.-DELITOS Y FALTAS (EU);20400;19748
-EXTREMADURA;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;4
-EXTREMADURA;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);220;221
-EXTREMADURA;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);999;962
-EXTREMADURA;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);280;309
-EXTREMADURA;6.-TRÁFICO DE DROGAS (EU);153;162
-EXTREMADURA;7.-DAÑOS;2443;2398
-EXTREMADURA;8.-HURTOS;5973;5548
-Provincia de Badajoz;1.-DELITOS Y FALTAS (EU);14059;13776
-Provincia de Badajoz;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;3
-Provincia de Badajoz;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);175;160
-Provincia de Badajoz;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);730;682
-Provincia de Badajoz;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);218;243
-Provincia de Badajoz;6.-TRÁFICO DE DROGAS (EU);108;96
-Provincia de Badajoz;7.-DAÑOS;1531;1605
-Provincia de Badajoz;8.-HURTOS;4237;3982
-Municipio de Badajoz;1.-DELITOS Y FALTAS (EU);5627;5286
-Municipio de Badajoz;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Badajoz;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);112;78
-Municipio de Badajoz;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);289;186
-Municipio de Badajoz;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);93;82
-Municipio de Badajoz;6.-TRÁFICO DE DROGAS (EU);29;23
-Municipio de Badajoz;7.-DAÑOS;629;630
-Municipio de Badajoz;8.-HURTOS;1890;1727
-Municipio de Mérida;1.-DELITOS Y FALTAS (EU);1750;1795
-Municipio de Mérida;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Mérida;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);15;21
-Municipio de Mérida;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);55;52
-Municipio de Mérida;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);23;27
-Municipio de Mérida;6.-TRÁFICO DE DROGAS (EU);21;16
-Municipio de Mérida;7.-DAÑOS;228;247
-Municipio de Mérida;8.-HURTOS;549;571
-Provincia de Cáceres;1.-DELITOS Y FALTAS (EU);6341;5972
-Provincia de Cáceres;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Provincia de Cáceres;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);45;61
-Provincia de Cáceres;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);269;280
-Provincia de Cáceres;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);62;66
-Provincia de Cáceres;6.-TRÁFICO DE DROGAS (EU);45;66
-Provincia de Cáceres;7.-DAÑOS;912;793
-Provincia de Cáceres;8.-HURTOS;1736;1566
-Municipio de Cáceres;1.-DELITOS Y FALTAS (EU);1544;1592
-Municipio de Cáceres;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Cáceres;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);16;23
-Municipio de Cáceres;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);38;41
-Municipio de Cáceres;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);16;12
-Municipio de Cáceres;6.-TRÁFICO DE DROGAS (EU);18;26
-Municipio de Cáceres;7.-DAÑOS;220;199
-Municipio de Cáceres;8.-HURTOS;427;499
-GALICIA;1.-DELITOS Y FALTAS (EU);58121;56411
-GALICIA;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);11;11
-GALICIA;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);811;839
-GALICIA;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);2880;2776
-GALICIA;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);721;802
-GALICIA;6.-TRÁFICO DE DROGAS (EU);262;253
-GALICIA;7.-DAÑOS;7524;7326
-GALICIA;8.-HURTOS;16996;16418
-Provincia de Coruña (A);1.-DELITOS Y FALTAS (EU);24573;24595
-Provincia de Coruña (A);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;7
-Provincia de Coruña (A);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);335;369
-Provincia de Coruña (A);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1286;1248
-Provincia de Coruña (A);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);309;371
-Provincia de Coruña (A);6.-TRÁFICO DE DROGAS (EU);83;75
-Provincia de Coruña (A);7.-DAÑOS;3164;3085
-Provincia de Coruña (A);8.-HURTOS;7545;7288
-Municipio de Coruña (A);1.-DELITOS Y FALTAS (EU);6762;7018
-Municipio de Coruña (A);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Coruña (A);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);137;144
-Municipio de Coruña (A);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);131;200
-Municipio de Coruña (A);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);85;110
-Municipio de Coruña (A);6.-TRÁFICO DE DROGAS (EU);28;15
-Municipio de Coruña (A);7.-DAÑOS;670;752
-Municipio de Coruña (A);8.-HURTOS;2674;2750
-Municipio de Ferrol;1.-DELITOS Y FALTAS (EU);1592;1624
-Municipio de Ferrol;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;2
-Municipio de Ferrol;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);19;30
-Municipio de Ferrol;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);39;39
-Municipio de Ferrol;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);20;12
-Municipio de Ferrol;6.-TRÁFICO DE DROGAS (EU);7;8
-Municipio de Ferrol;7.-DAÑOS;175;177
-Municipio de Ferrol;8.-HURTOS;523;538
-Municipio de Santiago de Compostela;1.-DELITOS Y FALTAS (EU);2661;2633
-Municipio de Santiago de Compostela;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Santiago de Compostela;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);38;53
-Municipio de Santiago de Compostela;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);83;64
-Municipio de Santiago de Compostela;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);33;40
-Municipio de Santiago de Compostela;6.-TRÁFICO DE DROGAS (EU);7;9
-Municipio de Santiago de Compostela;7.-DAÑOS;307;318
-Municipio de Santiago de Compostela;8.-HURTOS;1236;1110
-Provincia de Lugo;1.-DELITOS Y FALTAS (EU);5477;5406
-Provincia de Lugo;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;3
-Provincia de Lugo;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);87;75
-Provincia de Lugo;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);269;255
-Provincia de Lugo;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);43;64
-Provincia de Lugo;6.-TRÁFICO DE DROGAS (EU);28;37
-Provincia de Lugo;7.-DAÑOS;764;767
-Provincia de Lugo;8.-HURTOS;1446;1417
-Municipio de Lugo;1.-DELITOS Y FALTAS (EU);2129;2075
-Municipio de Lugo;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;2
-Municipio de Lugo;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);67;46
-Municipio de Lugo;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);57;67
-Municipio de Lugo;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);22;20
-Municipio de Lugo;6.-TRÁFICO DE DROGAS (EU);12;18
-Municipio de Lugo;7.-DAÑOS;239;294
-Municipio de Lugo;8.-HURTOS;721;670
-Provincia de Ourense;1.-DELITOS Y FALTAS (EU);5743;5574
-Provincia de Ourense;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;0
-Provincia de Ourense;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);107;85
-Provincia de Ourense;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);253;295
-Provincia de Ourense;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);85;78
-Provincia de Ourense;6.-TRÁFICO DE DROGAS (EU);24;18
-Provincia de Ourense;7.-DAÑOS;622;610
-Provincia de Ourense;8.-HURTOS;1739;1551
-Municipio de Ourense;1.-DELITOS Y FALTAS (EU);2823;2687
-Municipio de Ourense;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Ourense;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);78;61
-Municipio de Ourense;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);80;76
-Municipio de Ourense;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);48;41
-Municipio de Ourense;6.-TRÁFICO DE DROGAS (EU);15;11
-Municipio de Ourense;7.-DAÑOS;313;357
-Municipio de Ourense;8.-HURTOS;1064;924
-Provincia de Pontevedra;1.-DELITOS Y FALTAS (EU);22328;20836
-Provincia de Pontevedra;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);6;1
-Provincia de Pontevedra;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);282;310
-Provincia de Pontevedra;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1072;978
-Provincia de Pontevedra;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);284;289
-Provincia de Pontevedra;6.-TRÁFICO DE DROGAS (EU);127;123
-Provincia de Pontevedra;7.-DAÑOS;2974;2864
-Provincia de Pontevedra;8.-HURTOS;6266;6162
-Municipio de Pontevedra;1.-DELITOS Y FALTAS (EU);2530;2320
-Municipio de Pontevedra;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Pontevedra;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);44;44
-Municipio de Pontevedra;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);135;107
-Municipio de Pontevedra;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);18;7
-Municipio de Pontevedra;6.-TRÁFICO DE DROGAS (EU);15;7
-Municipio de Pontevedra;7.-DAÑOS;227;225
-Municipio de Pontevedra;8.-HURTOS;1050;907
-Municipio de Vigo;1.-DELITOS Y FALTAS (EU);7281;6895
-Municipio de Vigo;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;0
-Municipio de Vigo;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);162;169
-Municipio de Vigo;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);285;233
-Municipio de Vigo;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);119;143
-Municipio de Vigo;6.-TRÁFICO DE DROGAS (EU);51;56
-Municipio de Vigo;7.-DAÑOS;824;784
-Municipio de Vigo;8.-HURTOS;2381;2401
-MADRID (COMUNIDAD DE);1.-DELITOS Y FALTAS (EU);269965;277774
-MADRID (COMUNIDAD DE);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);22;29
-MADRID (COMUNIDAD DE);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);12751;12624
-MADRID (COMUNIDAD DE);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);11576;12084
-MADRID (COMUNIDAD DE);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);7596;7681
-MADRID (COMUNIDAD DE);6.-TRÁFICO DE DROGAS (EU);1092;1083
-MADRID (COMUNIDAD DE);7.-DAÑOS;32797;33090
-MADRID (COMUNIDAD DE);8.-HURTOS;106406;110411
-Municipio de Alcalá de Henares;1.-DELITOS Y FALTAS (EU);7329;7008
-Municipio de Alcalá de Henares;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-Municipio de Alcalá de Henares;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);225;223
-Municipio de Alcalá de Henares;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);202;214
-Municipio de Alcalá de Henares;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);251;282
-Municipio de Alcalá de Henares;6.-TRÁFICO DE DROGAS (EU);37;33
-Municipio de Alcalá de Henares;7.-DAÑOS;1063;1173
-Municipio de Alcalá de Henares;8.-HURTOS;2293;2138
-Municipio de Alcobendas;1.-DELITOS Y FALTAS (EU);3926;3540
-Municipio de Alcobendas;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Alcobendas;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);137;127
-Municipio de Alcobendas;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);122;124
-Municipio de Alcobendas;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);93;114
-Municipio de Alcobendas;6.-TRÁFICO DE DROGAS (EU);6;10
-Municipio de Alcobendas;7.-DAÑOS;418;476
-Municipio de Alcobendas;8.-HURTOS;1400;1213
-Municipio de Alcorcón;1.-DELITOS Y FALTAS (EU);5267;4997
-Municipio de Alcorcón;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Alcorcón;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);343;281
-Municipio de Alcorcón;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);148;224
-Municipio de Alcorcón;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);181;178
-Municipio de Alcorcón;6.-TRÁFICO DE DROGAS (EU);18;23
-Municipio de Alcorcón;7.-DAÑOS;701;612
-Municipio de Alcorcón;8.-HURTOS;1982;1794
-Municipio de Aranjuez;1.-DELITOS Y FALTAS (EU);1835;1952
-Municipio de Aranjuez;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Aranjuez;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);33;51
-Municipio de Aranjuez;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);53;87
-Municipio de Aranjuez;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);24;50
-Municipio de Aranjuez;6.-TRÁFICO DE DROGAS (EU);5;12
-Municipio de Aranjuez;7.-DAÑOS;336;352
-Municipio de Aranjuez;8.-HURTOS;600;569
-Municipio de Arganda del Rey;1.-DELITOS Y FALTAS (EU);2074;1867
-Municipio de Arganda del Rey;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Arganda del Rey;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);65;69
-Municipio de Arganda del Rey;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);81;82
-Municipio de Arganda del Rey;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);76;64
-Municipio de Arganda del Rey;6.-TRÁFICO DE DROGAS (EU);4;9
-Municipio de Arganda del Rey;7.-DAÑOS;331;347
-Municipio de Arganda del Rey;8.-HURTOS;345;317
-Municipio de Collado Villalba;1.-DELITOS Y FALTAS (EU);2497;2099
-Municipio de Collado Villalba;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Collado Villalba;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);148;107
-Municipio de Collado Villalba;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);208;139
-Municipio de Collado Villalba;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);46;38
-Municipio de Collado Villalba;6.-TRÁFICO DE DROGAS (EU);5;6
-Municipio de Collado Villalba;7.-DAÑOS;374;292
-Municipio de Collado Villalba;8.-HURTOS;750;586
-Municipio de Coslada;1.-DELITOS Y FALTAS (EU);2717;2729
-Municipio de Coslada;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Coslada;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);91;94
-Municipio de Coslada;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);97;131
-Municipio de Coslada;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);139;134
-Municipio de Coslada;6.-TRÁFICO DE DROGAS (EU);5;5
-Municipio de Coslada;7.-DAÑOS;440;479
-Municipio de Coslada;8.-HURTOS;902;848
-Municipio de Fuenlabrada;1.-DELITOS Y FALTAS (EU);5966;6133
-Municipio de Fuenlabrada;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Fuenlabrada;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);295;278
-Municipio de Fuenlabrada;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);205;246
-Municipio de Fuenlabrada;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);265;265
-Municipio de Fuenlabrada;6.-TRÁFICO DE DROGAS (EU);15;13
-Municipio de Fuenlabrada;7.-DAÑOS;940;1026
-Municipio de Fuenlabrada;8.-HURTOS;2067;2002
-Municipio de Getafe;1.-DELITOS Y FALTAS (EU);5573;5750
-Municipio de Getafe;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Getafe;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);359;365
-Municipio de Getafe;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);207;197
-Municipio de Getafe;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);252;231
-Municipio de Getafe;6.-TRÁFICO DE DROGAS (EU);7;8
-Municipio de Getafe;7.-DAÑOS;655;667
-Municipio de Getafe;8.-HURTOS;2087;1975
-Municipio de Leganés;1.-DELITOS Y FALTAS (EU);6973;6967
-Municipio de Leganés;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Leganés;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);227;206
-Municipio de Leganés;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);201;257
-Municipio de Leganés;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);237;205
-Municipio de Leganés;6.-TRÁFICO DE DROGAS (EU);22;22
-Municipio de Leganés;7.-DAÑOS;774;790
-Municipio de Leganés;8.-HURTOS;3122;3154
-Municipio de Madrid;1.-DELITOS Y FALTAS (EU);160562;170044
-Municipio de Madrid;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);12;18
-Municipio de Madrid;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);8555;8708
-Municipio de Madrid;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);5576;6277
-Municipio de Madrid;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);4002;4082
-Municipio de Madrid;6.-TRÁFICO DE DROGAS (EU);805;772
-Municipio de Madrid;7.-DAÑOS;16238;16814
-Municipio de Madrid;8.-HURTOS;71654;77208
-Municipio de Majadahonda;1.-DELITOS Y FALTAS (EU);2646;2890
-Municipio de Majadahonda;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Majadahonda;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);105;114
-Municipio de Majadahonda;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);124;127
-Municipio de Majadahonda;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);96;89
-Municipio de Majadahonda;6.-TRÁFICO DE DROGAS (EU);8;5
-Municipio de Majadahonda;7.-DAÑOS;365;353
-Municipio de Majadahonda;8.-HURTOS;1150;1287
-Municipio de Móstoles;1.-DELITOS Y FALTAS (EU);6741;6545
-Municipio de Móstoles;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;3
-Municipio de Móstoles;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);296;249
-Municipio de Móstoles;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);281;307
-Municipio de Móstoles;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);319;260
-Municipio de Móstoles;6.-TRÁFICO DE DROGAS (EU);29;33
-Municipio de Móstoles;7.-DAÑOS;1104;1023
-Municipio de Móstoles;8.-HURTOS;1876;1795
-Municipio de Parla;1.-DELITOS Y FALTAS (EU);4517;4215
-Municipio de Parla;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Parla;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);301;265
-Municipio de Parla;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);137;164
-Municipio de Parla;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);146;100
-Municipio de Parla;6.-TRÁFICO DE DROGAS (EU);7;7
-Municipio de Parla;7.-DAÑOS;736;694
-Municipio de Parla;8.-HURTOS;1371;1299
-Municipio de Pozuelo de Alarcón;1.-DELITOS Y FALTAS (EU);2215;2266
-Municipio de Pozuelo de Alarcón;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;0
-Municipio de Pozuelo de Alarcón;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);51;55
-Municipio de Pozuelo de Alarcón;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);83;112
-Municipio de Pozuelo de Alarcón;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);120;82
-Municipio de Pozuelo de Alarcón;6.-TRÁFICO DE DROGAS (EU);6;3
-Municipio de Pozuelo de Alarcón;7.-DAÑOS;283;271
-Municipio de Pozuelo de Alarcón;8.-HURTOS;797;786
-Municipio de Rivas-Vaciamadrid;1.-DELITOS Y FALTAS (EU);3341;3355
-Municipio de Rivas-Vaciamadrid;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Rivas-Vaciamadrid;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);118;147
-Municipio de Rivas-Vaciamadrid;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);208;121
-Municipio de Rivas-Vaciamadrid;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);101;126
-Municipio de Rivas-Vaciamadrid;6.-TRÁFICO DE DROGAS (EU);1;12
-Municipio de Rivas-Vaciamadrid;7.-DAÑOS;601;548
-Municipio de Rivas-Vaciamadrid;8.-HURTOS;1168;1093
-Municipio de Rozas de Madrid (Las);1.-DELITOS Y FALTAS (EU);3336;3258
-Municipio de Rozas de Madrid (Las);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Rozas de Madrid (Las);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);103;87
-Municipio de Rozas de Madrid (Las);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);213;243
-Municipio de Rozas de Madrid (Las);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);105;101
-Municipio de Rozas de Madrid (Las);6.-TRÁFICO DE DROGAS (EU);4;3
-Municipio de Rozas de Madrid (Las);7.-DAÑOS;521;475
-Municipio de Rozas de Madrid (Las);8.-HURTOS;1126;1097
-Municipio de San Sebastián de los Reyes;1.-DELITOS Y FALTAS (EU);3260;3158
-Municipio de San Sebastián de los Reyes;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de San Sebastián de los Reyes;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);100;110
-Municipio de San Sebastián de los Reyes;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);85;88
-Municipio de San Sebastián de los Reyes;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);60;66
-Municipio de San Sebastián de los Reyes;6.-TRÁFICO DE DROGAS (EU);8;3
-Municipio de San Sebastián de los Reyes;7.-DAÑOS;408;397
-Municipio de San Sebastián de los Reyes;8.-HURTOS;1501;1464
-Municipio de Torrejón de Ardoz;1.-DELITOS Y FALTAS (EU);3648;3810
-Municipio de Torrejón de Ardoz;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Torrejón de Ardoz;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);112;121
-Municipio de Torrejón de Ardoz;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);106;89
-Municipio de Torrejón de Ardoz;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);76;112
-Municipio de Torrejón de Ardoz;6.-TRÁFICO DE DROGAS (EU);9;8
-Municipio de Torrejón de Ardoz;7.-DAÑOS;561;573
-Municipio de Torrejón de Ardoz;8.-HURTOS;1275;1209
-Municipio de Valdemoro;1.-DELITOS Y FALTAS (EU);2649;2544
-Municipio de Valdemoro;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Valdemoro;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);99;109
-Municipio de Valdemoro;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);137;130
-Municipio de Valdemoro;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);76;85
-Municipio de Valdemoro;6.-TRÁFICO DE DROGAS (EU);10;5
-Municipio de Valdemoro;7.-DAÑOS;395;349
-Municipio de Valdemoro;8.-HURTOS;683;643
-MURCIA (REGIÓN DE);1.-DELITOS Y FALTAS (EU);40284;38726
-MURCIA (REGIÓN DE);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);6;10
-MURCIA (REGIÓN DE);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1086;1115
-MURCIA (REGIÓN DE);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);3700;3863
-MURCIA (REGIÓN DE);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);931;991
-MURCIA (REGIÓN DE);6.-TRÁFICO DE DROGAS (EU);193;222
-MURCIA (REGIÓN DE);7.-DAÑOS;3481;3562
-MURCIA (REGIÓN DE);8.-HURTOS;12639;12010
-Municipio de Cartagena;1.-DELITOS Y FALTAS (EU);5866;5184
-Municipio de Cartagena;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Cartagena;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);128;159
-Municipio de Cartagena;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);409;403
-Municipio de Cartagena;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);77;75
-Municipio de Cartagena;6.-TRÁFICO DE DROGAS (EU);35;30
-Municipio de Cartagena;7.-DAÑOS;575;511
-Municipio de Cartagena;8.-HURTOS;2067;1842
-Municipio de Lorca;1.-DELITOS Y FALTAS (EU);1600;1408
-Municipio de Lorca;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;1
-Municipio de Lorca;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);43;36
-Municipio de Lorca;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);166;144
-Municipio de Lorca;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);22;19
-Municipio de Lorca;6.-TRÁFICO DE DROGAS (EU);11;21
-Municipio de Lorca;7.-DAÑOS;134;126
-Municipio de Lorca;8.-HURTOS;487;416
-Municipio de Molina de Segura;1.-DELITOS Y FALTAS (EU);1252;1300
-Municipio de Molina de Segura;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Molina de Segura;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);29;18
-Municipio de Molina de Segura;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);119;121
-Municipio de Molina de Segura;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);39;53
-Municipio de Molina de Segura;6.-TRÁFICO DE DROGAS (EU);3;3
-Municipio de Molina de Segura;7.-DAÑOS;91;73
-Municipio de Molina de Segura;8.-HURTOS;384;417
-Municipio de Murcia;1.-DELITOS Y FALTAS (EU);13556;13322
-Municipio de Murcia;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Murcia;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);507;486
-Municipio de Murcia;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1099;1258
-Municipio de Murcia;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);457;481
-Municipio de Murcia;6.-TRÁFICO DE DROGAS (EU);49;58
-Municipio de Murcia;7.-DAÑOS;994;1061
-Municipio de Murcia;8.-HURTOS;4746;4406
-NAVARRA (COMUNIDAD FORAL DE);1.-DELITOS Y FALTAS (EU);18650;19705
-NAVARRA (COMUNIDAD FORAL DE);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;0
-NAVARRA (COMUNIDAD FORAL DE);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);289;346
-NAVARRA (COMUNIDAD FORAL DE);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);712;761
-NAVARRA (COMUNIDAD FORAL DE);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);134;168
-NAVARRA (COMUNIDAD FORAL DE);6.-TRÁFICO DE DROGAS (EU);120;166
-NAVARRA (COMUNIDAD FORAL DE);7.-DAÑOS;2400;2466
-NAVARRA (COMUNIDAD FORAL DE);8.-HURTOS;6347;6398
-Municipio de Pamplona/Iruña;1.-DELITOS Y FALTAS (EU);8606;9278
-Municipio de Pamplona/Iruña;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Pamplona/Iruña;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);185;241
-Municipio de Pamplona/Iruña;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);181;237
-Municipio de Pamplona/Iruña;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);43;56
-Municipio de Pamplona/Iruña;6.-TRÁFICO DE DROGAS (EU);52;77
-Municipio de Pamplona/Iruña;7.-DAÑOS;1044;1082
-Municipio de Pamplona/Iruña;8.-HURTOS;3918;4189
-PAÍS VASCO;1.-DELITOS Y FALTAS (EU);64173;62224
-PAÍS VASCO;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);10;6
-PAÍS VASCO;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1379;1480
-PAÍS VASCO;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);3541;3109
-PAÍS VASCO;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);669;763
-PAÍS VASCO;6.-TRÁFICO DE DROGAS (EU);265;253
-PAÍS VASCO;7.-DAÑOS;5781;5486
-PAÍS VASCO;8.-HURTOS;20884;22054
-Provincia de Araba/Álava;1.-DELITOS Y FALTAS (EU);9414;8947
-Provincia de Araba/Álava;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;2
-Provincia de Araba/Álava;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);144;148
-Provincia de Araba/Álava;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);380;274
-Provincia de Araba/Álava;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);68;77
-Provincia de Araba/Álava;6.-TRÁFICO DE DROGAS (EU);26;30
-Provincia de Araba/Álava;7.-DAÑOS;922;944
-Provincia de Araba/Álava;8.-HURTOS;3506;3568
-Municipio de Vitoria-Gasteiz;1.-DELITOS Y FALTAS (EU);6827;6345
-Municipio de Vitoria-Gasteiz;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;2
-Municipio de Vitoria-Gasteiz;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);140;144
-Municipio de Vitoria-Gasteiz;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);282;220
-Municipio de Vitoria-Gasteiz;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);49;45
-Municipio de Vitoria-Gasteiz;6.-TRÁFICO DE DROGAS (EU);15;20
-Municipio de Vitoria-Gasteiz;7.-DAÑOS;626;633
-Municipio de Vitoria-Gasteiz;8.-HURTOS;3073;3118
-Provincia de Gipuzkoa;1.-DELITOS Y FALTAS (EU);17820;16839
-Provincia de Gipuzkoa;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;1
-Provincia de Gipuzkoa;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);217;243
-Provincia de Gipuzkoa;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1330;1184
-Provincia de Gipuzkoa;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);217;200
-Provincia de Gipuzkoa;6.-TRÁFICO DE DROGAS (EU);105;77
-Provincia de Gipuzkoa;7.-DAÑOS;1450;1440
-Provincia de Gipuzkoa;8.-HURTOS;4604;4647
-Municipio de Irun;1.-DELITOS Y FALTAS (EU);1795;1741
-Municipio de Irun;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Irun;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);23;30
-Municipio de Irun;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);75;68
-Municipio de Irun;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);31;31
-Municipio de Irun;6.-TRÁFICO DE DROGAS (EU);15;16
-Municipio de Irun;7.-DAÑOS;127;146
-Municipio de Irun;8.-HURTOS;614;591
-Municipio de Donostia/San Sebastián;1.-DELITOS Y FALTAS (EU);4200;3937
-Municipio de Donostia/San Sebastián;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);2;0
-Municipio de Donostia/San Sebastián;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);94;101
-Municipio de Donostia/San Sebastián;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);319;304
-Municipio de Donostia/San Sebastián;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);63;42
-Municipio de Donostia/San Sebastián;6.-TRÁFICO DE DROGAS (EU);31;28
-Municipio de Donostia/San Sebastián;7.-DAÑOS;305;317
-Municipio de Donostia/San Sebastián;8.-HURTOS;1223;1330
-Provincia de Bizkaia;1.-DELITOS Y FALTAS (EU);36939;36438
-Provincia de Bizkaia;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);6;3
-Provincia de Bizkaia;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);1018;1089
-Provincia de Bizkaia;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);1831;1651
-Provincia de Bizkaia;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);384;486
-Provincia de Bizkaia;6.-TRÁFICO DE DROGAS (EU);134;146
-Provincia de Bizkaia;7.-DAÑOS;3409;3102
-Provincia de Bizkaia;8.-HURTOS;12774;13839
-Municipio de Barakaldo;1.-DELITOS Y FALTAS (EU);3655;3461
-Municipio de Barakaldo;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Barakaldo;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);148;152
-Municipio de Barakaldo;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);239;179
-Municipio de Barakaldo;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);50;53
-Municipio de Barakaldo;6.-TRÁFICO DE DROGAS (EU);7;42
-Municipio de Barakaldo;7.-DAÑOS;389;313
-Municipio de Barakaldo;8.-HURTOS;1326;1440
-Municipio de Bilbao;1.-DELITOS Y FALTAS (EU);13883;14367
-Municipio de Bilbao;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);3;3
-Municipio de Bilbao;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);633;643
-Municipio de Bilbao;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);599;424
-Municipio de Bilbao;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);107;133
-Municipio de Bilbao;6.-TRÁFICO DE DROGAS (EU);68;53
-Municipio de Bilbao;7.-DAÑOS;1093;1033
-Municipio de Bilbao;8.-HURTOS;6647;7639
-Municipio de Getxo;1.-DELITOS Y FALTAS (EU);1643;1411
-Municipio de Getxo;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Getxo;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);45;48
-Municipio de Getxo;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);144;95
-Municipio de Getxo;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);24;15
-Municipio de Getxo;6.-TRÁFICO DE DROGAS (EU);1;2
-Municipio de Getxo;7.-DAÑOS;197;160
-Municipio de Getxo;8.-HURTOS;548;568
-RIOJA (LA);1.-DELITOS Y FALTAS (EU);6423;5984
-RIOJA (LA);2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-RIOJA (LA);3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);101;90
-RIOJA (LA);4.-ROBOS CON FUERZA EN DOMICILIOS (EU);495;352
-RIOJA (LA);5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);90;77
-RIOJA (LA);6.-TRÁFICO DE DROGAS (EU);44;43
-RIOJA (LA);7.-DAÑOS;806;728
-RIOJA (LA);8.-HURTOS;2138;2109
-Municipio de Logroño;1.-DELITOS Y FALTAS (EU);3413;3259
-Municipio de Logroño;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);0;0
-Municipio de Logroño;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);69;62
-Municipio de Logroño;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);167;139
-Municipio de Logroño;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);36;43
-Municipio de Logroño;6.-TRÁFICO DE DROGAS (EU);23;24
-Municipio de Logroño;7.-DAÑOS;356;327
-Municipio de Logroño;8.-HURTOS;1474;1498
-CIUDAD AUTÓNOMA DE CEUTA;1.-DELITOS Y FALTAS (EU);3673;3448
-CIUDAD AUTÓNOMA DE CEUTA;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;3
-CIUDAD AUTÓNOMA DE CEUTA;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);123;124
-CIUDAD AUTÓNOMA DE CEUTA;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);64;51
-CIUDAD AUTÓNOMA DE CEUTA;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);275;304
-CIUDAD AUTÓNOMA DE CEUTA;6.-TRÁFICO DE DROGAS (EU);308;199
-CIUDAD AUTÓNOMA DE CEUTA;7.-DAÑOS;235;207
-CIUDAD AUTÓNOMA DE CEUTA;8.-HURTOS;796;713
-CIUDAD AUTÓNOMA DE MELILLA;1.-DELITOS Y FALTAS (EU);3673;3644
-CIUDAD AUTÓNOMA DE MELILLA;2.-HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU);1;1
-CIUDAD AUTÓNOMA DE MELILLA;3.-ROBO CON VIOLENCIA E INTIMIDACIÓN (EU);221;283
-CIUDAD AUTÓNOMA DE MELILLA;4.-ROBOS CON FUERZA EN DOMICILIOS (EU);72;126
-CIUDAD AUTÓNOMA DE MELILLA;5.-SUSTRACCIÓN VEHÍCULOS A MOTOR (EU);88;79
-CIUDAD AUTÓNOMA DE MELILLA;6.-TRÁFICO DE DROGAS (EU);86;70
-CIUDAD AUTÓNOMA DE MELILLA;7.-DAÑOS;254;272
-CIUDAD AUTÓNOMA DE MELILLA;8.-HURTOS;1001;994
+TERRITORIO,CODIGO,TIPOLOGÍA PENAL,2015,2016
+ANDALUCÍA,1,258032,252684
+ANDALUCÍA,2,48,49
+ANDALUCÍA,3,5423,5686
+ANDALUCÍA,4,13571,13945
+ANDALUCÍA,5,6669,6600
+ANDALUCÍA,6,2469,2444
+ANDALUCÍA,7,25882
+ANDALUCÍA,8,84504,84445
+Provincia de Almería,1,23562,23277
+Provincia de Almería,2,4,5
+Provincia de Almería,3,511,492
+Provincia de Almería,4,1974,2067
+Provincia de Almería,5,505,497
+Provincia de Almería,6,187,206
+Provincia de Almería,7,DAÑOS,2732,2990
+Provincia de Almería,8,6506,6165
+Provincia de Cádiz,1,41455,38356
+Provincia de Cádiz,2,8,9
+Provincia de Cádiz,3,720,678
+Provincia de Cádiz,4,1829,1614
+Provincia de Cádiz,5,1361,1282
+Provincia de Cádiz,6,760,569
+Provincia de Cádiz,7,DAÑOS,4441,4228
+Provincia de Cádiz,8,13350,12708
+Provincia de Córdoba,1,19586,18218
+Provincia de Córdoba,2,2,0
+Provincia de Córdoba,3,382,392
+Provincia de Córdoba,4,875,904
+Provincia de Córdoba,5,290,323
+Provincia de Córdoba,6,94,140
+Provincia de Córdoba,7,DAÑOS,1980,1849
+Provincia de Córdoba,8,6162,5897
+Provincia de Granada,1,24497,24279
+Provincia de Granada,2,5,4
+Provincia de Granada,3,542,527
+Provincia de Granada,4,1473,1684
+Provincia de Granada,5,625,652
+Provincia de Granada,6,379,395
+Provincia de Granada,7,DAÑOS,2623,2604
+Provincia de Granada,8,7669,7718
+Provincia de Huelva,1,14894,15327
+Provincia de Huelva,2,3,6
+Provincia de Huelva,3,265,255
+Provincia de Huelva,4,1243,1129
+Provincia de Huelva,5,259,278
+Provincia de Huelva,6,116,102
+Provincia de Huelva,7,DAÑOS,1125,1304
+Provincia de Huelva,8,4293,4553
+Provincia de Jaén,1,12872,12572
+Provincia de Jaén,2,4,1
+Provincia de Jaén,3,267,253
+Provincia de Jaén,4,709,735
+Provincia de Jaén,5,282,284
+Provincia de Jaén,6,63,70
+Provincia de Jaén,7,DAÑOS,1567,1505
+Provincia de Jaén,8,3365,3226
+Provincia de Málaga,1,58787,60373
+Provincia de Málaga,2,13,13
+Provincia de Málaga,3,1108,1269
+Provincia de Málaga,4,2840,3272
+Provincia de Málaga,5,1874,1742
+Provincia de Málaga,6,625,655
+Provincia de Málaga,7,DAÑOS,5384,5811
+Provincia de Málaga,8,22115,23171
+Provincia de Sevilla,1,62379,60282
+Provincia de Sevilla,2,9,11
+Provincia de Sevilla,3,1628,1820
+Provincia de Sevilla,4,2628,2540
+Provincia de Sevilla,5,1473,1542
+Provincia de Sevilla,6,245,307
+Provincia de Sevilla,7,DAÑOS,5662,5591
+Provincia de Sevilla,8,21044,21007
+ARAGÓN,1,28441,28206
+ARAGÓN,2,7,8
+ARAGÓN,3,543,691
+ARAGÓN,4,1299,1372
+ARAGÓN,5,263,256
+ARAGÓN,6,215,179
+ARAGÓN,7,DAÑOS,3983,3861
+ARAGÓN,8,8938,8720
+Provincia de Huesca,1,3873,3805
+Provincia de Huesca,2,1,0
+Provincia de Huesca,3,23,42
+Provincia de Huesca,4,169,153
+Provincia de Huesca,5,35,31
+Provincia de Huesca,6,33,34
+Provincia de Huesca,7,DAÑOS,530,573
+Provincia de Huesca,8,1088,974
+Provincia de Teruel,1,1965,1887
+Provincia de Teruel,2,2,0
+Provincia de Teruel,3,20,16
+Provincia de Teruel,4,127,111
+Provincia de Teruel,5,15,14
+Provincia de Teruel,6,16,14
+Provincia de Teruel,7,DAÑOS,339,288
+Provincia de Teruel,8,418,437
+Provincia de Zaragoza,1,22603,22514
+Provincia de Zaragoza,2,4,8
+Provincia de Zaragoza,3,500,633
+Provincia de Zaragoza,4,1003,1108
+Provincia de Zaragoza,5,213,211
+Provincia de Zaragoza,6,166,131
+Provincia de Zaragoza,7,DAÑOS,3114,3000
+Provincia de Zaragoza,8,7432,7309
+ASTURIAS (PRINCIPADO DE),1,20194,19711
+ASTURIAS (PRINCIPADO DE),2,3,4
+ASTURIAS (PRINCIPADO DE),3,463,417
+ASTURIAS (PRINCIPADO DE),4,669,794
+ASTURIAS (PRINCIPADO DE),5,321,279
+ASTURIAS (PRINCIPADO DE),6,125,78
+ASTURIAS (PRINCIPADO DE),7,DAÑOS,2352,2241
+ASTURIAS (PRINCIPADO DE),8,6162,5768
+BALEARS (ILLES),1,53208,53775
+BALEARS (ILLES),2,5,8
+BALEARS (ILLES),3,879,918
+BALEARS (ILLES),4,2604,2456
+BALEARS (ILLES),5,1292,1442
+BALEARS (ILLES),6,366,416
+BALEARS (ILLES),7,DAÑOS,3790,3873
+BALEARS (ILLES),8,22906,22920
+Isla de Eivissa,1,12727,12105
+Isla de Eivissa,2,1,1
+Isla de Eivissa,3,243,233
+Isla de Eivissa,4,563,568
+Isla de Eivissa,5,523,509
+Isla de Eivissa,6,155,183
+Isla de Eivissa,7,DAÑOS,659,685
+Isla de Eivissa,8,6606,5752
+Isla de Formentera,1,651,667
+Isla de Formentera,2,0,0
+Isla de Formentera,3,3,3
+Isla de Formentera,4,130,115
+Isla de Formentera,5,73,80
+Isla de Formentera,6,6,4
+Isla de Formentera,7,DAÑOS,67,68
+Isla de Formentera,8,171,158
+Isla de Mallorca,1,37643,38672
+Isla de Mallorca,2,4,6
+Isla de Mallorca,3,616,653
+Isla de Mallorca,4,1822,1660
+Isla de Mallorca,5,671,829
+Isla de Mallorca,6,192,216
+Isla de Mallorca,7,DAÑOS,2837,2877
+Isla de Mallorca,8,15454,16213
+Isla de Menorca,1,2187,2331
+Isla de Menorca,2,0,1
+Isla de Menorca,3,17,29
+Isla de Menorca,4,89,113
+Isla de Menorca,5,25,24
+Isla de Menorca,6,13,13
+Isla de Menorca,7,DAÑOS,227,243
+Isla de Menorca,8,675,797
+CANARIAS,1,67416,66330
+CANARIAS,2,12,14
+CANARIAS,3,1123,1182
+CANARIAS,4,2497,2576
+CANARIAS,5,1268,1209
+CANARIAS,6,464,469
+CANARIAS,7,DAÑOS,5367,5399
+CANARIAS,8,22636,23286
+Provincia de Palmas (Las),1,35409,34876
+Provincia de Palmas (Las),2,10,8
+Provincia de Palmas (Las),3,551,594
+Provincia de Palmas (Las),4,1086,1164
+Provincia de Palmas (Las),5,647,594
+Provincia de Palmas (Las),6,269,308
+Provincia de Palmas (Las),7,DAÑOS,3049,3066
+Provincia de Palmas (Las),8,11197,11297
+Isla de Fuerteventura,1,3733,3861
+Isla de Fuerteventura,2,1,1
+Isla de Fuerteventura,3,54,61
+Isla de Fuerteventura,4,168,202
+Isla de Fuerteventura,5,62,36
+Isla de Fuerteventura,6,31,25
+Isla de Fuerteventura,7,DAÑOS,327,337
+Isla de Fuerteventura,8,1144,1180
+Isla de Gran Canaria,1,26579,25812
+Isla de Gran Canaria,2,7,7
+Isla de Gran Canaria,3,427,419
+Isla de Gran Canaria,4,692,671
+Isla de Gran Canaria,5,483,476
+Isla de Gran Canaria,6,211,248
+Isla de Gran Canaria,7,DAÑOS,2245,2250
+Isla de Gran Canaria,8,8531,8534
+Isla de Lanzarote,1,5097,5203
+Isla de Lanzarote,2,2,0
+Isla de Lanzarote,3,70,114
+Isla de Lanzarote,4,226,291
+Isla de Lanzarote,5,102,82
+Isla de Lanzarote,6,27,35
+Isla de Lanzarote,7,DAÑOS,477,479
+Isla de Lanzarote,8,1522,1583
+Provincia de Santa Cruz de Tenerife,1,32007,31454
+Provincia de Santa Cruz de Tenerife,2,2,6
+Provincia de Santa Cruz de Tenerife,3,572,588
+Provincia de Santa Cruz de Tenerife,4,1411,1412
+Provincia de Santa Cruz de Tenerife,5,621,615
+Provincia de Santa Cruz de Tenerife,6,195,161
+Provincia de Santa Cruz de Tenerife,7,DAÑOS,2318,2333
+Provincia de Santa Cruz de Tenerife,8,11439,11989
+Isla de Gomera (La),1,233,230
+Isla de Gomera (La),2,0,0
+Isla de Gomera (La),3,0,2
+Isla de Gomera (La),4,3,7
+Isla de Gomera (La),5,2,3
+Isla de Gomera (La),6,2,7
+Isla de Gomera (La),7,DAÑOS,39,34
+Isla de Gomera (La),8,33,46
+Isla de Hierro (El),1,102,104
+Isla de Hierro (El),2,0,0
+Isla de Hierro (El),3,1,1
+Isla de Hierro (El),4,3,3
+Isla de Hierro (El),5,1,1
+Isla de Hierro (El),6,0,0
+Isla de Hierro (El),7,DAÑOS,11,11
+Isla de Hierro (El),8,23,18
+Isla de Palma (La),1,1481,1431
+Isla de Palma (La),2,1,0
+Isla de Palma (La),3,9,8
+Isla de Palma (La),4,80,103
+Isla de Palma (La),5,12,16
+Isla de Palma (La),6,10,11
+Isla de Palma (La),7,DAÑOS,177,140
+Isla de Palma (La),8,374,394
+Isla de Tenerife,1,30191,29689
+Isla de Tenerife,2,1,6
+Isla de Tenerife,3,562,577
+Isla de Tenerife,4,1325,1299
+Isla de Tenerife,5,606,595
+Isla de Tenerife,6,183,143
+Isla de Tenerife,7,DAÑOS,2091,2148
+Isla de Tenerife,8,11009,11531
+CANTABRIA,1,12559,12739
+CANTABRIA,2,3,0
+CANTABRIA,3,208,161
+CANTABRIA,4,487,716
+CANTABRIA,5,182,175
+CANTABRIA,6,94,71
+CANTABRIA,7,DAÑOS,1272,1476
+CANTABRIA,8,3874,3865
+CASTILLA Y LEÓN,1,56151,54316
+CASTILLA Y LEÓN,2,6,6
+CASTILLA Y LEÓN,3,689,679
+CASTILLA Y LEÓN,4,2506,2612
+CASTILLA Y LEÓN,5,555,672
+CASTILLA Y LEÓN,6,240,259
+CASTILLA Y LEÓN,7,DAÑOS,8071,8103
+CASTILLA Y LEÓN,8,18340,16932
+Provincia de Ávila,1,3728,3630
+Provincia de Ávila,2,1,0
+Provincia de Ávila,3,41,33
+Provincia de Ávila,4,352,327
+Provincia de Ávila,5,29,30
+Provincia de Ávila,6,18,17
+Provincia de Ávila,7,DAÑOS,649,632
+Provincia de Ávila,8,794,698
+Provincia de Burgos,1,8354,8334
+Provincia de Burgos,2,0,2
+Provincia de Burgos,3,120,147
+Provincia de Burgos,4,345,310
+Provincia de Burgos,5,84,121
+Provincia de Burgos,6,34,58
+Provincia de Burgos,7,DAÑOS,1242,1239
+Provincia de Burgos,8,2929,2733
+Provincia de León,1,11689,11182
+Provincia de León,2,2,2
+Provincia de León,3,176,185
+Provincia de León,4,571,667
+Provincia de León,5,136,161
+Provincia de León,6,42,32
+Provincia de León,7,DAÑOS,1803,1684
+Provincia de León,8,3722,3442
+Provincia de Palencia,1,2992,2927
+Provincia de Palencia,2,0,0
+Provincia de Palencia,3,40,37
+Provincia de Palencia,4,110,110
+Provincia de Palencia,5,18,38
+Provincia de Palencia,6,14,11
+Provincia de Palencia,7,DAÑOS,529,508
+Provincia de Palencia,8,870,784
+Provincia de Salamanca,1,7506,7289
+Provincia de Salamanca,2,2,2
+Provincia de Salamanca,3,124,117
+Provincia de Salamanca,4,262,191
+Provincia de Salamanca,5,81,91
+Provincia de Salamanca,6,44,38
+Provincia de Salamanca,7,DAÑOS,863,916
+Provincia de Salamanca,8,2823,2876
+Provincia de Segovia,1,3368,3339
+Provincia de Segovia,2,0,0
+Provincia de Segovia,3,35,22
+Provincia de Segovia,4,203,259
+Provincia de Segovia,5,27,32
+Provincia de Segovia,6,18,25
+Provincia de Segovia,7,DAÑOS,519,567
+Provincia de Segovia,8,885,710
+Provincia de Soria,1,1730,1750
+Provincia de Soria,2,1,0
+Provincia de Soria,3,17,21
+Provincia de Soria,4,96,106
+Provincia de Soria,5,4,19
+Provincia de Soria,6,13,10
+Provincia de Soria,7,DAÑOS,210,287
+Provincia de Soria,8,488,411
+Provincia de Valladolid,1,13334,12473
+Provincia de Valladolid,2,0,0
+Provincia de Valladolid,3,99,89
+Provincia de Valladolid,4,426,513
+Provincia de Valladolid,5,121,134
+Provincia de Valladolid,6,35,48
+Provincia de Valladolid,7,DAÑOS,1847,1814
+Provincia de Valladolid,8,4796,4302
+Provincia de Zamora,1,3450,3392
+Provincia de Zamora,2,0,0
+Provincia de Zamora,3,37,28
+Provincia de Zamora,4,141,129
+Provincia de Zamora,5,55,46
+Provincia de Zamora,6,22,20
+Provincia de Zamora,7,DAÑOS,409,456
+Provincia de Zamora,8,1033,976
+CASTILLA - LA MANCHA,1,50835,48238
+CASTILLA - LA MANCHA,2,11,10
+CASTILLA - LA MANCHA,3,780,791
+CASTILLA - LA MANCHA,4,4517,4400
+CASTILLA - LA MANCHA,5,921,1109
+CASTILLA - LA MANCHA,6,272,271
+CASTILLA - LA MANCHA,7,DAÑOS,6043,5404
+CASTILLA - LA MANCHA,8,12917,12078
+Provincia de Albacete,1,9398,8779
+Provincia de Albacete,2,2,1
+Provincia de Albacete,3,158,167
+Provincia de Albacete,4,561,516
+Provincia de Albacete,5,138,140
+Provincia de Albacete,6,71,62
+Provincia de Albacete,7,DAÑOS,955,870
+Provincia de Albacete,8,3491,3134
+Provincia de Ciudad Real,1,10842,9581
+Provincia de Ciudad Real,2,4,0
+Provincia de Ciudad Real,3,127,118
+Provincia de Ciudad Real,4,561,516
+Provincia de Ciudad Real,5,94,130
+Provincia de Ciudad Real,6,73,86
+Provincia de Ciudad Real,7,DAÑOS,1280,1018
+Provincia de Ciudad Real,8,2798,2566
+Provincia de Cuenca,1,4391,4424
+Provincia de Cuenca,2,3,0
+Provincia de Cuenca,3,62,60
+Provincia de Cuenca,4,313,302
+Provincia de Cuenca,5,47,77
+Provincia de Cuenca,6,11,10
+Provincia de Cuenca,7,DAÑOS,629,676
+Provincia de Cuenca,8,1078,1016
+Provincia de Guadalajara,1,6694,6584
+Provincia de Guadalajara,2,1,6
+Provincia de Guadalajara,3,120,170
+Provincia de Guadalajara,4,603,551
+Provincia de Guadalajara,5,183,232
+Provincia de Guadalajara,6,23,23
+Provincia de Guadalajara,7,DAÑOS,1231,984
+Provincia de Guadalajara,8,1521,1482
+Provincia de Toledo,1,19510,18870
+Provincia de Toledo,2,1,3
+Provincia de Toledo,3,313,276
+Provincia de Toledo,4,2479,2515
+Provincia de Toledo,5,459,530
+Provincia de Toledo,6,94,90
+Provincia de Toledo,7,DAÑOS,1948,1856
+Provincia de Toledo,8,4029,3880
+CATALUÑA,1,315478,306558
+CATALUÑA,2,28,41
+CATALUÑA,3,16340,14942
+CATALUÑA,4,18030,17696
+CATALUÑA,5,6409,5915
+CATALUÑA,6,1457,1666
+CATALUÑA,7,DAÑOS,29517,29404
+CATALUÑA,8,126154,124432
+Provincia de Barcelona,1,238761,235302
+Provincia de Barcelona,2,25,32
+Provincia de Barcelona,3,14566,13176
+Provincia de Barcelona,4,12521,12149
+Provincia de Barcelona,5,5403,5069
+Provincia de Barcelona,6,841,991
+Provincia de Barcelona,7,DAÑOS,20982,21095
+Provincia de Barcelona,8,102564,102958
+Provincia de Girona,1,31747,29000
+Provincia de Girona,2,0,2
+Provincia de Girona,3,615,612
+Provincia de Girona,4,2117,2279
+Provincia de Girona,5,454,375
+Provincia de Girona,6,345,347
+Provincia de Girona,7,DAÑOS,3424,3109
+Provincia de Girona,8,10733,9574
+Provincia de Lleida,1,14399,13281
+Provincia de Lleida,2,2,3
+Provincia de Lleida,3,331,308
+Provincia de Lleida,4,632,523
+Provincia de Lleida,5,184,120
+Provincia de Lleida,6,53,75
+Provincia de Lleida,7,DAÑOS,1882,1752
+Provincia de Lleida,8,3973,3788
+Provincia de Tarragona,1,30571,28975
+Provincia de Tarragona,2,1,4
+Provincia de Tarragona,3,828,846
+Provincia de Tarragona,4,2760,2745
+Provincia de Tarragona,5,368,351
+Provincia de Tarragona,6,218,253
+Provincia de Tarragona,7,DAÑOS,3229,3448
+Provincia de Tarragona,8,8884,8112
+COMUNITAT VALENCIANA,1,179591,176393
+COMUNITAT VALENCIANA,2,34,23
+COMUNITAT VALENCIANA,3,4695,4598
+COMUNITAT VALENCIANA,4,14697,14684
+COMUNITAT VALENCIANA,5,3305,3320
+COMUNITAT VALENCIANA,6,1177,1292
+COMUNITAT VALENCIANA,7,DAÑOS,21290,20862
+COMUNITAT VALENCIANA,8,60521,59599
+Provincia de Alicante/Alacant,1,71235,70289
+Provincia de Alicante/Alacant,2,23,11
+Provincia de Alicante/Alacant,3,1523,1618
+Provincia de Alicante/Alacant,4,6268,6775
+Provincia de Alicante/Alacant,5,1600,1550
+Provincia de Alicante/Alacant,6,479,568
+Provincia de Alicante/Alacant,7,DAÑOS,7648,7366
+Provincia de Alicante/Alacant,8,25056,24495
+Provincia de Castellón/Castelló,1,19596,18752
+Provincia de Castellón/Castelló,2,2,1
+Provincia de Castellón/Castelló,3,347,395
+Provincia de Castellón/Castelló,4,2211,1848
+Provincia de Castellón/Castelló,5,285,220
+Provincia de Castellón/Castelló,6,105,92
+Provincia de Castellón/Castelló,7,DAÑOS,2410,2158
+Provincia de Castellón/Castelló,8,5905,5980
+Provincia de Valencia/València,1,88760,87352
+Provincia de Valencia/València,2,9,11
+Provincia de Valencia/València,3,2825,2585
+Provincia de Valencia/València,4,6218,6061
+Provincia de Valencia/València,5,1420,1550
+Provincia de Valencia/València,6,593,632
+Provincia de Valencia/València,7,DAÑOS,11232,11338
+Provincia de Valencia/València,8,29560,29124
+EXTREMADURA,1,20400,19748
+EXTREMADURA,2,1,4
+EXTREMADURA,3,220,221
+EXTREMADURA,4,999,962
+EXTREMADURA,5,280,309
+EXTREMADURA,6,153,162
+EXTREMADURA,7,DAÑOS,2443,2398
+EXTREMADURA,8,5973,5548
+Provincia de Badajoz,1,14059,13776
+Provincia de Badajoz,2,0,3
+Provincia de Badajoz,3,175,160
+Provincia de Badajoz,4,730,682
+Provincia de Badajoz,5,218,243
+Provincia de Badajoz,6,108,96
+Provincia de Badajoz,7,DAÑOS,1531,1605
+Provincia de Badajoz,8,4237,3982
+Provincia de Cáceres,1,6341,5972
+Provincia de Cáceres,2,1,1
+Provincia de Cáceres,3,45,61
+Provincia de Cáceres,4,269,280
+Provincia de Cáceres,5,62,66
+Provincia de Cáceres,6,45,66
+Provincia de Cáceres,7,DAÑOS,912,793
+Provincia de Cáceres,8,1736,1566
+GALICIA,1,58121,56411
+GALICIA,2,11,11
+GALICIA,3,811,839
+GALICIA,4,2880,2776
+GALICIA,5,721,802
+GALICIA,6,262,253
+GALICIA,7,DAÑOS,7524,7326
+GALICIA,8,16996,16418
+Provincia de Coruña (A),1,24573,24595
+Provincia de Coruña (A),2,3,7
+Provincia de Coruña (A),3,335,369
+Provincia de Coruña (A),4,1286,1248
+Provincia de Coruña (A),5,309,371
+Provincia de Coruña (A),6,83,75
+Provincia de Coruña (A),7,DAÑOS,3164,3085
+Provincia de Coruña (A),8,7545,7288
+Provincia de Lugo,1,5477,5406
+Provincia de Lugo,2,0,3
+Provincia de Lugo,3,87,75
+Provincia de Lugo,4,269,255
+Provincia de Lugo,5,43,64
+Provincia de Lugo,6,28,37
+Provincia de Lugo,7,DAÑOS,764,767
+Provincia de Lugo,8,1446,1417
+Provincia de Ourense,1,5743,5574
+Provincia de Ourense,2,2,0
+Provincia de Ourense,3,107,85
+Provincia de Ourense,4,253,295
+Provincia de Ourense,5,85,78
+Provincia de Ourense,6,24,18
+Provincia de Ourense,7,DAÑOS,622,610
+Provincia de Ourense,8,1739,1551
+Provincia de Pontevedra,1,22328,20836
+Provincia de Pontevedra,2,6,1
+Provincia de Pontevedra,3,282,310
+Provincia de Pontevedra,4,1072,978
+Provincia de Pontevedra,5,284,289
+Provincia de Pontevedra,6,127,123
+Provincia de Pontevedra,7,DAÑOS,2974,2864
+Provincia de Pontevedra,8,6266,6162
+MADRID (COMUNIDAD DE),1,269965,277774
+MADRID (COMUNIDAD DE),2,22,29
+MADRID (COMUNIDAD DE),3,12751,12624
+MADRID (COMUNIDAD DE),4,11576,12084
+MADRID (COMUNIDAD DE),5,7596,7681
+MADRID (COMUNIDAD DE),6,1092,1083
+MADRID (COMUNIDAD DE),7,DAÑOS,32797,33090
+MADRID (COMUNIDAD DE),8,106406,110411
+MURCIA (REGIÓN DE),1,40284,38726
+MURCIA (REGIÓN DE),2,6,10
+MURCIA (REGIÓN DE),3,1086,1115
+MURCIA (REGIÓN DE),4,3700,3863
+MURCIA (REGIÓN DE),5,931,991
+MURCIA (REGIÓN DE),6,193,222
+MURCIA (REGIÓN DE),7,DAÑOS,3481,3562
+MURCIA (REGIÓN DE),8,12639,12010
+NAVARRA (COMUNIDAD FORAL DE),1,18650,19705
+NAVARRA (COMUNIDAD FORAL DE),2,3,0
+NAVARRA (COMUNIDAD FORAL DE),3,289,346
+NAVARRA (COMUNIDAD FORAL DE),4,712,761
+NAVARRA (COMUNIDAD FORAL DE),5,134,168
+NAVARRA (COMUNIDAD FORAL DE),6,120,166
+NAVARRA (COMUNIDAD FORAL DE),7,DAÑOS,2400,2466
+NAVARRA (COMUNIDAD FORAL DE),8,6347,6398
+PAÍS VASCO,1,64173,62224
+PAÍS VASCO,2,10,6
+PAÍS VASCO,3,1379,1480
+PAÍS VASCO,4,3541,3109
+PAÍS VASCO,5,669,763
+PAÍS VASCO,6,265,253
+PAÍS VASCO,7,DAÑOS,5781,5486
+PAÍS VASCO,8,20884,22054
+Provincia de Araba/Álava,1,9414,8947
+Provincia de Araba/Álava,2,1,2
+Provincia de Araba/Álava,3,144,148
+Provincia de Araba/Álava,4,380,274
+Provincia de Araba/Álava,5,68,77
+Provincia de Araba/Álava,6,26,30
+Provincia de Araba/Álava,7,DAÑOS,922,944
+Provincia de Araba/Álava,8,3506,3568
+Provincia de Gipuzkoa,1,17820,16839
+Provincia de Gipuzkoa,2,3,1
+Provincia de Gipuzkoa,3,217,243
+Provincia de Gipuzkoa,4,1330,1184
+Provincia de Gipuzkoa,5,217,200
+Provincia de Gipuzkoa,6,105,77
+Provincia de Gipuzkoa,7,DAÑOS,1450,1440
+Provincia de Gipuzkoa,8,4604,4647
+Provincia de Bizkaia,1,36939,36438
+Provincia de Bizkaia,2,6,3
+Provincia de Bizkaia,3,1018,1089
+Provincia de Bizkaia,4,1831,1651
+Provincia de Bizkaia,5,384,486
+Provincia de Bizkaia,6,134,146
+Provincia de Bizkaia,7,DAÑOS,3409,3102
+Provincia de Bizkaia,8,12774,13839
+RIOJA (LA),1,6423,5984
+RIOJA (LA),2,0,0
+RIOJA (LA),3,101,90
+RIOJA (LA),4,495,352
+RIOJA (LA),5,90,77
+RIOJA (LA),6,44,43
+RIOJA (LA),7,DAÑOS,806,728
+RIOJA (LA),8,2138,2109
+CIUDAD AUTÓNOMA DE CEUTA,1,3673,3448
+CIUDAD AUTÓNOMA DE CEUTA,2,1,3
+CIUDAD AUTÓNOMA DE CEUTA,3,123,124
+CIUDAD AUTÓNOMA DE CEUTA,4,64,51
+CIUDAD AUTÓNOMA DE CEUTA,5,275,304
+CIUDAD AUTÓNOMA DE CEUTA,6,308,199
+CIUDAD AUTÓNOMA DE CEUTA,7,DAÑOS,235,207
+CIUDAD AUTÓNOMA DE CEUTA,8,796,713
+CIUDAD AUTÓNOMA DE MELILLA,1,3673,3644
+CIUDAD AUTÓNOMA DE MELILLA,2,1,1
+CIUDAD AUTÓNOMA DE MELILLA,3,221,283
+CIUDAD AUTÓNOMA DE MELILLA,4,72,126
+CIUDAD AUTÓNOMA DE MELILLA,5,88,79
+CIUDAD AUTÓNOMA DE MELILLA,6,86,70
+CIUDAD AUTÓNOMA DE MELILLA,7,DAÑOS,254,272
+CIUDAD AUTÓNOMA DE MELILLA,8,1001,994
