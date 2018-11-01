@@ -24,7 +24,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/datasetRequirements', datasetRequirements);
 app.use('/applicationRequirements', applicationRequirements);
-app.use('/p/:prov_id', province);
+app.use('/p', province);
 
 
 // catch 404 and forward to error handler
