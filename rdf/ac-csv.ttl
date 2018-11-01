@@ -1,0 +1,63 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+
+<http://provincepedia.ml/ac#0> rdf:value "1"^^xsd:int ;
+	rdfs:comment "ANDALUCIA" .
+
+<http://provincepedia.ml/ac#1> rdf:value "2"^^xsd:int ;
+	rdfs:comment "ARAGON" .
+
+<http://provincepedia.ml/ac#2> rdf:value "3"^^xsd:int ;
+	rdfs:comment "ASTURIAS" .
+
+<http://provincepedia.ml/ac#3> rdf:value "4"^^xsd:int ;
+	rdfs:comment "ILLES BALEARS" .
+
+<http://provincepedia.ml/ac#4> rdf:value "5"^^xsd:int ;
+	rdfs:comment "CANARIAS" .
+
+<http://provincepedia.ml/ac#5> rdf:value "6"^^xsd:int ;
+	rdfs:comment "CANTABRIA" .
+
+<http://provincepedia.ml/ac#6> rdf:value "7"^^xsd:int ;
+	rdfs:comment "CASTILLA-LEON" .
+
+<http://provincepedia.ml/ac#7> rdf:value "8"^^xsd:int ;
+	rdfs:comment "CASTILLA-MANCHA" .
+
+<http://provincepedia.ml/ac#8> rdf:value "9"^^xsd:int ;
+	rdfs:comment "CATALU��A" .
+
+<http://provincepedia.ml/ac#9> rdf:value "10"^^xsd:int ;
+	rdfs:comment "EXTREMADURA" .
+
+<http://provincepedia.ml/ac#10> rdf:value "11"^^xsd:int ;
+	rdfs:comment "GALICIA" .
+
+<http://provincepedia.ml/ac#11> rdf:value "12"^^xsd:int ;
+	rdfs:comment "MADRID" .
+
+<http://provincepedia.ml/ac#12> rdf:value "13"^^xsd:int ;
+	rdfs:comment "MURCIA" .
+
+<http://provincepedia.ml/ac#13> rdf:value "14"^^xsd:int ;
+	rdfs:comment "NAVARRA" .
+
+<http://provincepedia.ml/ac#14> rdf:value "15"^^xsd:int ;
+	rdfs:comment "PAIS VASCO" .
+
+<http://provincepedia.ml/ac#15> rdf:value "16"^^xsd:int ;
+	rdfs:comment "RIOJA" .
+
+<http://provincepedia.ml/ac#16> rdf:value "17"^^xsd:int ;
+	rdfs:comment "C.VALENCIANA" .
+
+<http://provincepedia.ml/ac#17> rdf:value "18"^^xsd:int ;
+	rdfs:comment "CEUTA" .
+
+<http://provincepedia.ml/ac#18> rdf:value "19"^^xsd:int ;
+	rdfs:comment "MELILLA" .

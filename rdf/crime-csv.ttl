@@ -1,0 +1,1086 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+
+<http://provincepedia.ml/crime#0> rdf:subject "1"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "9414"^^xsd:int , "8947"^^xsd:int .
+
+<http://provincepedia.ml/crime#1> rdf:subject "1"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int .
+
+<http://provincepedia.ml/crime#2> rdf:subject "1"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "144"^^xsd:int , "148"^^xsd:int .
+
+<http://provincepedia.ml/crime#3> rdf:subject "1"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "380"^^xsd:int , "274"^^xsd:int .
+
+<http://provincepedia.ml/crime#4> rdf:subject "1"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "68"^^xsd:int , "77"^^xsd:int .
+
+<http://provincepedia.ml/crime#5> rdf:subject "1"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "26"^^xsd:int , "30"^^xsd:int .
+
+<http://provincepedia.ml/crime#6> rdf:subject "1"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "922"^^xsd:int , "944"^^xsd:int .
+
+<http://provincepedia.ml/crime#7> rdf:subject "1"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "3506"^^xsd:int , "3568"^^xsd:int .
+
+<http://provincepedia.ml/crime#8> rdf:subject "2"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "9398"^^xsd:int , "8779"^^xsd:int .
+
+<http://provincepedia.ml/crime#9> rdf:subject "2"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int .
+
+<http://provincepedia.ml/crime#10> rdf:subject "2"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "158"^^xsd:int , "167"^^xsd:int .
+
+<http://provincepedia.ml/crime#11> rdf:subject "2"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "561"^^xsd:int , "516"^^xsd:int .
+
+<http://provincepedia.ml/crime#12> rdf:subject "2"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "138"^^xsd:int , "140"^^xsd:int .
+
+<http://provincepedia.ml/crime#13> rdf:subject "2"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "71"^^xsd:int , "62"^^xsd:int .
+
+<http://provincepedia.ml/crime#14> rdf:subject "2"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "955"^^xsd:int , "870"^^xsd:int .
+
+<http://provincepedia.ml/crime#15> rdf:subject "2"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "3491"^^xsd:int , "3134"^^xsd:int .
+
+<http://provincepedia.ml/crime#16> rdf:subject "3"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "71235"^^xsd:int , "70289"^^xsd:int .
+
+<http://provincepedia.ml/crime#17> rdf:subject "3"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "23"^^xsd:int , "11"^^xsd:int .
+
+<http://provincepedia.ml/crime#18> rdf:subject "3"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "1523"^^xsd:int , "1618"^^xsd:int .
+
+<http://provincepedia.ml/crime#19> rdf:subject "3"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "6268"^^xsd:int , "6775"^^xsd:int .
+
+<http://provincepedia.ml/crime#20> rdf:subject "3"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "1600"^^xsd:int , "1550"^^xsd:int .
+
+<http://provincepedia.ml/crime#21> rdf:subject "3"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "479"^^xsd:int , "568"^^xsd:int .
+
+<http://provincepedia.ml/crime#22> rdf:subject "3"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "7648"^^xsd:int , "7366"^^xsd:int .
+
+<http://provincepedia.ml/crime#23> rdf:subject "3"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "25056"^^xsd:int , "24495"^^xsd:int .
+
+<http://provincepedia.ml/crime#24> rdf:subject "4"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "23562"^^xsd:int , "23277"^^xsd:int .
+
+<http://provincepedia.ml/crime#25> rdf:subject "4"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "4"^^xsd:int , "5"^^xsd:int .
+
+<http://provincepedia.ml/crime#26> rdf:subject "4"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "511"^^xsd:int , "492"^^xsd:int .
+
+<http://provincepedia.ml/crime#27> rdf:subject "4"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1974"^^xsd:int , "2067"^^xsd:int .
+
+<http://provincepedia.ml/crime#28> rdf:subject "4"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "505"^^xsd:int , "497"^^xsd:int .
+
+<http://provincepedia.ml/crime#29> rdf:subject "4"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "187"^^xsd:int , "206"^^xsd:int .
+
+<http://provincepedia.ml/crime#30> rdf:subject "4"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "2732"^^xsd:int , "2990"^^xsd:int .
+
+<http://provincepedia.ml/crime#31> rdf:subject "4"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "6506"^^xsd:int , "6165"^^xsd:int .
+
+<http://provincepedia.ml/crime#32> rdf:subject "5"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "3728"^^xsd:int , "3630"^^xsd:int .
+
+<http://provincepedia.ml/crime#33> rdf:subject "5"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#34> rdf:subject "5"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "41"^^xsd:int , "33"^^xsd:int .
+
+<http://provincepedia.ml/crime#35> rdf:subject "5"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "352"^^xsd:int , "327"^^xsd:int .
+
+<http://provincepedia.ml/crime#36> rdf:subject "5"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "29"^^xsd:int , "30"^^xsd:int .
+
+<http://provincepedia.ml/crime#37> rdf:subject "5"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "18"^^xsd:int , "17"^^xsd:int .
+
+<http://provincepedia.ml/crime#38> rdf:subject "5"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "649"^^xsd:int , "632"^^xsd:int .
+
+<http://provincepedia.ml/crime#39> rdf:subject "5"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "794"^^xsd:int , "698"^^xsd:int .
+
+<http://provincepedia.ml/crime#40> rdf:subject "6"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "14059"^^xsd:int , "13776"^^xsd:int .
+
+<http://provincepedia.ml/crime#41> rdf:subject "6"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int , "3"^^xsd:int .
+
+<http://provincepedia.ml/crime#42> rdf:subject "6"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "175"^^xsd:int , "160"^^xsd:int .
+
+<http://provincepedia.ml/crime#43> rdf:subject "6"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "730"^^xsd:int , "682"^^xsd:int .
+
+<http://provincepedia.ml/crime#44> rdf:subject "6"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "218"^^xsd:int , "243"^^xsd:int .
+
+<http://provincepedia.ml/crime#45> rdf:subject "6"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "108"^^xsd:int , "96"^^xsd:int .
+
+<http://provincepedia.ml/crime#46> rdf:subject "6"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1531"^^xsd:int , "1605"^^xsd:int .
+
+<http://provincepedia.ml/crime#47> rdf:subject "6"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "4237"^^xsd:int , "3982"^^xsd:int .
+
+<http://provincepedia.ml/crime#48> rdf:subject "8"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "238761"^^xsd:int , "235302"^^xsd:int .
+
+<http://provincepedia.ml/crime#49> rdf:subject "8"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "25"^^xsd:int , "32"^^xsd:int .
+
+<http://provincepedia.ml/crime#50> rdf:subject "8"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "14566"^^xsd:int , "13176"^^xsd:int .
+
+<http://provincepedia.ml/crime#51> rdf:subject "8"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "12521"^^xsd:int , "12149"^^xsd:int .
+
+<http://provincepedia.ml/crime#52> rdf:subject "8"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "5403"^^xsd:int , "5069"^^xsd:int .
+
+<http://provincepedia.ml/crime#53> rdf:subject "8"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "841"^^xsd:int , "991"^^xsd:int .
+
+<http://provincepedia.ml/crime#54> rdf:subject "8"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "20982"^^xsd:int , "21095"^^xsd:int .
+
+<http://provincepedia.ml/crime#55> rdf:subject "8"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "102564"^^xsd:int , "102958"^^xsd:int .
+
+<http://provincepedia.ml/crime#56> rdf:subject "9"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "8354"^^xsd:int , "8334"^^xsd:int .
+
+<http://provincepedia.ml/crime#57> rdf:subject "9"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#58> rdf:subject "9"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "120"^^xsd:int , "147"^^xsd:int .
+
+<http://provincepedia.ml/crime#59> rdf:subject "9"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "345"^^xsd:int , "310"^^xsd:int .
+
+<http://provincepedia.ml/crime#60> rdf:subject "9"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "84"^^xsd:int , "121"^^xsd:int .
+
+<http://provincepedia.ml/crime#61> rdf:subject "9"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "34"^^xsd:int , "58"^^xsd:int .
+
+<http://provincepedia.ml/crime#62> rdf:subject "9"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1242"^^xsd:int , "1239"^^xsd:int .
+
+<http://provincepedia.ml/crime#63> rdf:subject "9"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "2929"^^xsd:int , "2733"^^xsd:int .
+
+<http://provincepedia.ml/crime#64> rdf:subject "10"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "6341"^^xsd:int , "5972"^^xsd:int .
+
+<http://provincepedia.ml/crime#65> rdf:subject "10"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int .
+
+<http://provincepedia.ml/crime#66> rdf:subject "10"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "45"^^xsd:int , "61"^^xsd:int .
+
+<http://provincepedia.ml/crime#67> rdf:subject "10"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "269"^^xsd:int , "280"^^xsd:int .
+
+<http://provincepedia.ml/crime#68> rdf:subject "10"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "62"^^xsd:int , "66"^^xsd:int .
+
+<http://provincepedia.ml/crime#69> rdf:subject "10"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "45"^^xsd:int , "66"^^xsd:int .
+
+<http://provincepedia.ml/crime#70> rdf:subject "10"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "912"^^xsd:int , "793"^^xsd:int .
+
+<http://provincepedia.ml/crime#71> rdf:subject "10"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "1736"^^xsd:int , "1566"^^xsd:int .
+
+<http://provincepedia.ml/crime#72> rdf:subject "11"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "41455"^^xsd:int , "38356"^^xsd:int .
+
+<http://provincepedia.ml/crime#73> rdf:subject "11"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "8"^^xsd:int , "9"^^xsd:int .
+
+<http://provincepedia.ml/crime#74> rdf:subject "11"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "720"^^xsd:int , "678"^^xsd:int .
+
+<http://provincepedia.ml/crime#75> rdf:subject "11"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1829"^^xsd:int , "1614"^^xsd:int .
+
+<http://provincepedia.ml/crime#76> rdf:subject "11"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "1361"^^xsd:int , "1282"^^xsd:int .
+
+<http://provincepedia.ml/crime#77> rdf:subject "11"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "760"^^xsd:int , "569"^^xsd:int .
+
+<http://provincepedia.ml/crime#78> rdf:subject "11"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "4441"^^xsd:int , "4228"^^xsd:int .
+
+<http://provincepedia.ml/crime#79> rdf:subject "11"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "13350"^^xsd:int , "12708"^^xsd:int .
+
+<http://provincepedia.ml/crime#80> rdf:subject "12"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "19596"^^xsd:int , "18752"^^xsd:int .
+
+<http://provincepedia.ml/crime#81> rdf:subject "12"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int .
+
+<http://provincepedia.ml/crime#82> rdf:subject "12"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "347"^^xsd:int , "395"^^xsd:int .
+
+<http://provincepedia.ml/crime#83> rdf:subject "12"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "2211"^^xsd:int , "1848"^^xsd:int .
+
+<http://provincepedia.ml/crime#84> rdf:subject "12"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "285"^^xsd:int , "220"^^xsd:int .
+
+<http://provincepedia.ml/crime#85> rdf:subject "12"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "105"^^xsd:int , "92"^^xsd:int .
+
+<http://provincepedia.ml/crime#86> rdf:subject "12"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "2410"^^xsd:int , "2158"^^xsd:int .
+
+<http://provincepedia.ml/crime#87> rdf:subject "12"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "5905"^^xsd:int , "5980"^^xsd:int .
+
+<http://provincepedia.ml/crime#88> rdf:subject "13"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "10842"^^xsd:int , "9581"^^xsd:int .
+
+<http://provincepedia.ml/crime#89> rdf:subject "13"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "4"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#90> rdf:subject "13"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "127"^^xsd:int , "118"^^xsd:int .
+
+<http://provincepedia.ml/crime#91> rdf:subject "13"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "561"^^xsd:int , "516"^^xsd:int .
+
+<http://provincepedia.ml/crime#92> rdf:subject "13"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "94"^^xsd:int , "130"^^xsd:int .
+
+<http://provincepedia.ml/crime#93> rdf:subject "13"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "73"^^xsd:int , "86"^^xsd:int .
+
+<http://provincepedia.ml/crime#94> rdf:subject "13"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1280"^^xsd:int , "1018"^^xsd:int .
+
+<http://provincepedia.ml/crime#95> rdf:subject "13"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "2798"^^xsd:int , "2566"^^xsd:int .
+
+<http://provincepedia.ml/crime#96> rdf:subject "14"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "19586"^^xsd:int , "18218"^^xsd:int .
+
+<http://provincepedia.ml/crime#97> rdf:subject "14"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#98> rdf:subject "14"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "382"^^xsd:int , "392"^^xsd:int .
+
+<http://provincepedia.ml/crime#99> rdf:subject "14"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "875"^^xsd:int , "904"^^xsd:int .
+
+<http://provincepedia.ml/crime#100> rdf:subject "14"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "290"^^xsd:int , "323"^^xsd:int .
+
+<http://provincepedia.ml/crime#101> rdf:subject "14"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "94"^^xsd:int , "140"^^xsd:int .
+
+<http://provincepedia.ml/crime#102> rdf:subject "14"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1980"^^xsd:int , "1849"^^xsd:int .
+
+<http://provincepedia.ml/crime#103> rdf:subject "14"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "6162"^^xsd:int , "5897"^^xsd:int .
+
+<http://provincepedia.ml/crime#104> rdf:subject "15"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "24573"^^xsd:int , "24595"^^xsd:int .
+
+<http://provincepedia.ml/crime#105> rdf:subject "15"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "3"^^xsd:int , "7"^^xsd:int .
+
+<http://provincepedia.ml/crime#106> rdf:subject "15"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "335"^^xsd:int , "369"^^xsd:int .
+
+<http://provincepedia.ml/crime#107> rdf:subject "15"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1286"^^xsd:int , "1248"^^xsd:int .
+
+<http://provincepedia.ml/crime#108> rdf:subject "15"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "309"^^xsd:int , "371"^^xsd:int .
+
+<http://provincepedia.ml/crime#109> rdf:subject "15"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "83"^^xsd:int , "75"^^xsd:int .
+
+<http://provincepedia.ml/crime#110> rdf:subject "15"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "3164"^^xsd:int , "3085"^^xsd:int .
+
+<http://provincepedia.ml/crime#111> rdf:subject "15"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "7545"^^xsd:int , "7288"^^xsd:int .
+
+<http://provincepedia.ml/crime#112> rdf:subject "16"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "4391"^^xsd:int , "4424"^^xsd:int .
+
+<http://provincepedia.ml/crime#113> rdf:subject "16"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "3"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#114> rdf:subject "16"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "62"^^xsd:int , "60"^^xsd:int .
+
+<http://provincepedia.ml/crime#115> rdf:subject "16"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "313"^^xsd:int , "302"^^xsd:int .
+
+<http://provincepedia.ml/crime#116> rdf:subject "16"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "47"^^xsd:int , "77"^^xsd:int .
+
+<http://provincepedia.ml/crime#117> rdf:subject "16"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "11"^^xsd:int , "10"^^xsd:int .
+
+<http://provincepedia.ml/crime#118> rdf:subject "16"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "629"^^xsd:int , "676"^^xsd:int .
+
+<http://provincepedia.ml/crime#119> rdf:subject "16"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "1078"^^xsd:int , "1016"^^xsd:int .
+
+<http://provincepedia.ml/crime#120> rdf:subject "17"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "31747"^^xsd:int , "29000"^^xsd:int .
+
+<http://provincepedia.ml/crime#121> rdf:subject "17"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#122> rdf:subject "17"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "615"^^xsd:int , "612"^^xsd:int .
+
+<http://provincepedia.ml/crime#123> rdf:subject "17"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "2117"^^xsd:int , "2279"^^xsd:int .
+
+<http://provincepedia.ml/crime#124> rdf:subject "17"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "454"^^xsd:int , "375"^^xsd:int .
+
+<http://provincepedia.ml/crime#125> rdf:subject "17"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "345"^^xsd:int , "347"^^xsd:int .
+
+<http://provincepedia.ml/crime#126> rdf:subject "17"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "3424"^^xsd:int , "3109"^^xsd:int .
+
+<http://provincepedia.ml/crime#127> rdf:subject "17"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "10733"^^xsd:int , "9574"^^xsd:int .
+
+<http://provincepedia.ml/crime#128> rdf:subject "18"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "24497"^^xsd:int , "24279"^^xsd:int .
+
+<http://provincepedia.ml/crime#129> rdf:subject "18"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "5"^^xsd:int , "4"^^xsd:int .
+
+<http://provincepedia.ml/crime#130> rdf:subject "18"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "542"^^xsd:int , "527"^^xsd:int .
+
+<http://provincepedia.ml/crime#131> rdf:subject "18"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1473"^^xsd:int , "1684"^^xsd:int .
+
+<http://provincepedia.ml/crime#132> rdf:subject "18"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "625"^^xsd:int , "652"^^xsd:int .
+
+<http://provincepedia.ml/crime#133> rdf:subject "18"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "379"^^xsd:int , "395"^^xsd:int .
+
+<http://provincepedia.ml/crime#134> rdf:subject "18"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "2623"^^xsd:int , "2604"^^xsd:int .
+
+<http://provincepedia.ml/crime#135> rdf:subject "18"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "7669"^^xsd:int , "7718"^^xsd:int .
+
+<http://provincepedia.ml/crime#136> rdf:subject "19"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "6694"^^xsd:int , "6584"^^xsd:int .
+
+<http://provincepedia.ml/crime#137> rdf:subject "19"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int , "6"^^xsd:int .
+
+<http://provincepedia.ml/crime#138> rdf:subject "19"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "120"^^xsd:int , "170"^^xsd:int .
+
+<http://provincepedia.ml/crime#139> rdf:subject "19"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "603"^^xsd:int , "551"^^xsd:int .
+
+<http://provincepedia.ml/crime#140> rdf:subject "19"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "183"^^xsd:int , "232"^^xsd:int .
+
+<http://provincepedia.ml/crime#141> rdf:subject "19"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "23"^^xsd:int .
+
+<http://provincepedia.ml/crime#142> rdf:subject "19"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1231"^^xsd:int , "984"^^xsd:int .
+
+<http://provincepedia.ml/crime#143> rdf:subject "19"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "1521"^^xsd:int , "1482"^^xsd:int .
+
+<http://provincepedia.ml/crime#144> rdf:subject "20"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "17820"^^xsd:int , "16839"^^xsd:int .
+
+<http://provincepedia.ml/crime#145> rdf:subject "20"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "3"^^xsd:int , "1"^^xsd:int .
+
+<http://provincepedia.ml/crime#146> rdf:subject "20"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "217"^^xsd:int , "243"^^xsd:int .
+
+<http://provincepedia.ml/crime#147> rdf:subject "20"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1330"^^xsd:int , "1184"^^xsd:int .
+
+<http://provincepedia.ml/crime#148> rdf:subject "20"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "217"^^xsd:int , "200"^^xsd:int .
+
+<http://provincepedia.ml/crime#149> rdf:subject "20"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "105"^^xsd:int , "77"^^xsd:int .
+
+<http://provincepedia.ml/crime#150> rdf:subject "20"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1450"^^xsd:int , "1440"^^xsd:int .
+
+<http://provincepedia.ml/crime#151> rdf:subject "20"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "4604"^^xsd:int , "4647"^^xsd:int .
+
+<http://provincepedia.ml/crime#152> rdf:subject "21"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "14894"^^xsd:int , "15327"^^xsd:int .
+
+<http://provincepedia.ml/crime#153> rdf:subject "21"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "3"^^xsd:int , "6"^^xsd:int .
+
+<http://provincepedia.ml/crime#154> rdf:subject "21"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "265"^^xsd:int , "255"^^xsd:int .
+
+<http://provincepedia.ml/crime#155> rdf:subject "21"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1243"^^xsd:int , "1129"^^xsd:int .
+
+<http://provincepedia.ml/crime#156> rdf:subject "21"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "259"^^xsd:int , "278"^^xsd:int .
+
+<http://provincepedia.ml/crime#157> rdf:subject "21"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "116"^^xsd:int , "102"^^xsd:int .
+
+<http://provincepedia.ml/crime#158> rdf:subject "21"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1125"^^xsd:int , "1304"^^xsd:int .
+
+<http://provincepedia.ml/crime#159> rdf:subject "21"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "4293"^^xsd:int , "4553"^^xsd:int .
+
+<http://provincepedia.ml/crime#160> rdf:subject "22"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "3873"^^xsd:int , "3805"^^xsd:int .
+
+<http://provincepedia.ml/crime#161> rdf:subject "22"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#162> rdf:subject "22"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "23"^^xsd:int , "42"^^xsd:int .
+
+<http://provincepedia.ml/crime#163> rdf:subject "22"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "169"^^xsd:int , "153"^^xsd:int .
+
+<http://provincepedia.ml/crime#164> rdf:subject "22"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "35"^^xsd:int , "31"^^xsd:int .
+
+<http://provincepedia.ml/crime#165> rdf:subject "22"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "33"^^xsd:int , "34"^^xsd:int .
+
+<http://provincepedia.ml/crime#166> rdf:subject "22"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "530"^^xsd:int , "573"^^xsd:int .
+
+<http://provincepedia.ml/crime#167> rdf:subject "22"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "1088"^^xsd:int , "974"^^xsd:int .
+
+<http://provincepedia.ml/crime#168> rdf:subject "23"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "12872"^^xsd:int , "12572"^^xsd:int .
+
+<http://provincepedia.ml/crime#169> rdf:subject "23"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "4"^^xsd:int , "1"^^xsd:int .
+
+<http://provincepedia.ml/crime#170> rdf:subject "23"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "267"^^xsd:int , "253"^^xsd:int .
+
+<http://provincepedia.ml/crime#171> rdf:subject "23"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "709"^^xsd:int , "735"^^xsd:int .
+
+<http://provincepedia.ml/crime#172> rdf:subject "23"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "282"^^xsd:int , "284"^^xsd:int .
+
+<http://provincepedia.ml/crime#173> rdf:subject "23"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "63"^^xsd:int , "70"^^xsd:int .
+
+<http://provincepedia.ml/crime#174> rdf:subject "23"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1567"^^xsd:int , "1505"^^xsd:int .
+
+<http://provincepedia.ml/crime#175> rdf:subject "23"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "3365"^^xsd:int , "3226"^^xsd:int .
+
+<http://provincepedia.ml/crime#176> rdf:subject "24"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "11689"^^xsd:int , "11182"^^xsd:int .
+
+<http://provincepedia.ml/crime#177> rdf:subject "24"^^xsd:int ;
+	rdf:object "2"^^xsd:int .
+
+<http://provincepedia.ml/crime#178> rdf:subject "24"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "176"^^xsd:int , "185"^^xsd:int .
+
+<http://provincepedia.ml/crime#179> rdf:subject "24"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "571"^^xsd:int , "667"^^xsd:int .
+
+<http://provincepedia.ml/crime#180> rdf:subject "24"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "136"^^xsd:int , "161"^^xsd:int .
+
+<http://provincepedia.ml/crime#181> rdf:subject "24"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "42"^^xsd:int , "32"^^xsd:int .
+
+<http://provincepedia.ml/crime#182> rdf:subject "24"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1803"^^xsd:int , "1684"^^xsd:int .
+
+<http://provincepedia.ml/crime#183> rdf:subject "24"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "3722"^^xsd:int , "3442"^^xsd:int .
+
+<http://provincepedia.ml/crime#184> rdf:subject "25"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "14399"^^xsd:int , "13281"^^xsd:int .
+
+<http://provincepedia.ml/crime#185> rdf:subject "25"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "3"^^xsd:int .
+
+<http://provincepedia.ml/crime#186> rdf:subject "25"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "331"^^xsd:int , "308"^^xsd:int .
+
+<http://provincepedia.ml/crime#187> rdf:subject "25"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "632"^^xsd:int , "523"^^xsd:int .
+
+<http://provincepedia.ml/crime#188> rdf:subject "25"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "184"^^xsd:int , "120"^^xsd:int .
+
+<http://provincepedia.ml/crime#189> rdf:subject "25"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "53"^^xsd:int , "75"^^xsd:int .
+
+<http://provincepedia.ml/crime#190> rdf:subject "25"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1882"^^xsd:int , "1752"^^xsd:int .
+
+<http://provincepedia.ml/crime#191> rdf:subject "25"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "3973"^^xsd:int , "3788"^^xsd:int .
+
+<http://provincepedia.ml/crime#192> rdf:subject "27"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "5477"^^xsd:int , "5406"^^xsd:int .
+
+<http://provincepedia.ml/crime#193> rdf:subject "27"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int , "3"^^xsd:int .
+
+<http://provincepedia.ml/crime#194> rdf:subject "27"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "87"^^xsd:int , "75"^^xsd:int .
+
+<http://provincepedia.ml/crime#195> rdf:subject "27"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "269"^^xsd:int , "255"^^xsd:int .
+
+<http://provincepedia.ml/crime#196> rdf:subject "27"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "43"^^xsd:int , "64"^^xsd:int .
+
+<http://provincepedia.ml/crime#197> rdf:subject "27"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "28"^^xsd:int , "37"^^xsd:int .
+
+<http://provincepedia.ml/crime#198> rdf:subject "27"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "764"^^xsd:int , "767"^^xsd:int .
+
+<http://provincepedia.ml/crime#199> rdf:subject "27"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "1446"^^xsd:int , "1417"^^xsd:int .
+
+<http://provincepedia.ml/crime#200> rdf:subject "29"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "58787"^^xsd:int , "60373"^^xsd:int .
+
+<http://provincepedia.ml/crime#201> rdf:subject "29"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "13"^^xsd:int .
+
+<http://provincepedia.ml/crime#202> rdf:subject "29"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "1108"^^xsd:int , "1269"^^xsd:int .
+
+<http://provincepedia.ml/crime#203> rdf:subject "29"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "2840"^^xsd:int , "3272"^^xsd:int .
+
+<http://provincepedia.ml/crime#204> rdf:subject "29"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "1874"^^xsd:int , "1742"^^xsd:int .
+
+<http://provincepedia.ml/crime#205> rdf:subject "29"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "625"^^xsd:int , "655"^^xsd:int .
+
+<http://provincepedia.ml/crime#206> rdf:subject "29"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "5384"^^xsd:int , "5811"^^xsd:int .
+
+<http://provincepedia.ml/crime#207> rdf:subject "29"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "22115"^^xsd:int , "23171"^^xsd:int .
+
+<http://provincepedia.ml/crime#208> rdf:subject "32"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "5743"^^xsd:int , "5574"^^xsd:int .
+
+<http://provincepedia.ml/crime#209> rdf:subject "32"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#210> rdf:subject "32"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "107"^^xsd:int , "85"^^xsd:int .
+
+<http://provincepedia.ml/crime#211> rdf:subject "32"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "253"^^xsd:int , "295"^^xsd:int .
+
+<http://provincepedia.ml/crime#212> rdf:subject "32"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "85"^^xsd:int , "78"^^xsd:int .
+
+<http://provincepedia.ml/crime#213> rdf:subject "32"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "24"^^xsd:int , "18"^^xsd:int .
+
+<http://provincepedia.ml/crime#214> rdf:subject "32"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "622"^^xsd:int , "610"^^xsd:int .
+
+<http://provincepedia.ml/crime#215> rdf:subject "32"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "1739"^^xsd:int , "1551"^^xsd:int .
+
+<http://provincepedia.ml/crime#216> rdf:subject "34"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "2992"^^xsd:int , "2927"^^xsd:int .
+
+<http://provincepedia.ml/crime#217> rdf:subject "34"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#218> rdf:subject "34"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "40"^^xsd:int , "37"^^xsd:int .
+
+<http://provincepedia.ml/crime#219> rdf:subject "34"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "110"^^xsd:int .
+
+<http://provincepedia.ml/crime#220> rdf:subject "34"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "18"^^xsd:int , "38"^^xsd:int .
+
+<http://provincepedia.ml/crime#221> rdf:subject "34"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "14"^^xsd:int , "11"^^xsd:int .
+
+<http://provincepedia.ml/crime#222> rdf:subject "34"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "529"^^xsd:int , "508"^^xsd:int .
+
+<http://provincepedia.ml/crime#223> rdf:subject "34"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "870"^^xsd:int , "784"^^xsd:int .
+
+<http://provincepedia.ml/crime#224> rdf:subject "35"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "35409"^^xsd:int , "34876"^^xsd:int .
+
+<http://provincepedia.ml/crime#225> rdf:subject "35"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "10"^^xsd:int , "8"^^xsd:int .
+
+<http://provincepedia.ml/crime#226> rdf:subject "35"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "551"^^xsd:int , "594"^^xsd:int .
+
+<http://provincepedia.ml/crime#227> rdf:subject "35"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1086"^^xsd:int , "1164"^^xsd:int .
+
+<http://provincepedia.ml/crime#228> rdf:subject "35"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "647"^^xsd:int , "594"^^xsd:int .
+
+<http://provincepedia.ml/crime#229> rdf:subject "35"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "269"^^xsd:int , "308"^^xsd:int .
+
+<http://provincepedia.ml/crime#230> rdf:subject "35"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "3049"^^xsd:int , "3066"^^xsd:int .
+
+<http://provincepedia.ml/crime#231> rdf:subject "35"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "11197"^^xsd:int , "11297"^^xsd:int .
+
+<http://provincepedia.ml/crime#232> rdf:subject "36"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "22328"^^xsd:int , "20836"^^xsd:int .
+
+<http://provincepedia.ml/crime#233> rdf:subject "36"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "6"^^xsd:int , "1"^^xsd:int .
+
+<http://provincepedia.ml/crime#234> rdf:subject "36"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "282"^^xsd:int , "310"^^xsd:int .
+
+<http://provincepedia.ml/crime#235> rdf:subject "36"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1072"^^xsd:int , "978"^^xsd:int .
+
+<http://provincepedia.ml/crime#236> rdf:subject "36"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "284"^^xsd:int , "289"^^xsd:int .
+
+<http://provincepedia.ml/crime#237> rdf:subject "36"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "127"^^xsd:int , "123"^^xsd:int .
+
+<http://provincepedia.ml/crime#238> rdf:subject "36"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "2974"^^xsd:int , "2864"^^xsd:int .
+
+<http://provincepedia.ml/crime#239> rdf:subject "36"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "6266"^^xsd:int , "6162"^^xsd:int .
+
+<http://provincepedia.ml/crime#240> rdf:subject "37"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "7506"^^xsd:int , "7289"^^xsd:int .
+
+<http://provincepedia.ml/crime#241> rdf:subject "37"^^xsd:int ;
+	rdf:object "2"^^xsd:int .
+
+<http://provincepedia.ml/crime#242> rdf:subject "37"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "124"^^xsd:int , "117"^^xsd:int .
+
+<http://provincepedia.ml/crime#243> rdf:subject "37"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "262"^^xsd:int , "191"^^xsd:int .
+
+<http://provincepedia.ml/crime#244> rdf:subject "37"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "81"^^xsd:int , "91"^^xsd:int .
+
+<http://provincepedia.ml/crime#245> rdf:subject "37"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "44"^^xsd:int , "38"^^xsd:int .
+
+<http://provincepedia.ml/crime#246> rdf:subject "37"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "863"^^xsd:int , "916"^^xsd:int .
+
+<http://provincepedia.ml/crime#247> rdf:subject "37"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "2823"^^xsd:int , "2876"^^xsd:int .
+
+<http://provincepedia.ml/crime#248> rdf:subject "38"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "32007"^^xsd:int , "31454"^^xsd:int .
+
+<http://provincepedia.ml/crime#249> rdf:subject "38"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "6"^^xsd:int .
+
+<http://provincepedia.ml/crime#250> rdf:subject "38"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "572"^^xsd:int , "588"^^xsd:int .
+
+<http://provincepedia.ml/crime#251> rdf:subject "38"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1411"^^xsd:int , "1412"^^xsd:int .
+
+<http://provincepedia.ml/crime#252> rdf:subject "38"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "621"^^xsd:int , "615"^^xsd:int .
+
+<http://provincepedia.ml/crime#253> rdf:subject "38"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "195"^^xsd:int , "161"^^xsd:int .
+
+<http://provincepedia.ml/crime#254> rdf:subject "38"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "2318"^^xsd:int , "2333"^^xsd:int .
+
+<http://provincepedia.ml/crime#255> rdf:subject "38"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "11439"^^xsd:int , "11989"^^xsd:int .
+
+<http://provincepedia.ml/crime#256> rdf:subject "40"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "3368"^^xsd:int , "3339"^^xsd:int .
+
+<http://provincepedia.ml/crime#257> rdf:subject "40"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#258> rdf:subject "40"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "35"^^xsd:int , "22"^^xsd:int .
+
+<http://provincepedia.ml/crime#259> rdf:subject "40"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "203"^^xsd:int , "259"^^xsd:int .
+
+<http://provincepedia.ml/crime#260> rdf:subject "40"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "27"^^xsd:int , "32"^^xsd:int .
+
+<http://provincepedia.ml/crime#261> rdf:subject "40"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "18"^^xsd:int , "25"^^xsd:int .
+
+<http://provincepedia.ml/crime#262> rdf:subject "40"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "519"^^xsd:int , "567"^^xsd:int .
+
+<http://provincepedia.ml/crime#263> rdf:subject "40"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "885"^^xsd:int , "710"^^xsd:int .
+
+<http://provincepedia.ml/crime#264> rdf:subject "41"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "62379"^^xsd:int , "60282"^^xsd:int .
+
+<http://provincepedia.ml/crime#265> rdf:subject "41"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "9"^^xsd:int , "11"^^xsd:int .
+
+<http://provincepedia.ml/crime#266> rdf:subject "41"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "1628"^^xsd:int , "1820"^^xsd:int .
+
+<http://provincepedia.ml/crime#267> rdf:subject "41"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "2628"^^xsd:int , "2540"^^xsd:int .
+
+<http://provincepedia.ml/crime#268> rdf:subject "41"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "1473"^^xsd:int , "1542"^^xsd:int .
+
+<http://provincepedia.ml/crime#269> rdf:subject "41"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "245"^^xsd:int , "307"^^xsd:int .
+
+<http://provincepedia.ml/crime#270> rdf:subject "41"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "5662"^^xsd:int , "5591"^^xsd:int .
+
+<http://provincepedia.ml/crime#271> rdf:subject "41"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "21044"^^xsd:int , "21007"^^xsd:int .
+
+<http://provincepedia.ml/crime#272> rdf:subject "42"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "1730"^^xsd:int , "1750"^^xsd:int .
+
+<http://provincepedia.ml/crime#273> rdf:subject "42"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#274> rdf:subject "42"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "17"^^xsd:int , "21"^^xsd:int .
+
+<http://provincepedia.ml/crime#275> rdf:subject "42"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "96"^^xsd:int , "106"^^xsd:int .
+
+<http://provincepedia.ml/crime#276> rdf:subject "42"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "4"^^xsd:int , "19"^^xsd:int .
+
+<http://provincepedia.ml/crime#277> rdf:subject "42"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "13"^^xsd:int , "10"^^xsd:int .
+
+<http://provincepedia.ml/crime#278> rdf:subject "42"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "210"^^xsd:int , "287"^^xsd:int .
+
+<http://provincepedia.ml/crime#279> rdf:subject "42"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "488"^^xsd:int , "411"^^xsd:int .
+
+<http://provincepedia.ml/crime#280> rdf:subject "43"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "30571"^^xsd:int , "28975"^^xsd:int .
+
+<http://provincepedia.ml/crime#281> rdf:subject "43"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int , "4"^^xsd:int .
+
+<http://provincepedia.ml/crime#282> rdf:subject "43"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "828"^^xsd:int , "846"^^xsd:int .
+
+<http://provincepedia.ml/crime#283> rdf:subject "43"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "2760"^^xsd:int , "2745"^^xsd:int .
+
+<http://provincepedia.ml/crime#284> rdf:subject "43"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "368"^^xsd:int , "351"^^xsd:int .
+
+<http://provincepedia.ml/crime#285> rdf:subject "43"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "218"^^xsd:int , "253"^^xsd:int .
+
+<http://provincepedia.ml/crime#286> rdf:subject "43"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "3229"^^xsd:int , "3448"^^xsd:int .
+
+<http://provincepedia.ml/crime#287> rdf:subject "43"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "8884"^^xsd:int , "8112"^^xsd:int .
+
+<http://provincepedia.ml/crime#288> rdf:subject "44"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "1965"^^xsd:int , "1887"^^xsd:int .
+
+<http://provincepedia.ml/crime#289> rdf:subject "44"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#290> rdf:subject "44"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "20"^^xsd:int , "16"^^xsd:int .
+
+<http://provincepedia.ml/crime#291> rdf:subject "44"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "127"^^xsd:int , "111"^^xsd:int .
+
+<http://provincepedia.ml/crime#292> rdf:subject "44"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "15"^^xsd:int , "14"^^xsd:int .
+
+<http://provincepedia.ml/crime#293> rdf:subject "44"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "16"^^xsd:int , "14"^^xsd:int .
+
+<http://provincepedia.ml/crime#294> rdf:subject "44"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "339"^^xsd:int , "288"^^xsd:int .
+
+<http://provincepedia.ml/crime#295> rdf:subject "44"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "418"^^xsd:int , "437"^^xsd:int .
+
+<http://provincepedia.ml/crime#296> rdf:subject "45"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "19510"^^xsd:int , "18870"^^xsd:int .
+
+<http://provincepedia.ml/crime#297> rdf:subject "45"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int , "3"^^xsd:int .
+
+<http://provincepedia.ml/crime#298> rdf:subject "45"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "313"^^xsd:int , "276"^^xsd:int .
+
+<http://provincepedia.ml/crime#299> rdf:subject "45"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "2479"^^xsd:int , "2515"^^xsd:int .
+
+<http://provincepedia.ml/crime#300> rdf:subject "45"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "459"^^xsd:int , "530"^^xsd:int .
+
+<http://provincepedia.ml/crime#301> rdf:subject "45"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "94"^^xsd:int , "90"^^xsd:int .
+
+<http://provincepedia.ml/crime#302> rdf:subject "45"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1948"^^xsd:int , "1856"^^xsd:int .
+
+<http://provincepedia.ml/crime#303> rdf:subject "45"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "4029"^^xsd:int , "3880"^^xsd:int .
+
+<http://provincepedia.ml/crime#304> rdf:subject "46"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "88760"^^xsd:int , "87352"^^xsd:int .
+
+<http://provincepedia.ml/crime#305> rdf:subject "46"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "9"^^xsd:int , "11"^^xsd:int .
+
+<http://provincepedia.ml/crime#306> rdf:subject "46"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "2825"^^xsd:int , "2585"^^xsd:int .
+
+<http://provincepedia.ml/crime#307> rdf:subject "46"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "6218"^^xsd:int , "6061"^^xsd:int .
+
+<http://provincepedia.ml/crime#308> rdf:subject "46"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "1420"^^xsd:int , "1550"^^xsd:int .
+
+<http://provincepedia.ml/crime#309> rdf:subject "46"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "593"^^xsd:int , "632"^^xsd:int .
+
+<http://provincepedia.ml/crime#310> rdf:subject "46"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "11232"^^xsd:int , "11338"^^xsd:int .
+
+<http://provincepedia.ml/crime#311> rdf:subject "46"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "29560"^^xsd:int , "29124"^^xsd:int .
+
+<http://provincepedia.ml/crime#312> rdf:subject "47"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "13334"^^xsd:int , "12473"^^xsd:int .
+
+<http://provincepedia.ml/crime#313> rdf:subject "47"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#314> rdf:subject "47"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "99"^^xsd:int , "89"^^xsd:int .
+
+<http://provincepedia.ml/crime#315> rdf:subject "47"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "426"^^xsd:int , "513"^^xsd:int .
+
+<http://provincepedia.ml/crime#316> rdf:subject "47"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "121"^^xsd:int , "134"^^xsd:int .
+
+<http://provincepedia.ml/crime#317> rdf:subject "47"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "35"^^xsd:int , "48"^^xsd:int .
+
+<http://provincepedia.ml/crime#318> rdf:subject "47"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "1847"^^xsd:int , "1814"^^xsd:int .
+
+<http://provincepedia.ml/crime#319> rdf:subject "47"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "4796"^^xsd:int , "4302"^^xsd:int .
+
+<http://provincepedia.ml/crime#320> rdf:subject "48"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "36939"^^xsd:int , "36438"^^xsd:int .
+
+<http://provincepedia.ml/crime#321> rdf:subject "48"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "6"^^xsd:int , "3"^^xsd:int .
+
+<http://provincepedia.ml/crime#322> rdf:subject "48"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "1018"^^xsd:int , "1089"^^xsd:int .
+
+<http://provincepedia.ml/crime#323> rdf:subject "48"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1831"^^xsd:int , "1651"^^xsd:int .
+
+<http://provincepedia.ml/crime#324> rdf:subject "48"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "384"^^xsd:int , "486"^^xsd:int .
+
+<http://provincepedia.ml/crime#325> rdf:subject "48"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "134"^^xsd:int , "146"^^xsd:int .
+
+<http://provincepedia.ml/crime#326> rdf:subject "48"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "3409"^^xsd:int , "3102"^^xsd:int .
+
+<http://provincepedia.ml/crime#327> rdf:subject "48"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "12774"^^xsd:int , "13839"^^xsd:int .
+
+<http://provincepedia.ml/crime#328> rdf:subject "49"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "3450"^^xsd:int , "3392"^^xsd:int .
+
+<http://provincepedia.ml/crime#329> rdf:subject "49"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "0"^^xsd:int .
+
+<http://provincepedia.ml/crime#330> rdf:subject "49"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "37"^^xsd:int , "28"^^xsd:int .
+
+<http://provincepedia.ml/crime#331> rdf:subject "49"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "141"^^xsd:int , "129"^^xsd:int .
+
+<http://provincepedia.ml/crime#332> rdf:subject "49"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "55"^^xsd:int , "46"^^xsd:int .
+
+<http://provincepedia.ml/crime#333> rdf:subject "49"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "22"^^xsd:int , "20"^^xsd:int .
+
+<http://provincepedia.ml/crime#334> rdf:subject "49"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "409"^^xsd:int , "456"^^xsd:int .
+
+<http://provincepedia.ml/crime#335> rdf:subject "49"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "1033"^^xsd:int , "976"^^xsd:int .
+
+<http://provincepedia.ml/crime#336> rdf:subject "50"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "22603"^^xsd:int , "22514"^^xsd:int .
+
+<http://provincepedia.ml/crime#337> rdf:subject "50"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "4"^^xsd:int , "8"^^xsd:int .
+
+<http://provincepedia.ml/crime#338> rdf:subject "50"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "500"^^xsd:int , "633"^^xsd:int .
+
+<http://provincepedia.ml/crime#339> rdf:subject "50"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "1003"^^xsd:int , "1108"^^xsd:int .
+
+<http://provincepedia.ml/crime#340> rdf:subject "50"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "213"^^xsd:int , "211"^^xsd:int .
+
+<http://provincepedia.ml/crime#341> rdf:subject "50"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "166"^^xsd:int , "131"^^xsd:int .
+
+<http://provincepedia.ml/crime#342> rdf:subject "50"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "3114"^^xsd:int , "3000"^^xsd:int .
+
+<http://provincepedia.ml/crime#343> rdf:subject "50"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "7432"^^xsd:int , "7309"^^xsd:int .
+
+<http://provincepedia.ml/crime#344> rdf:subject "51"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "3673"^^xsd:int , "3448"^^xsd:int .
+
+<http://provincepedia.ml/crime#345> rdf:subject "51"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int , "3"^^xsd:int .
+
+<http://provincepedia.ml/crime#346> rdf:subject "51"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "123"^^xsd:int , "124"^^xsd:int .
+
+<http://provincepedia.ml/crime#347> rdf:subject "51"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "64"^^xsd:int , "51"^^xsd:int .
+
+<http://provincepedia.ml/crime#348> rdf:subject "51"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "275"^^xsd:int , "304"^^xsd:int .
+
+<http://provincepedia.ml/crime#349> rdf:subject "51"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "308"^^xsd:int , "199"^^xsd:int .
+
+<http://provincepedia.ml/crime#350> rdf:subject "51"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "235"^^xsd:int , "207"^^xsd:int .
+
+<http://provincepedia.ml/crime#351> rdf:subject "51"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "796"^^xsd:int , "713"^^xsd:int .
+
+<http://provincepedia.ml/crime#352> rdf:subject "52"^^xsd:int ;
+	rdf:object "1"^^xsd:int , "3673"^^xsd:int , "3644"^^xsd:int .
+
+<http://provincepedia.ml/crime#353> rdf:subject "52"^^xsd:int ;
+	rdf:object "2"^^xsd:int , "1"^^xsd:int .
+
+<http://provincepedia.ml/crime#354> rdf:subject "52"^^xsd:int ;
+	rdf:object "3"^^xsd:int , "221"^^xsd:int , "283"^^xsd:int .
+
+<http://provincepedia.ml/crime#355> rdf:subject "52"^^xsd:int ;
+	rdf:object "4"^^xsd:int , "72"^^xsd:int , "126"^^xsd:int .
+
+<http://provincepedia.ml/crime#356> rdf:subject "52"^^xsd:int ;
+	rdf:object "5"^^xsd:int , "88"^^xsd:int , "79"^^xsd:int .
+
+<http://provincepedia.ml/crime#357> rdf:subject "52"^^xsd:int ;
+	rdf:object "6"^^xsd:int , "86"^^xsd:int , "70"^^xsd:int .
+
+<http://provincepedia.ml/crime#358> rdf:subject "52"^^xsd:int ;
+	rdf:object "7"^^xsd:int , "254"^^xsd:int , "272"^^xsd:int .
+
+<http://provincepedia.ml/crime#359> rdf:subject "52"^^xsd:int ;
+	rdf:object "8"^^xsd:int , "1001"^^xsd:int , "994"^^xsd:int .
