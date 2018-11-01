@@ -7,7 +7,7 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var datasetRequirements = require('./routes/datasetRequirements');
 var applicationRequirements = require('./routes/applicationRequirements');
-var newpage = require('./routes/newpage');
+var province = require('./routes/province');
 
 var app = express();
 
@@ -24,7 +24,8 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', indexRouter);
 app.use('/datasetRequirements', datasetRequirements);
 app.use('/applicationRequirements', applicationRequirements);
-app.use('/newpage', newpage);
+app.use('/p/:prov_id', province);
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

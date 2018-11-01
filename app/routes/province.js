@@ -3,7 +3,7 @@ var router = express.Router();
 
 
 router.get('/', function(req, res, next) {
-	res.render('newpage', { title: 'New page' });
+	res.render('province', { sub: './../', title: 'Welcome' });
 });
 
 module.exports = router;

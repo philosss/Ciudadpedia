@@ -3,7 +3,7 @@ var router = express.Router();
 
 
 router.get('/', function(req, res, next) {
-	res.render('datasetRequirements', { title: 'Dataset Requirements' });
+	res.render('datasetRequirements', { sub: './', title: 'Dataset Requirements' });
 });
 
 module.exports = router;
