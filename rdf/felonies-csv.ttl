@@ -1,0 +1,30 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+
+<http://provincepedia/felonies#0> rdf:subject "1" ;
+	rdfs:comment "DELITOS Y FALTAS (EU)" .
+
+<http://provincepedia/felonies#1> rdf:subject "2" ;
+	rdfs:comment "HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU)" .
+
+<http://provincepedia/felonies#2> rdf:subject "3" ;
+	rdfs:comment "ROBO CON VIOLENCIA E INTIMIDACI��N (EU)" .
+
+<http://provincepedia/felonies#3> rdf:subject "4" ;
+	rdfs:comment "ROBOS CON FUERZA EN DOMICILIOS (EU)" .
+
+<http://provincepedia/felonies#4> rdf:subject "5" ;
+	rdfs:comment "SUSTRACCI��N VEH��CULOS A MOTOR (EU)" .
+
+<http://provincepedia/felonies#5> rdf:subject "6" ;
+	rdfs:comment "TR��FICO DE DROGAS (EU)" .
+
+<http://provincepedia/felonies#6> rdf:subject "7" ;
+	rdfs:comment "DA��OS" .
+
+<http://provincepedia/felonies#7> rdf:subject "8" ;
+	rdfs:comment "HURTOS" .

@@ -1,0 +1,214 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+
+<http://refine1.cursos.linkeddata.es/0> rdf:subject "1" ;
+	rdfs:comment "Provincia de ARABA/ALAVA" ;
+	rdf:object "15" .
+
+<http://refine1.cursos.linkeddata.es/1> rdf:subject "2" ;
+	rdfs:comment "Provincia de ALBACETE" ;
+	rdf:object "8" .
+
+<http://refine1.cursos.linkeddata.es/2> rdf:subject "3" ;
+	rdfs:comment "Provincia de ALICANTE" ;
+	rdf:object "17" .
+
+<http://refine1.cursos.linkeddata.es/3> rdf:subject "4" ;
+	rdfs:comment "Provincia de ALMERIA" ;
+	rdf:object "1" .
+
+<http://refine1.cursos.linkeddata.es/4> rdf:subject "5" ;
+	rdfs:comment "Provincia de AVILA" ;
+	rdf:object "7" .
+
+<http://refine1.cursos.linkeddata.es/5> rdf:subject "6" ;
+	rdfs:comment "Provincia de BADAJOZ" ;
+	rdf:object "10" .
+
+<http://refine1.cursos.linkeddata.es/6> rdf:subject "7" ;
+	rdfs:comment "Provincia de I. BALEARS" ;
+	rdf:object "4" .
+
+<http://refine1.cursos.linkeddata.es/7> rdf:subject "8" ;
+	rdfs:comment "Provincia de BARCELONA" ;
+	rdf:object "9" .
+
+<http://refine1.cursos.linkeddata.es/8> rdf:subject "9" ;
+	rdfs:comment "Provincia de BURGOS" ;
+	rdf:object "7" .
+
+<http://refine1.cursos.linkeddata.es/9> rdf:subject "10" ;
+	rdfs:comment "Provincia de CACERES" ;
+	rdf:object "10" .
+
+<http://refine1.cursos.linkeddata.es/10> rdf:subject "11" ;
+	rdfs:comment "Provincia de CADIZ" ;
+	rdf:object "1" .
+
+<http://refine1.cursos.linkeddata.es/11> rdf:subject "12" ;
+	rdfs:comment "Provincia de CASTELLON" ;
+	rdf:object "17" .
+
+<http://refine1.cursos.linkeddata.es/12> rdf:subject "13" ;
+	rdfs:comment "Provincia de CIUDAD REAL" ;
+	rdf:object "8" .
+
+<http://refine1.cursos.linkeddata.es/13> rdf:subject "14" ;
+	rdfs:comment "Provincia de CORDOBA" ;
+	rdf:object "1" .
+
+<http://refine1.cursos.linkeddata.es/14> rdf:subject "15" ;
+	rdfs:comment "Provincia de A_CORU��A" ;
+	rdf:object "11" .
+
+<http://refine1.cursos.linkeddata.es/15> rdf:subject "16" ;
+	rdfs:comment "Provincia de CUENCA" ;
+	rdf:object "8" .
+
+<http://refine1.cursos.linkeddata.es/16> rdf:subject "17" ;
+	rdfs:comment "Provincia de GIRONA" ;
+	rdf:object "9" .
+
+<http://refine1.cursos.linkeddata.es/17> rdf:subject "18" ;
+	rdfs:comment "Provincia de GRANADA" ;
+	rdf:object "1" .
+
+<http://refine1.cursos.linkeddata.es/18> rdf:subject "19" ;
+	rdfs:comment "Provincia de GUADALAJARA" ;
+	rdf:object "8" .
+
+<http://refine1.cursos.linkeddata.es/19> rdf:subject "20" ;
+	rdfs:comment "Provincia de GIPUZKOA" ;
+	rdf:object "15" .
+
+<http://refine1.cursos.linkeddata.es/20> rdf:subject "21" ;
+	rdfs:comment "Provincia de HUELVA" ;
+	rdf:object "1" .
+
+<http://refine1.cursos.linkeddata.es/21> rdf:subject "22" ;
+	rdfs:comment "Provincia de HUESCA" ;
+	rdf:object "2" .
+
+<http://refine1.cursos.linkeddata.es/22> rdf:subject "23" ;
+	rdfs:comment "Provincia de JAEN" ;
+	rdf:object "1" .
+
+<http://refine1.cursos.linkeddata.es/23> rdf:subject "24" ;
+	rdfs:comment "Provincia de LEON" ;
+	rdf:object "7" .
+
+<http://refine1.cursos.linkeddata.es/24> rdf:subject "25" ;
+	rdfs:comment "Provincia de LLEIDA" ;
+	rdf:object "9" .
+
+<http://refine1.cursos.linkeddata.es/25> rdf:subject "26" ;
+	rdfs:comment "Provincia de LA_RIOJA" ;
+	rdf:object "16" .
+
+<http://refine1.cursos.linkeddata.es/26> rdf:subject "27" ;
+	rdfs:comment "Provincia de LUGO" ;
+	rdf:object "11" .
+
+<http://refine1.cursos.linkeddata.es/27> rdf:subject "28" ;
+	rdfs:comment "Provincia de MADRID" ;
+	rdf:object "12" .
+
+<http://refine1.cursos.linkeddata.es/28> rdf:subject "29" ;
+	rdfs:comment "Provincia de MALAGA" ;
+	rdf:object "1" .
+
+<http://refine1.cursos.linkeddata.es/29> rdf:subject "30" ;
+	rdfs:comment "Provincia de MURCIA" ;
+	rdf:object "13" .
+
+<http://refine1.cursos.linkeddata.es/30> rdf:subject "31" ;
+	rdfs:comment "Provincia de NAVARRA" ;
+	rdf:object "14" .
+
+<http://refine1.cursos.linkeddata.es/31> rdf:subject "32" ;
+	rdfs:comment "Provincia de OURENSE" ;
+	rdf:object "11" .
+
+<http://refine1.cursos.linkeddata.es/32> rdf:subject "33" ;
+	rdfs:comment "Provincia de ASTURIAS" ;
+	rdf:object "3" .
+
+<http://refine1.cursos.linkeddata.es/33> rdf:subject "34" ;
+	rdfs:comment "Provincia de PALENCIA" ;
+	rdf:object "7" .
+
+<http://refine1.cursos.linkeddata.es/34> rdf:subject "35" ;
+	rdfs:comment "Provincia de LAS_PALMAS" ;
+	rdf:object "5" .
+
+<http://refine1.cursos.linkeddata.es/35> rdf:subject "36" ;
+	rdfs:comment "Provincia de PONTEVEDRA" ;
+	rdf:object "11" .
+
+<http://refine1.cursos.linkeddata.es/36> rdf:subject "37" ;
+	rdfs:comment "Provincia de SALAMANCA" ;
+	rdf:object "7" .
+
+<http://refine1.cursos.linkeddata.es/37> rdf:subject "38" ;
+	rdfs:comment "Provincia de S.C.TENERIFE" ;
+	rdf:object "5" .
+
+<http://refine1.cursos.linkeddata.es/38> rdf:subject "39" ;
+	rdfs:comment "Provincia de CANTABRIA" ;
+	rdf:object "6" .
+
+<http://refine1.cursos.linkeddata.es/39> rdf:subject "40" ;
+	rdfs:comment "Provincia de SEGOVIA" ;
+	rdf:object "7" .
+
+<http://refine1.cursos.linkeddata.es/40> rdf:subject "41" ;
+	rdfs:comment "Provincia de SEVILLA" ;
+	rdf:object "1" .
+
+<http://refine1.cursos.linkeddata.es/41> rdf:subject "42" ;
+	rdfs:comment "Provincia de SORIA" ;
+	rdf:object "7" .
+
+<http://refine1.cursos.linkeddata.es/42> rdf:subject "43" ;
+	rdfs:comment "Provincia de TARRAGONA" ;
+	rdf:object "9" .
+
+<http://refine1.cursos.linkeddata.es/43> rdf:subject "44" ;
+	rdfs:comment "Provincia de TERUEL" ;
+	rdf:object "2" .
+
+<http://refine1.cursos.linkeddata.es/44> rdf:subject "45" ;
+	rdfs:comment "Provincia de TOLEDO" ;
+	rdf:object "8" .
+
+<http://refine1.cursos.linkeddata.es/45> rdf:subject "46" ;
+	rdfs:comment "Provincia de VALENCIA" ;
+	rdf:object "17" .
+
+<http://refine1.cursos.linkeddata.es/46> rdf:subject "47" ;
+	rdfs:comment "Provincia de VALLADOLID" ;
+	rdf:object "7" .
+
+<http://refine1.cursos.linkeddata.es/47> rdf:subject "48" ;
+	rdfs:comment "Provincia de BIZKAIA" ;
+	rdf:object "15" .
+
+<http://refine1.cursos.linkeddata.es/48> rdf:subject "49" ;
+	rdfs:comment "Provincia de ZAMORA" ;
+	rdf:object "7" .
+
+<http://refine1.cursos.linkeddata.es/49> rdf:subject "50" ;
+	rdfs:comment "Provincia de ZARAGOZA" ;
+	rdf:object "2" .
+
+<http://refine1.cursos.linkeddata.es/50> rdf:subject "51" ;
+	rdfs:comment "Provincia de CEUTA" ;
+	rdf:object "18" .
+
+<http://refine1.cursos.linkeddata.es/51> rdf:subject "52" ;
+	rdfs:comment "Provincia de MELILLA" ;
+	rdf:object "19" .
