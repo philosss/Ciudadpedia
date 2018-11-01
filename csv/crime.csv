@@ -1,585 +1,361 @@
-TERRITORIO,CODIGO,TIPOLOGÍA PENAL,2015,2016
-ANDALUCÍA,1,258032,252684
-ANDALUCÍA,2,48,49
-ANDALUCÍA,3,5423,5686
-ANDALUCÍA,4,13571,13945
-ANDALUCÍA,5,6669,6600
-ANDALUCÍA,6,2469,2444
-ANDALUCÍA,7,25882
-ANDALUCÍA,8,84504,84445
-Provincia de Almería,1,23562,23277
-Provincia de Almería,2,4,5
-Provincia de Almería,3,511,492
-Provincia de Almería,4,1974,2067
-Provincia de Almería,5,505,497
-Provincia de Almería,6,187,206
-Provincia de Almería,7,DAÑOS,2732,2990
-Provincia de Almería,8,6506,6165
-Provincia de Cádiz,1,41455,38356
-Provincia de Cádiz,2,8,9
-Provincia de Cádiz,3,720,678
-Provincia de Cádiz,4,1829,1614
-Provincia de Cádiz,5,1361,1282
-Provincia de Cádiz,6,760,569
-Provincia de Cádiz,7,DAÑOS,4441,4228
-Provincia de Cádiz,8,13350,12708
-Provincia de Córdoba,1,19586,18218
-Provincia de Córdoba,2,2,0
-Provincia de Córdoba,3,382,392
-Provincia de Córdoba,4,875,904
-Provincia de Córdoba,5,290,323
-Provincia de Córdoba,6,94,140
-Provincia de Córdoba,7,DAÑOS,1980,1849
-Provincia de Córdoba,8,6162,5897
-Provincia de Granada,1,24497,24279
-Provincia de Granada,2,5,4
-Provincia de Granada,3,542,527
-Provincia de Granada,4,1473,1684
-Provincia de Granada,5,625,652
-Provincia de Granada,6,379,395
-Provincia de Granada,7,DAÑOS,2623,2604
-Provincia de Granada,8,7669,7718
-Provincia de Huelva,1,14894,15327
-Provincia de Huelva,2,3,6
-Provincia de Huelva,3,265,255
-Provincia de Huelva,4,1243,1129
-Provincia de Huelva,5,259,278
-Provincia de Huelva,6,116,102
-Provincia de Huelva,7,DAÑOS,1125,1304
-Provincia de Huelva,8,4293,4553
-Provincia de Jaén,1,12872,12572
-Provincia de Jaén,2,4,1
-Provincia de Jaén,3,267,253
-Provincia de Jaén,4,709,735
-Provincia de Jaén,5,282,284
-Provincia de Jaén,6,63,70
-Provincia de Jaén,7,DAÑOS,1567,1505
-Provincia de Jaén,8,3365,3226
-Provincia de Málaga,1,58787,60373
-Provincia de Málaga,2,13,13
-Provincia de Málaga,3,1108,1269
-Provincia de Málaga,4,2840,3272
-Provincia de Málaga,5,1874,1742
-Provincia de Málaga,6,625,655
-Provincia de Málaga,7,DAÑOS,5384,5811
-Provincia de Málaga,8,22115,23171
-Provincia de Sevilla,1,62379,60282
-Provincia de Sevilla,2,9,11
-Provincia de Sevilla,3,1628,1820
-Provincia de Sevilla,4,2628,2540
-Provincia de Sevilla,5,1473,1542
-Provincia de Sevilla,6,245,307
-Provincia de Sevilla,7,DAÑOS,5662,5591
-Provincia de Sevilla,8,21044,21007
-ARAGÓN,1,28441,28206
-ARAGÓN,2,7,8
-ARAGÓN,3,543,691
-ARAGÓN,4,1299,1372
-ARAGÓN,5,263,256
-ARAGÓN,6,215,179
-ARAGÓN,7,DAÑOS,3983,3861
-ARAGÓN,8,8938,8720
-Provincia de Huesca,1,3873,3805
-Provincia de Huesca,2,1,0
-Provincia de Huesca,3,23,42
-Provincia de Huesca,4,169,153
-Provincia de Huesca,5,35,31
-Provincia de Huesca,6,33,34
-Provincia de Huesca,7,DAÑOS,530,573
-Provincia de Huesca,8,1088,974
-Provincia de Teruel,1,1965,1887
-Provincia de Teruel,2,2,0
-Provincia de Teruel,3,20,16
-Provincia de Teruel,4,127,111
-Provincia de Teruel,5,15,14
-Provincia de Teruel,6,16,14
-Provincia de Teruel,7,DAÑOS,339,288
-Provincia de Teruel,8,418,437
-Provincia de Zaragoza,1,22603,22514
-Provincia de Zaragoza,2,4,8
-Provincia de Zaragoza,3,500,633
-Provincia de Zaragoza,4,1003,1108
-Provincia de Zaragoza,5,213,211
-Provincia de Zaragoza,6,166,131
-Provincia de Zaragoza,7,DAÑOS,3114,3000
-Provincia de Zaragoza,8,7432,7309
-ASTURIAS (PRINCIPADO DE),1,20194,19711
-ASTURIAS (PRINCIPADO DE),2,3,4
-ASTURIAS (PRINCIPADO DE),3,463,417
-ASTURIAS (PRINCIPADO DE),4,669,794
-ASTURIAS (PRINCIPADO DE),5,321,279
-ASTURIAS (PRINCIPADO DE),6,125,78
-ASTURIAS (PRINCIPADO DE),7,DAÑOS,2352,2241
-ASTURIAS (PRINCIPADO DE),8,6162,5768
-BALEARS (ILLES),1,53208,53775
-BALEARS (ILLES),2,5,8
-BALEARS (ILLES),3,879,918
-BALEARS (ILLES),4,2604,2456
-BALEARS (ILLES),5,1292,1442
-BALEARS (ILLES),6,366,416
-BALEARS (ILLES),7,DAÑOS,3790,3873
-BALEARS (ILLES),8,22906,22920
-Isla de Eivissa,1,12727,12105
-Isla de Eivissa,2,1,1
-Isla de Eivissa,3,243,233
-Isla de Eivissa,4,563,568
-Isla de Eivissa,5,523,509
-Isla de Eivissa,6,155,183
-Isla de Eivissa,7,DAÑOS,659,685
-Isla de Eivissa,8,6606,5752
-Isla de Formentera,1,651,667
-Isla de Formentera,2,0,0
-Isla de Formentera,3,3,3
-Isla de Formentera,4,130,115
-Isla de Formentera,5,73,80
-Isla de Formentera,6,6,4
-Isla de Formentera,7,DAÑOS,67,68
-Isla de Formentera,8,171,158
-Isla de Mallorca,1,37643,38672
-Isla de Mallorca,2,4,6
-Isla de Mallorca,3,616,653
-Isla de Mallorca,4,1822,1660
-Isla de Mallorca,5,671,829
-Isla de Mallorca,6,192,216
-Isla de Mallorca,7,DAÑOS,2837,2877
-Isla de Mallorca,8,15454,16213
-Isla de Menorca,1,2187,2331
-Isla de Menorca,2,0,1
-Isla de Menorca,3,17,29
-Isla de Menorca,4,89,113
-Isla de Menorca,5,25,24
-Isla de Menorca,6,13,13
-Isla de Menorca,7,DAÑOS,227,243
-Isla de Menorca,8,675,797
-CANARIAS,1,67416,66330
-CANARIAS,2,12,14
-CANARIAS,3,1123,1182
-CANARIAS,4,2497,2576
-CANARIAS,5,1268,1209
-CANARIAS,6,464,469
-CANARIAS,7,DAÑOS,5367,5399
-CANARIAS,8,22636,23286
-Provincia de Palmas (Las),1,35409,34876
-Provincia de Palmas (Las),2,10,8
-Provincia de Palmas (Las),3,551,594
-Provincia de Palmas (Las),4,1086,1164
-Provincia de Palmas (Las),5,647,594
-Provincia de Palmas (Las),6,269,308
-Provincia de Palmas (Las),7,DAÑOS,3049,3066
-Provincia de Palmas (Las),8,11197,11297
-Isla de Fuerteventura,1,3733,3861
-Isla de Fuerteventura,2,1,1
-Isla de Fuerteventura,3,54,61
-Isla de Fuerteventura,4,168,202
-Isla de Fuerteventura,5,62,36
-Isla de Fuerteventura,6,31,25
-Isla de Fuerteventura,7,DAÑOS,327,337
-Isla de Fuerteventura,8,1144,1180
-Isla de Gran Canaria,1,26579,25812
-Isla de Gran Canaria,2,7,7
-Isla de Gran Canaria,3,427,419
-Isla de Gran Canaria,4,692,671
-Isla de Gran Canaria,5,483,476
-Isla de Gran Canaria,6,211,248
-Isla de Gran Canaria,7,DAÑOS,2245,2250
-Isla de Gran Canaria,8,8531,8534
-Isla de Lanzarote,1,5097,5203
-Isla de Lanzarote,2,2,0
-Isla de Lanzarote,3,70,114
-Isla de Lanzarote,4,226,291
-Isla de Lanzarote,5,102,82
-Isla de Lanzarote,6,27,35
-Isla de Lanzarote,7,DAÑOS,477,479
-Isla de Lanzarote,8,1522,1583
-Provincia de Santa Cruz de Tenerife,1,32007,31454
-Provincia de Santa Cruz de Tenerife,2,2,6
-Provincia de Santa Cruz de Tenerife,3,572,588
-Provincia de Santa Cruz de Tenerife,4,1411,1412
-Provincia de Santa Cruz de Tenerife,5,621,615
-Provincia de Santa Cruz de Tenerife,6,195,161
-Provincia de Santa Cruz de Tenerife,7,DAÑOS,2318,2333
-Provincia de Santa Cruz de Tenerife,8,11439,11989
-Isla de Gomera (La),1,233,230
-Isla de Gomera (La),2,0,0
-Isla de Gomera (La),3,0,2
-Isla de Gomera (La),4,3,7
-Isla de Gomera (La),5,2,3
-Isla de Gomera (La),6,2,7
-Isla de Gomera (La),7,DAÑOS,39,34
-Isla de Gomera (La),8,33,46
-Isla de Hierro (El),1,102,104
-Isla de Hierro (El),2,0,0
-Isla de Hierro (El),3,1,1
-Isla de Hierro (El),4,3,3
-Isla de Hierro (El),5,1,1
-Isla de Hierro (El),6,0,0
-Isla de Hierro (El),7,DAÑOS,11,11
-Isla de Hierro (El),8,23,18
-Isla de Palma (La),1,1481,1431
-Isla de Palma (La),2,1,0
-Isla de Palma (La),3,9,8
-Isla de Palma (La),4,80,103
-Isla de Palma (La),5,12,16
-Isla de Palma (La),6,10,11
-Isla de Palma (La),7,DAÑOS,177,140
-Isla de Palma (La),8,374,394
-Isla de Tenerife,1,30191,29689
-Isla de Tenerife,2,1,6
-Isla de Tenerife,3,562,577
-Isla de Tenerife,4,1325,1299
-Isla de Tenerife,5,606,595
-Isla de Tenerife,6,183,143
-Isla de Tenerife,7,DAÑOS,2091,2148
-Isla de Tenerife,8,11009,11531
-CANTABRIA,1,12559,12739
-CANTABRIA,2,3,0
-CANTABRIA,3,208,161
-CANTABRIA,4,487,716
-CANTABRIA,5,182,175
-CANTABRIA,6,94,71
-CANTABRIA,7,DAÑOS,1272,1476
-CANTABRIA,8,3874,3865
-CASTILLA Y LEÓN,1,56151,54316
-CASTILLA Y LEÓN,2,6,6
-CASTILLA Y LEÓN,3,689,679
-CASTILLA Y LEÓN,4,2506,2612
-CASTILLA Y LEÓN,5,555,672
-CASTILLA Y LEÓN,6,240,259
-CASTILLA Y LEÓN,7,DAÑOS,8071,8103
-CASTILLA Y LEÓN,8,18340,16932
-Provincia de Ávila,1,3728,3630
-Provincia de Ávila,2,1,0
-Provincia de Ávila,3,41,33
-Provincia de Ávila,4,352,327
-Provincia de Ávila,5,29,30
-Provincia de Ávila,6,18,17
-Provincia de Ávila,7,DAÑOS,649,632
-Provincia de Ávila,8,794,698
-Provincia de Burgos,1,8354,8334
-Provincia de Burgos,2,0,2
-Provincia de Burgos,3,120,147
-Provincia de Burgos,4,345,310
-Provincia de Burgos,5,84,121
-Provincia de Burgos,6,34,58
-Provincia de Burgos,7,DAÑOS,1242,1239
-Provincia de Burgos,8,2929,2733
-Provincia de León,1,11689,11182
-Provincia de León,2,2,2
-Provincia de León,3,176,185
-Provincia de León,4,571,667
-Provincia de León,5,136,161
-Provincia de León,6,42,32
-Provincia de León,7,DAÑOS,1803,1684
-Provincia de León,8,3722,3442
-Provincia de Palencia,1,2992,2927
-Provincia de Palencia,2,0,0
-Provincia de Palencia,3,40,37
-Provincia de Palencia,4,110,110
-Provincia de Palencia,5,18,38
-Provincia de Palencia,6,14,11
-Provincia de Palencia,7,DAÑOS,529,508
-Provincia de Palencia,8,870,784
-Provincia de Salamanca,1,7506,7289
-Provincia de Salamanca,2,2,2
-Provincia de Salamanca,3,124,117
-Provincia de Salamanca,4,262,191
-Provincia de Salamanca,5,81,91
-Provincia de Salamanca,6,44,38
-Provincia de Salamanca,7,DAÑOS,863,916
-Provincia de Salamanca,8,2823,2876
-Provincia de Segovia,1,3368,3339
-Provincia de Segovia,2,0,0
-Provincia de Segovia,3,35,22
-Provincia de Segovia,4,203,259
-Provincia de Segovia,5,27,32
-Provincia de Segovia,6,18,25
-Provincia de Segovia,7,DAÑOS,519,567
-Provincia de Segovia,8,885,710
-Provincia de Soria,1,1730,1750
-Provincia de Soria,2,1,0
-Provincia de Soria,3,17,21
-Provincia de Soria,4,96,106
-Provincia de Soria,5,4,19
-Provincia de Soria,6,13,10
-Provincia de Soria,7,DAÑOS,210,287
-Provincia de Soria,8,488,411
-Provincia de Valladolid,1,13334,12473
-Provincia de Valladolid,2,0,0
-Provincia de Valladolid,3,99,89
-Provincia de Valladolid,4,426,513
-Provincia de Valladolid,5,121,134
-Provincia de Valladolid,6,35,48
-Provincia de Valladolid,7,DAÑOS,1847,1814
-Provincia de Valladolid,8,4796,4302
-Provincia de Zamora,1,3450,3392
-Provincia de Zamora,2,0,0
-Provincia de Zamora,3,37,28
-Provincia de Zamora,4,141,129
-Provincia de Zamora,5,55,46
-Provincia de Zamora,6,22,20
-Provincia de Zamora,7,DAÑOS,409,456
-Provincia de Zamora,8,1033,976
-CASTILLA - LA MANCHA,1,50835,48238
-CASTILLA - LA MANCHA,2,11,10
-CASTILLA - LA MANCHA,3,780,791
-CASTILLA - LA MANCHA,4,4517,4400
-CASTILLA - LA MANCHA,5,921,1109
-CASTILLA - LA MANCHA,6,272,271
-CASTILLA - LA MANCHA,7,DAÑOS,6043,5404
-CASTILLA - LA MANCHA,8,12917,12078
-Provincia de Albacete,1,9398,8779
-Provincia de Albacete,2,2,1
-Provincia de Albacete,3,158,167
-Provincia de Albacete,4,561,516
-Provincia de Albacete,5,138,140
-Provincia de Albacete,6,71,62
-Provincia de Albacete,7,DAÑOS,955,870
-Provincia de Albacete,8,3491,3134
-Provincia de Ciudad Real,1,10842,9581
-Provincia de Ciudad Real,2,4,0
-Provincia de Ciudad Real,3,127,118
-Provincia de Ciudad Real,4,561,516
-Provincia de Ciudad Real,5,94,130
-Provincia de Ciudad Real,6,73,86
-Provincia de Ciudad Real,7,DAÑOS,1280,1018
-Provincia de Ciudad Real,8,2798,2566
-Provincia de Cuenca,1,4391,4424
-Provincia de Cuenca,2,3,0
-Provincia de Cuenca,3,62,60
-Provincia de Cuenca,4,313,302
-Provincia de Cuenca,5,47,77
-Provincia de Cuenca,6,11,10
-Provincia de Cuenca,7,DAÑOS,629,676
-Provincia de Cuenca,8,1078,1016
-Provincia de Guadalajara,1,6694,6584
-Provincia de Guadalajara,2,1,6
-Provincia de Guadalajara,3,120,170
-Provincia de Guadalajara,4,603,551
-Provincia de Guadalajara,5,183,232
-Provincia de Guadalajara,6,23,23
-Provincia de Guadalajara,7,DAÑOS,1231,984
-Provincia de Guadalajara,8,1521,1482
-Provincia de Toledo,1,19510,18870
-Provincia de Toledo,2,1,3
-Provincia de Toledo,3,313,276
-Provincia de Toledo,4,2479,2515
-Provincia de Toledo,5,459,530
-Provincia de Toledo,6,94,90
-Provincia de Toledo,7,DAÑOS,1948,1856
-Provincia de Toledo,8,4029,3880
-CATALUÑA,1,315478,306558
-CATALUÑA,2,28,41
-CATALUÑA,3,16340,14942
-CATALUÑA,4,18030,17696
-CATALUÑA,5,6409,5915
-CATALUÑA,6,1457,1666
-CATALUÑA,7,DAÑOS,29517,29404
-CATALUÑA,8,126154,124432
-Provincia de Barcelona,1,238761,235302
-Provincia de Barcelona,2,25,32
-Provincia de Barcelona,3,14566,13176
-Provincia de Barcelona,4,12521,12149
-Provincia de Barcelona,5,5403,5069
-Provincia de Barcelona,6,841,991
-Provincia de Barcelona,7,DAÑOS,20982,21095
-Provincia de Barcelona,8,102564,102958
-Provincia de Girona,1,31747,29000
-Provincia de Girona,2,0,2
-Provincia de Girona,3,615,612
-Provincia de Girona,4,2117,2279
-Provincia de Girona,5,454,375
-Provincia de Girona,6,345,347
-Provincia de Girona,7,DAÑOS,3424,3109
-Provincia de Girona,8,10733,9574
-Provincia de Lleida,1,14399,13281
-Provincia de Lleida,2,2,3
-Provincia de Lleida,3,331,308
-Provincia de Lleida,4,632,523
-Provincia de Lleida,5,184,120
-Provincia de Lleida,6,53,75
-Provincia de Lleida,7,DAÑOS,1882,1752
-Provincia de Lleida,8,3973,3788
-Provincia de Tarragona,1,30571,28975
-Provincia de Tarragona,2,1,4
-Provincia de Tarragona,3,828,846
-Provincia de Tarragona,4,2760,2745
-Provincia de Tarragona,5,368,351
-Provincia de Tarragona,6,218,253
-Provincia de Tarragona,7,DAÑOS,3229,3448
-Provincia de Tarragona,8,8884,8112
-COMUNITAT VALENCIANA,1,179591,176393
-COMUNITAT VALENCIANA,2,34,23
-COMUNITAT VALENCIANA,3,4695,4598
-COMUNITAT VALENCIANA,4,14697,14684
-COMUNITAT VALENCIANA,5,3305,3320
-COMUNITAT VALENCIANA,6,1177,1292
-COMUNITAT VALENCIANA,7,DAÑOS,21290,20862
-COMUNITAT VALENCIANA,8,60521,59599
-Provincia de Alicante/Alacant,1,71235,70289
-Provincia de Alicante/Alacant,2,23,11
-Provincia de Alicante/Alacant,3,1523,1618
-Provincia de Alicante/Alacant,4,6268,6775
-Provincia de Alicante/Alacant,5,1600,1550
-Provincia de Alicante/Alacant,6,479,568
-Provincia de Alicante/Alacant,7,DAÑOS,7648,7366
-Provincia de Alicante/Alacant,8,25056,24495
-Provincia de Castellón/Castelló,1,19596,18752
-Provincia de Castellón/Castelló,2,2,1
-Provincia de Castellón/Castelló,3,347,395
-Provincia de Castellón/Castelló,4,2211,1848
-Provincia de Castellón/Castelló,5,285,220
-Provincia de Castellón/Castelló,6,105,92
-Provincia de Castellón/Castelló,7,DAÑOS,2410,2158
-Provincia de Castellón/Castelló,8,5905,5980
-Provincia de Valencia/València,1,88760,87352
-Provincia de Valencia/València,2,9,11
-Provincia de Valencia/València,3,2825,2585
-Provincia de Valencia/València,4,6218,6061
-Provincia de Valencia/València,5,1420,1550
-Provincia de Valencia/València,6,593,632
-Provincia de Valencia/València,7,DAÑOS,11232,11338
-Provincia de Valencia/València,8,29560,29124
-EXTREMADURA,1,20400,19748
-EXTREMADURA,2,1,4
-EXTREMADURA,3,220,221
-EXTREMADURA,4,999,962
-EXTREMADURA,5,280,309
-EXTREMADURA,6,153,162
-EXTREMADURA,7,DAÑOS,2443,2398
-EXTREMADURA,8,5973,5548
-Provincia de Badajoz,1,14059,13776
-Provincia de Badajoz,2,0,3
-Provincia de Badajoz,3,175,160
-Provincia de Badajoz,4,730,682
-Provincia de Badajoz,5,218,243
-Provincia de Badajoz,6,108,96
-Provincia de Badajoz,7,DAÑOS,1531,1605
-Provincia de Badajoz,8,4237,3982
-Provincia de Cáceres,1,6341,5972
-Provincia de Cáceres,2,1,1
-Provincia de Cáceres,3,45,61
-Provincia de Cáceres,4,269,280
-Provincia de Cáceres,5,62,66
-Provincia de Cáceres,6,45,66
-Provincia de Cáceres,7,DAÑOS,912,793
-Provincia de Cáceres,8,1736,1566
-GALICIA,1,58121,56411
-GALICIA,2,11,11
-GALICIA,3,811,839
-GALICIA,4,2880,2776
-GALICIA,5,721,802
-GALICIA,6,262,253
-GALICIA,7,DAÑOS,7524,7326
-GALICIA,8,16996,16418
-Provincia de Coruña (A),1,24573,24595
-Provincia de Coruña (A),2,3,7
-Provincia de Coruña (A),3,335,369
-Provincia de Coruña (A),4,1286,1248
-Provincia de Coruña (A),5,309,371
-Provincia de Coruña (A),6,83,75
-Provincia de Coruña (A),7,DAÑOS,3164,3085
-Provincia de Coruña (A),8,7545,7288
-Provincia de Lugo,1,5477,5406
-Provincia de Lugo,2,0,3
-Provincia de Lugo,3,87,75
-Provincia de Lugo,4,269,255
-Provincia de Lugo,5,43,64
-Provincia de Lugo,6,28,37
-Provincia de Lugo,7,DAÑOS,764,767
-Provincia de Lugo,8,1446,1417
-Provincia de Ourense,1,5743,5574
-Provincia de Ourense,2,2,0
-Provincia de Ourense,3,107,85
-Provincia de Ourense,4,253,295
-Provincia de Ourense,5,85,78
-Provincia de Ourense,6,24,18
-Provincia de Ourense,7,DAÑOS,622,610
-Provincia de Ourense,8,1739,1551
-Provincia de Pontevedra,1,22328,20836
-Provincia de Pontevedra,2,6,1
-Provincia de Pontevedra,3,282,310
-Provincia de Pontevedra,4,1072,978
-Provincia de Pontevedra,5,284,289
-Provincia de Pontevedra,6,127,123
-Provincia de Pontevedra,7,DAÑOS,2974,2864
-Provincia de Pontevedra,8,6266,6162
-MADRID (COMUNIDAD DE),1,269965,277774
-MADRID (COMUNIDAD DE),2,22,29
-MADRID (COMUNIDAD DE),3,12751,12624
-MADRID (COMUNIDAD DE),4,11576,12084
-MADRID (COMUNIDAD DE),5,7596,7681
-MADRID (COMUNIDAD DE),6,1092,1083
-MADRID (COMUNIDAD DE),7,DAÑOS,32797,33090
-MADRID (COMUNIDAD DE),8,106406,110411
-MURCIA (REGIÓN DE),1,40284,38726
-MURCIA (REGIÓN DE),2,6,10
-MURCIA (REGIÓN DE),3,1086,1115
-MURCIA (REGIÓN DE),4,3700,3863
-MURCIA (REGIÓN DE),5,931,991
-MURCIA (REGIÓN DE),6,193,222
-MURCIA (REGIÓN DE),7,DAÑOS,3481,3562
-MURCIA (REGIÓN DE),8,12639,12010
-NAVARRA (COMUNIDAD FORAL DE),1,18650,19705
-NAVARRA (COMUNIDAD FORAL DE),2,3,0
-NAVARRA (COMUNIDAD FORAL DE),3,289,346
-NAVARRA (COMUNIDAD FORAL DE),4,712,761
-NAVARRA (COMUNIDAD FORAL DE),5,134,168
-NAVARRA (COMUNIDAD FORAL DE),6,120,166
-NAVARRA (COMUNIDAD FORAL DE),7,DAÑOS,2400,2466
-NAVARRA (COMUNIDAD FORAL DE),8,6347,6398
-PAÍS VASCO,1,64173,62224
-PAÍS VASCO,2,10,6
-PAÍS VASCO,3,1379,1480
-PAÍS VASCO,4,3541,3109
-PAÍS VASCO,5,669,763
-PAÍS VASCO,6,265,253
-PAÍS VASCO,7,DAÑOS,5781,5486
-PAÍS VASCO,8,20884,22054
-Provincia de Araba/Álava,1,9414,8947
-Provincia de Araba/Álava,2,1,2
-Provincia de Araba/Álava,3,144,148
-Provincia de Araba/Álava,4,380,274
-Provincia de Araba/Álava,5,68,77
-Provincia de Araba/Álava,6,26,30
-Provincia de Araba/Álava,7,DAÑOS,922,944
-Provincia de Araba/Álava,8,3506,3568
-Provincia de Gipuzkoa,1,17820,16839
-Provincia de Gipuzkoa,2,3,1
-Provincia de Gipuzkoa,3,217,243
-Provincia de Gipuzkoa,4,1330,1184
-Provincia de Gipuzkoa,5,217,200
-Provincia de Gipuzkoa,6,105,77
-Provincia de Gipuzkoa,7,DAÑOS,1450,1440
-Provincia de Gipuzkoa,8,4604,4647
-Provincia de Bizkaia,1,36939,36438
-Provincia de Bizkaia,2,6,3
-Provincia de Bizkaia,3,1018,1089
-Provincia de Bizkaia,4,1831,1651
-Provincia de Bizkaia,5,384,486
-Provincia de Bizkaia,6,134,146
-Provincia de Bizkaia,7,DAÑOS,3409,3102
-Provincia de Bizkaia,8,12774,13839
-RIOJA (LA),1,6423,5984
-RIOJA (LA),2,0,0
-RIOJA (LA),3,101,90
-RIOJA (LA),4,495,352
-RIOJA (LA),5,90,77
-RIOJA (LA),6,44,43
-RIOJA (LA),7,DAÑOS,806,728
-RIOJA (LA),8,2138,2109
-CIUDAD AUTÓNOMA DE CEUTA,1,3673,3448
-CIUDAD AUTÓNOMA DE CEUTA,2,1,3
-CIUDAD AUTÓNOMA DE CEUTA,3,123,124
-CIUDAD AUTÓNOMA DE CEUTA,4,64,51
-CIUDAD AUTÓNOMA DE CEUTA,5,275,304
-CIUDAD AUTÓNOMA DE CEUTA,6,308,199
-CIUDAD AUTÓNOMA DE CEUTA,7,DAÑOS,235,207
-CIUDAD AUTÓNOMA DE CEUTA,8,796,713
-CIUDAD AUTÓNOMA DE MELILLA,1,3673,3644
-CIUDAD AUTÓNOMA DE MELILLA,2,1,1
-CIUDAD AUTÓNOMA DE MELILLA,3,221,283
-CIUDAD AUTÓNOMA DE MELILLA,4,72,126
-CIUDAD AUTÓNOMA DE MELILLA,5,88,79
-CIUDAD AUTÓNOMA DE MELILLA,6,86,70
-CIUDAD AUTÓNOMA DE MELILLA,7,DAÑOS,254,272
-CIUDAD AUTÓNOMA DE MELILLA,8,1001,994
+prov_code,type,2015,2016
+1,1,9414,8947
+1,2,1,2
+1,3,144,148
+1,4,380,274
+1,5,68,77
+1,6,26,30
+1,7,922,944
+1,8,3506,3568
+2,1,9398,8779
+2,2,2,1
+2,3,158,167
+2,4,561,516
+2,5,138,140
+2,6,71,62
+2,7,955,870
+2,8,3491,3134
+3,1,71235,70289
+3,2,23,11
+3,3,1523,1618
+3,4,6268,6775
+3,5,1600,1550
+3,6,479,568
+3,7,7648,7366
+3,8,25056,24495
+4,1,23562,23277
+4,2,4,5
+4,3,511,492
+4,4,1974,2067
+4,5,505,497
+4,6,187,206
+4,7,2732,2990
+4,8,6506,6165
+5,1,3728,3630
+5,2,1,0
+5,3,41,33
+5,4,352,327
+5,5,29,30
+5,6,18,17
+5,7,649,632
+5,8,794,698
+6,1,14059,13776
+6,2,0,3
+6,3,175,160
+6,4,730,682
+6,5,218,243
+6,6,108,96
+6,7,1531,1605
+6,8,4237,3982
+8,1,238761,235302
+8,2,25,32
+8,3,14566,13176
+8,4,12521,12149
+8,5,5403,5069
+8,6,841,991
+8,7,20982,21095
+8,8,102564,102958
+9,1,8354,8334
+9,2,0,2
+9,3,120,147
+9,4,345,310
+9,5,84,121
+9,6,34,58
+9,7,1242,1239
+9,8,2929,2733
+10,1,6341,5972
+10,2,1,1
+10,3,45,61
+10,4,269,280
+10,5,62,66
+10,6,45,66
+10,7,912,793
+10,8,1736,1566
+11,1,41455,38356
+11,2,8,9
+11,3,720,678
+11,4,1829,1614
+11,5,1361,1282
+11,6,760,569
+11,7,4441,4228
+11,8,13350,12708
+12,1,19596,18752
+12,2,2,1
+12,3,347,395
+12,4,2211,1848
+12,5,285,220
+12,6,105,92
+12,7,2410,2158
+12,8,5905,5980
+13,1,10842,9581
+13,2,4,0
+13,3,127,118
+13,4,561,516
+13,5,94,130
+13,6,73,86
+13,7,1280,1018
+13,8,2798,2566
+14,1,19586,18218
+14,2,2,0
+14,3,382,392
+14,4,875,904
+14,5,290,323
+14,6,94,140
+14,7,1980,1849
+14,8,6162,5897
+15,1,24573,24595
+15,2,3,7
+15,3,335,369
+15,4,1286,1248
+15,5,309,371
+15,6,83,75
+15,7,3164,3085
+15,8,7545,7288
+16,1,4391,4424
+16,2,3,0
+16,3,62,60
+16,4,313,302
+16,5,47,77
+16,6,11,10
+16,7,629,676
+16,8,1078,1016
+17,1,31747,29000
+17,2,0,2
+17,3,615,612
+17,4,2117,2279
+17,5,454,375
+17,6,345,347
+17,7,3424,3109
+17,8,10733,9574
+18,1,24497,24279
+18,2,5,4
+18,3,542,527
+18,4,1473,1684
+18,5,625,652
+18,6,379,395
+18,7,2623,2604
+18,8,7669,7718
+19,1,6694,6584
+19,2,1,6
+19,3,120,170
+19,4,603,551
+19,5,183,232
+19,6,23,23
+19,7,1231,984
+19,8,1521,1482
+20,1,17820,16839
+20,2,3,1
+20,3,217,243
+20,4,1330,1184
+20,5,217,200
+20,6,105,77
+20,7,1450,1440
+20,8,4604,4647
+21,1,14894,15327
+21,2,3,6
+21,3,265,255
+21,4,1243,1129
+21,5,259,278
+21,6,116,102
+21,7,1125,1304
+21,8,4293,4553
+22,1,3873,3805
+22,2,1,0
+22,3,23,42
+22,4,169,153
+22,5,35,31
+22,6,33,34
+22,7,530,573
+22,8,1088,974
+23,1,12872,12572
+23,2,4,1
+23,3,267,253
+23,4,709,735
+23,5,282,284
+23,6,63,70
+23,7,1567,1505
+23,8,3365,3226
+24,1,11689,11182
+24,2,2,2
+24,3,176,185
+24,4,571,667
+24,5,136,161
+24,6,42,32
+24,7,1803,1684
+24,8,3722,3442
+25,1,14399,13281
+25,2,2,3
+25,3,331,308
+25,4,632,523
+25,5,184,120
+25,6,53,75
+25,7,1882,1752
+25,8,3973,3788
+27,1,5477,5406
+27,2,0,3
+27,3,87,75
+27,4,269,255
+27,5,43,64
+27,6,28,37
+27,7,764,767
+27,8,1446,1417
+29,1,58787,60373
+29,2,13,13
+29,3,1108,1269
+29,4,2840,3272
+29,5,1874,1742
+29,6,625,655
+29,7,5384,5811
+29,8,22115,23171
+32,1,5743,5574
+32,2,2,0
+32,3,107,85
+32,4,253,295
+32,5,85,78
+32,6,24,18
+32,7,622,610
+32,8,1739,1551
+34,1,2992,2927
+34,2,0,0
+34,3,40,37
+34,4,110,110
+34,5,18,38
+34,6,14,11
+34,7,529,508
+34,8,870,784
+35,1,35409,34876
+35,2,10,8
+35,3,551,594
+35,4,1086,1164
+35,5,647,594
+35,6,269,308
+35,7,3049,3066
+35,8,11197,11297
+36,1,22328,20836
+36,2,6,1
+36,3,282,310
+36,4,1072,978
+36,5,284,289
+36,6,127,123
+36,7,2974,2864
+36,8,6266,6162
+37,1,7506,7289
+37,2,2,2
+37,3,124,117
+37,4,262,191
+37,5,81,91
+37,6,44,38
+37,7,863,916
+37,8,2823,2876
+38,1,32007,31454
+38,2,2,6
+38,3,572,588
+38,4,1411,1412
+38,5,621,615
+38,6,195,161
+38,7,2318,2333
+38,8,11439,11989
+40,1,3368,3339
+40,2,0,0
+40,3,35,22
+40,4,203,259
+40,5,27,32
+40,6,18,25
+40,7,519,567
+40,8,885,710
+41,1,62379,60282
+41,2,9,11
+41,3,1628,1820
+41,4,2628,2540
+41,5,1473,1542
+41,6,245,307
+41,7,5662,5591
+41,8,21044,21007
+42,1,1730,1750
+42,2,1,0
+42,3,17,21
+42,4,96,106
+42,5,4,19
+42,6,13,10
+42,7,210,287
+42,8,488,411
+43,1,30571,28975
+43,2,1,4
+43,3,828,846
+43,4,2760,2745
+43,5,368,351
+43,6,218,253
+43,7,3229,3448
+43,8,8884,8112
+44,1,1965,1887
+44,2,2,0
+44,3,20,16
+44,4,127,111
+44,5,15,14
+44,6,16,14
+44,7,339,288
+44,8,418,437
+45,1,19510,18870
+45,2,1,3
+45,3,313,276
+45,4,2479,2515
+45,5,459,530
+45,6,94,90
+45,7,1948,1856
+45,8,4029,3880
+46,1,88760,87352
+46,2,9,11
+46,3,2825,2585
+46,4,6218,6061
+46,5,1420,1550
+46,6,593,632
+46,7,11232,11338
+46,8,29560,29124
+47,1,13334,12473
+47,2,0,0
+47,3,99,89
+47,4,426,513
+47,5,121,134
+47,6,35,48
+47,7,1847,1814
+47,8,4796,4302
+48,1,36939,36438
+48,2,6,3
+48,3,1018,1089
+48,4,1831,1651
+48,5,384,486
+48,6,134,146
+48,7,3409,3102
+48,8,12774,13839
+49,1,3450,3392
+49,2,0,0
+49,3,37,28
+49,4,141,129
+49,5,55,46
+49,6,22,20
+49,7,409,456
+49,8,1033,976
+50,1,22603,22514
+50,2,4,8
+50,3,500,633
+50,4,1003,1108
+50,5,213,211
+50,6,166,131
+50,7,3114,3000
+50,8,7432,7309
+51,1,3673,3448
+51,2,1,3
+51,3,123,124
+51,4,64,51
+51,5,275,304
+51,6,308,199
+51,7,235,207
+51,8,796,713
+52,1,3673,3644
+52,2,1,1
+52,3,221,283
+52,4,72,126
+52,5,88,79
+52,6,86,70
+52,7,254,272
+52,8,1001,994
