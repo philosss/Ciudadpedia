@@ -1,4 +1,200 @@
 <!-- Main -->
+<script>
+  window.onload = function() {
+    var chart = new CanvasJS.Chart("chartContainer", {
+      animationEnabled: true,
+      title: {
+        text: "Population of {{capital}}"
+      },
+      axisX: {
+        valueFormatString: "YYYY",
+        minimum: new Date(2008, 0),
+        maximum: new Date(2018, 2)
+      },
+      axisY: {
+        //title: "Population in k"
+      },
+      legend: {
+        verticalAlign: "top",
+        horizontalAlign: "right",
+        dockInsidePlotArea: true
+      },
+      toolTip: {
+        shared: true
+      },
+      data: [{
+          xValueFormatString: "YYYY",
+          name: "Men",
+          showInLegend: true,
+          legendMarkerType: "square",
+          type: "line",
+          lineThickness: 2,
+          color: "#4F81BC",
+          markerSize: 5,
+
+          dataPoints: [{
+              x: new Date(2018, 0),
+              y: 3142095
+            },
+            {
+              x: new Date(2017, 0),
+              y: 3108811
+            },
+            {
+              x: new Date(2016, 0),
+              y: 3084747
+            },
+            {
+              x: new Date(2015, 0),
+              y: 3066776
+            },
+            {
+              x: new Date(2014, 0),
+              y: 3065576
+            },
+            {
+              x: new Date(2013, 0),
+              y: 3086686
+            },
+            {
+              x: new Date(2012, 0),
+              y: 3097459
+            },
+            {
+              x: new Date(2011, 0),
+              y: 3087772
+            },
+            {
+              x: new Date(2010, 0),
+              y: 3082941
+            },
+            {
+              x: new Date(2009, 0),
+              y: 3066114
+            },
+            {
+              x: new Date(2008, 0),
+              y: 3018293
+            }
+          ]
+        },
+        {
+          name: "Women",
+          xValueFormatString: "YYYY",
+          showInLegend: true,
+          legendMarkerType: "square",
+          type: "line",
+          lineThickness: 2,
+          color: "#C0504E",
+          markerSize: 5,
+          dataPoints: [{
+              x: new Date(2018, 0),
+              y: 3407885
+            },
+            {
+              x: new Date(2017, 0),
+              y: 3367894
+            },
+            {
+              x: new Date(2016, 0),
+              y: 3339528
+            },
+            {
+              x: new Date(2015, 0),
+              y: 3318521
+            },
+            {
+              x: new Date(2014, 0),
+              y: 3312721
+            },
+            {
+              x: new Date(2013, 0),
+              y: 3328023
+            },
+            {
+              x: new Date(2012, 0),
+              y: 3328114
+            },
+            {
+              x: new Date(2011, 0),
+              y: 3306467
+            },
+            {
+              x: new Date(2010, 0),
+              y: 3290591
+            },
+            {
+              x: new Date(2009, 0),
+              y: 3261480
+            },
+            {
+              x: new Date(2008, 0),
+              y: 3207902
+            }
+          ]
+        },
+        {
+          name: "Total",
+          xValueFormatString: "YYYY",
+          showInLegend: true,
+          legendMarkerType: "square",
+          type: "line",
+          lineThickness: 3,
+          color: "#9BBB58",
+          markerSize: 5,
+          dataPoints: [{
+              x: new Date(2018, 0),
+              y: 3142095 + 3407885
+            },
+            {
+              x: new Date(2017, 0),
+              y: 3108811 + 3367894
+            },
+            {
+              x: new Date(2016, 0),
+              y: 3084747 + 3339528
+            },
+            {
+              x: new Date(2015, 0),
+              y: 3066776 + 3318521
+            },
+            {
+              x: new Date(2014, 0),
+              y: 3065576 + 3312721
+            },
+            {
+              x: new Date(2013, 0),
+              y: 3086686 + 3328023
+            },
+            {
+              x: new Date(2012, 0),
+              y: 3097459 + 3328114
+            },
+            {
+              x: new Date(2011, 0),
+              y: 3087772 + 3306467
+            },
+            {
+              x: new Date(2010, 0),
+              y: 3082941 + 3290591
+            },
+            {
+              x: new Date(2009, 0),
+              y: 3066114 + 3261480
+            },
+            {
+              x: new Date(2008, 0),
+              y: 3018293 + 3207902
+            }
+          ]
+        }
+      ]
+    });
+
+    chart.render();
+
+  }
+</script>
 <div id="main">
   <div class="inner">
     <h1>{{title}} - ID: {{prov_id}}</h1>
@@ -8,59 +204,51 @@
         <span class="image fit"><img src="https://www.linguista.ch/fileadmin/user_upload/images/Sprachen/Spanisch/Spanien/Madrid/Don_Quijote_Madrid/madrid_donquijote_04_24914348570_o.jpg" alt=""></span>
       </div>
       <div class="col-8 col-12-medium">
-        <p>Madrid (/məˈdrɪd/, Spanish: [maˈðɾið], locally: [maˈðɾiθ, -ˈðɾi]) is the capital of Spain, and the largest municipality of the Community of Madrid. The population of the city is almost 3.2 million with a metropolitan area population of
+        <p>Madrid is the capital of Spain, and the largest municipality of the Community of Madrid. The population of the city is almost 3.2 million with a metropolitan area population of
           approximately 6.5 million. It is the third-largest city in the European Union, after London and Berlin, and its metropolitan area is the third-largest in the European Union after London and Paris. Located in south-western Europe, the city
           spans a total of 604.3 km2 (233.3 sq mi). The city is located on the Manzanares in the centre of both the country and the Community of Madrid (which comprises the city of Madrid, its conurbation and extended suburbs and villages); this
           community is bordered by the autonomous communities of Castile and León and Castile-La Mancha. As the capital city of Spain, seat of government, and residence of the Spanish monarch, Madrid is also the political, economic and cultural
-          centre
-          of Spain.</p>
+          centre of Spain.</p>
       </div>
     </div>
     <div class="row">
       <h3>Population Info</h3>
-      <div class="table-wrapper">
-        <table class="alt">
-          <thead>
-            <tr>
-              <th>Name</th>
-              <th>Description</th>
-              <th>Price</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Item One</td>
-              <td>Ante turpis integer aliquet porttitor.</td>
-              <td>29.99</td>
-            </tr>
-            <tr>
-              <td>Item Two</td>
-              <td>Vis ac commodo adipiscing arcu aliquet.</td>
-              <td>19.99</td>
-            </tr>
-            <tr>
-              <td>Item Three</td>
-              <td> Morbi faucibus arcu accumsan lorem.</td>
-              <td>29.99</td>
-            </tr>
-            <tr>
-              <td>Item Four</td>
-              <td>Vitae integer tempus condimentum.</td>
-              <td>19.99</td>
-            </tr>
-            <tr>
-              <td>Item Five</td>
-              <td>Ante turpis integer aliquet porttitor.</td>
-              <td>29.99</td>
-            </tr>
-          </tbody>
-          <tfoot>
-            <tr>
-              <td colspan="2"></td>
-              <td>100.00</td>
-            </tr>
-          </tfoot>
-        </table>
+    </div>
+    <div class="row">
+      <div class="col-4 col-12-medium">
+        <div class="table-wrapper">
+          <table class="alt">
+            <thead>
+              <tr>
+                <th></th>
+                <th>Unit</th>
+                <th>Percentage</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Male</td>
+                <td>23.000</td>
+                <td>40%</td>
+              </tr>
+              <tr>
+                <td>Female</td>
+                <td>30.000</td>
+                <td>60%</td>
+              </tr>
+            </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="1"></td>
+                <td>63.000</td>
+              </tr>
+            </tfoot>
+          </table>
+
+        </div>
+      </div>
+      <div class="col-8 col-12-medium">
+        <div id="chartContainer" style="height: 370px; width: 100%;"></div>
       </div>
     </div>
 
