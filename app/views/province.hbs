@@ -192,9 +192,6 @@
     });
     var popPie = new CanvasJS.Chart("popPie", {
       animationEnabled: true,
-      // title: {
-      //   text: "Desktop Search Engine Market Share - 2016"
-      // },
       data: [{
         type: "pie",
         startAngle: 0,
@@ -212,15 +209,102 @@
       }]
     });
 
+    var chartCrime = new CanvasJS.Chart("chartCrime", {
+      animationEnabled: true,
+      toolTip: {
+        shared: true
+      },
+      data: [{
+          type: "column",
+          name: "2015",
+
+          yValueFormatString: "#,##0.# reports",
+          dataPoints: [{
+              label: "Crimes and misdemeanours",
+              y: 1934.5
+            },
+            {
+              label: "Intentional homicide",
+              y: 20015
+            },
+            {
+              label: "Robbery with violence and intimidation",
+              y: 25342
+            },
+            {
+              label: "Home robberies",
+              y: 20088
+            },
+            {
+              label: "Theft of motor vehicles",
+              y: 28234
+            },
+            {
+              label: "Drug trade",
+              y: 28234 + 30
+            },
+            {
+              label: "Injuries",
+              y: 28234 + 30
+            },
+            {
+              label: "Burglary",
+              y: 28234 + 30
+            }
+          ]
+        },
+        {
+          type: "column",
+          name: "2016",
+          axisYType: "secondary",
+          yValueFormatString: "#,##0.# Units",
+          dataPoints: [{
+              label: "Crimes and misdemeanours",
+              y: 19034.5 + 30
+            },
+            {
+              label: "Intentional homicide",
+              y: 20015 + 30
+            },
+            {
+              label: "Robbery with violence and intimidation",
+              y: 25342 + 30
+            },
+            {
+              label: "Home robberies",
+              y: 20088 + 30
+            },
+            {
+              label: "Theft of motor vehicles",
+              y: 28234 + 30
+            },
+            {
+              label: "Drug trade",
+              y: 28234 + 30
+            },
+            {
+              label: "Injuries",
+              y: 28234 + 30
+            },
+            {
+              label: "Burglary",
+              y: 28234 + 30
+            }
+          ]
+        }
+      ]
+    });
+
     popPie.render();
     popDistribution.render();
+    chartCrime.render();
     adjustDimension();
 
     var word_list = [{
         text: "teachers",
         weight: 50,
         html: {
-          "data-tooltip": "50"
+          "data-tooltip": "50€"
         }
       },
       {
@@ -258,14 +342,12 @@
         autoResize: true
       });
     });
-
-
-
   }
 
   function adjustDimension() {
     document.getElementById("popPie").style.height = String(parseInt(document.getElementById("popPie").style.height.split("px")[0]) - 10) + "px";
     document.getElementById("popDistribution").style.height = String(parseInt(document.getElementById("popDistribution").style.height.split("px")[0]) - 10) + "px";
+    document.getElementById("chartCrime").style.height = String(parseInt(document.getElementById("chartCrime").style.height.split("px")[0]) - 10) + "px";
   }
 </script>
 <div id="main">
@@ -285,11 +367,13 @@
       </div>
     </div>
     <div class="row">
-      <!-- <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Madrid%20Province&key=AIzaSyDyEAEvC1GXwNh2T5r3Ygpv658ifLPXWLc" allowfullscreen></iframe> -->
-
-      <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://maps.google.com/maps?q=Province%20Of%20Madrid&t=&z=7&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-
+      <h3>Location</h3>
     </div>
+    <div class="row">
+      <!-- <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Madrid%20Province&key=AIzaSyDyEAEvC1GXwNh2T5r3Ygpv658ifLPXWLc" allowfullscreen></iframe> -->
+      <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://maps.google.com/maps?q=province+of+madrid&t=&z=6&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+    </div>
+    <br /> <br />
     <div class="row">
       <h3>Population Info</h3>
     </div>
@@ -297,7 +381,6 @@
       <div class="col-4 col-12-medium">
         <div class="chart">
           <div id="popPie" style="height: 370px; width: 100%;"></div>
-
         </div>
       </div>
       <div class="col-8 col-12-medium">
@@ -313,11 +396,24 @@
     </div>
     <div class="row">
       <p>This cloud shows the public debt by city that compose the provice</p>
-
-
       <div id="debt_city" style="width: 100%; height: 200px; margin: auto;"></div>
     </div>
+    <br />
+    <br />
+    <div class="row">
+      <h3>Inmates and crime</h3>
+    </div>
 
-
+    <div class="chart">
+      <div id="chartCrime" style="width: 100%; max-width: 900px; height: 370px; margin: auto;"></div>
+    </div>
+    <br /> <br />
+    <div class="row">
+      <a href="/" style="margin: auto; padding: 0;"><img src="{{sub}}images/Logo.png" alt="" style="width:400px" />
+      </a>
+    </div>
   </div>
+
+
+
 </div>
