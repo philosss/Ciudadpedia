@@ -212,10 +212,54 @@
       }]
     });
 
-
     popPie.render();
     popDistribution.render();
     adjustDimension();
+
+    var word_list = [{
+        text: "teachers",
+        weight: 50,
+        html: {
+          "data-tooltip": "50"
+        }
+      },
+      {
+        text: "classes",
+        weight: 44,
+        html: {
+          "data-tooltip": "44"
+        }
+      },
+      {
+        text: "excellent",
+        weight: 26,
+        html: {
+          "data-tooltip": "35"
+        }
+      },
+      {
+        text: "material",
+        weight: 26,
+        html: {
+          "data-tooltip": "32"
+        }
+      },
+      {
+        text: "well",
+        weight: 25,
+        html: {
+          "data-tooltip": "30"
+        }
+      }
+    ];
+    $(function() {
+      $("#debt_city").jQCloud(word_list, {
+        shape: "rectangular",
+        autoResize: true
+      });
+    });
+
+
   }
 
   function adjustDimension() {
@@ -255,6 +299,18 @@
         </div>
       </div>
     </div>
+    <br />
+    <br />
+    <div class="row">
+      <h3>Composition and debt</h3>
+    </div>
+    <div class="row">
+      <p>This cloud shows the public debt by city that compose the provice</p>
+
+
+      <div id="debt_city" style="width: 100%; height: 200px; margin: auto;"></div>
+    </div>
+
 
   </div>
 </div>

@@ -7,7 +7,7 @@ Provincepedia is an encyclopedia of Spanish 🇪🇸 provinces containing data c
 This project is part of the Open Linked Big Data class taught at Universidad Politécnica de Madrid 🌞 offered by prof. Raúl García-Castro and prof. Óscar Corcho of the Ontology Engineering Group
 
 
-Authors:  Filippo Calzavara ([@philosss](https://github.com/philosss)) and Cesare Curcio ([@Caesarc95](https://github.com/Caesarc95))
+Authors: Filippo Calzavara ([@philosss](https://github.com/philosss)) and Cesare Curcio ([@Caesarc95](https://github.com/Caesarc95))
 
 
 Universidad Politécnica de Madrid 🌞
@@ -36,6 +36,8 @@ Make sure npm is running on port 3000
 
 ## Credits
 - [Font Beredith](https://www.dafont.com/es/beredith.font)
+- [World-count Jquery](https://codepen.io/tbaragao/pen/zvEyYW)
+- [canvasjs.com](https://canvasjs.com)
 
 <p align="center">
 <a href="http://upm.es/"><img src="https://github.com/philosss/Provincepedia/blob/master/graphics/images/upm.png" width="300px"></a>
