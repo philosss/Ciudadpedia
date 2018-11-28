@@ -1,11 +1,11 @@
 <!-- Main -->
 <script>
   window.onload = function() {
-    var chart = new CanvasJS.Chart("chartContainer", {
+    var popDistribution = new CanvasJS.Chart("popDistribution", {
       animationEnabled: true,
-      title: {
-        text: "Population of {{capital}}"
-      },
+      // title: {
+      //   text: "Population of {{capital}}"
+      // },
       axisX: {
         valueFormatString: "YYYY",
         minimum: new Date(2008, 0),
@@ -190,9 +190,37 @@
         }
       ]
     });
+    var popPie = new CanvasJS.Chart("popPie", {
+      animationEnabled: true,
+      // title: {
+      //   text: "Desktop Search Engine Market Share - 2016"
+      // },
+      data: [{
+        type: "pie",
+        startAngle: 0,
+        yValueFormatString: "##0.00\"%\"",
+        indexLabel: "{label} {y}",
+        dataPoints: [{
+            y: 49,
+            label: "Men"
+          },
+          {
+            y: 51,
+            label: "Women"
+          }
+        ]
+      }]
+    });
 
-    chart.render();
 
+    popPie.render();
+    popDistribution.render();
+    adjustDimension();
+  }
+
+  function adjustDimension() {
+    document.getElementById("popPie").style.height = String(parseInt(document.getElementById("popPie").style.height.split("px")[0]) - 10) + "px";
+    document.getElementById("popDistribution").style.height = String(parseInt(document.getElementById("popDistribution").style.height.split("px")[0]) - 10) + "px";
   }
 </script>
 <div id="main">
@@ -216,39 +244,15 @@
     </div>
     <div class="row">
       <div class="col-4 col-12-medium">
-        <div class="table-wrapper">
-          <table class="alt">
-            <thead>
-              <tr>
-                <th></th>
-                <th>Unit</th>
-                <th>Percentage</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr>
-                <td>Male</td>
-                <td>23.000</td>
-                <td>40%</td>
-              </tr>
-              <tr>
-                <td>Female</td>
-                <td>30.000</td>
-                <td>60%</td>
-              </tr>
-            </tbody>
-            <tfoot>
-              <tr>
-                <td colspan="1"></td>
-                <td>63.000</td>
-              </tr>
-            </tfoot>
-          </table>
+        <div class="chart">
+          <div id="popPie" style="height: 370px; width: 100%;"></div>
 
         </div>
       </div>
       <div class="col-8 col-12-medium">
-        <div id="chartContainer" style="height: 370px; width: 100%;"></div>
+        <div class="chart">
+          <div id="popDistribution" style="height: 370px; width: 100%;"></div>
+        </div>
       </div>
     </div>
 

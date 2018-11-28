@@ -17,3 +17,7 @@
 *+.tiles {
   margin-top: -2em;
 }
+
+.chart {
+  overflow: hidden !important;
+}
