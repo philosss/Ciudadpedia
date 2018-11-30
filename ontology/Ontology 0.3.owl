@@ -1,116 +1,150 @@
-@prefix : <http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#> .
+@prefix : <http://provincepedia.ml/resources/#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@base <http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5> .
+@base <http://provincepedia.ml/resources> .
 
-<http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5> rdf:type owl:Ontology .
+<http://provincepedia.ml/resources> rdf:type owl:Ontology .
 
 #################################################################
 #    Object Properties
 #################################################################
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#has_a
-:has_a rdf:type owl:ObjectProperty ;
-       rdfs:domain :City ;
-       rdfs:range :Public_Debt .
+###  http://provincepedia.ml/resources#classified
+:classified rdf:type owl:ObjectProperty ;
+            rdfs:domain :Crime ;
+            rdfs:range :CrimeType .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#in
+###  http://provincepedia.ml/resources#has
+:has rdf:type owl:ObjectProperty ;
+     rdfs:domain :Province ;
+     rdfs:range :Population .
+
+
+###  http://provincepedia.ml/resources#in
 :in rdf:type owl:ObjectProperty ;
-    rdfs:domain :City ;
+    rdfs:domain :Town ;
     rdfs:range :Province .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#reports
-:reports rdf:type owl:ObjectProperty ;
-         rdfs:domain :Administration_entity ;
-         rdfs:range :Crime ,
-                    :Drugs_Traffic ,
-                    :Homicides ,
-                    :Thefts .
+###  http://provincepedia.ml/resources#of
+:of rdf:type owl:ObjectProperty ;
+    rdfs:domain :Province ;
+    rdfs:range :AutonomousCommunity .
+
+
+###  http://provincepedia.ml/resources#reportedin
+:reportedin rdf:type owl:ObjectProperty ;
+            rdfs:domain :Crime ;
+            rdfs:range :Province .
 
 
 #################################################################
 #    Data properties
 #################################################################
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Crime_amount
-:Crime_amount rdf:type owl:DatatypeProperty ;
-              rdfs:domain :Crime ;
-              rdfs:range xsd:int .
+###  http://provincepedia.ml/resources#accode
+:accode rdf:type owl:DatatypeProperty ;
+        rdfs:domain :AutonomousCommunity ;
+        rdfs:range xsd:int .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Debt_amount
-:Debt_amount rdf:type owl:DatatypeProperty ;
-             rdfs:domain :Public_Debt ;
-             rdfs:range xsd:int .
+###  http://provincepedia.ml/resources#capital
+:capital rdf:type owl:DatatypeProperty ;
+         rdfs:domain :Town ;
+         rdfs:range xsd:boolean .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Name
-:Name rdf:type owl:DatatypeProperty ;
-      rdfs:domain :Administration_entity ;
+###  http://provincepedia.ml/resources#crimeamount2015
+:crimeamount2015 rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :Crime ;
+                 rdfs:range xsd:int .
+
+
+###  http://provincepedia.ml/resources#crimeamount2016
+:crimeamount2016 rdf:type owl:DatatypeProperty ;
+                 rdfs:domain :Crime ;
+                 rdfs:range xsd:int .
+
+
+###  http://provincepedia.ml/resources#debtamount
+:debtamount rdf:type owl:DatatypeProperty ;
+            rdfs:domain :Town ;
+            rdfs:range xsd:float .
+
+
+###  http://provincepedia.ml/resources#felony
+:felony rdf:type owl:DatatypeProperty ;
+        rdfs:domain :CrimeType ;
+        rdfs:range xsd:string .
+
+
+###  http://provincepedia.ml/resources#femalepopulation
+:femalepopulation rdf:type owl:DatatypeProperty ;
+                  rdfs:domain :Population ;
+                  rdfs:range xsd:int .
+
+
+###  http://provincepedia.ml/resources#id
+:id rdf:type owl:DatatypeProperty ;
+    rdfs:domain :CrimeType ;
+    rdfs:range xsd:int .
+
+
+###  http://provincepedia.ml/resources#malepopulation
+:malepopulation rdf:type owl:DatatypeProperty ;
+                rdfs:domain :Population ;
+                rdfs:range xsd:int .
+
+
+###  http://provincepedia.ml/resources#name
+:name rdf:type owl:DatatypeProperty ;
+      rdfs:domain :AdministrationEntity ;
       rdfs:range xsd:string .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Population
-:Population rdf:type owl:DatatypeProperty ;
-            rdfs:domain :Province ;
-            rdfs:range xsd:int .
-
-
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Total_province_debt_amount
-:Total_province_debt_amount rdf:type owl:DatatypeProperty ;
-                            rdfs:domain :Province ;
-                            rdfs:range xsd:int .
+###  http://provincepedia.ml/resources#provcode
+:provcode rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Province ;
+          rdfs:range xsd:int .
 
 
 #################################################################
 #    Classes
 #################################################################
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Administration_entity
-:Administration_entity rdf:type owl:Class .
+###  http://provincepedia.ml/resources#AdministrationEntity
+:AdministrationEntity rdf:type owl:Class .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Autonomous_community
-:Autonomous_community rdf:type owl:Class ;
-                      rdfs:subClassOf :Administration_entity .
+###  http://provincepedia.ml/resources#AutonomousCommunity
+:AutonomousCommunity rdf:type owl:Class ;
+                     rdfs:subClassOf :AdministrationEntity .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#City
-:City rdf:type owl:Class ;
-      rdfs:subClassOf :Administration_entity .
-
-
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Crime
+###  http://provincepedia.ml/resources#Crime
 :Crime rdf:type owl:Class .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Drugs_Traffic
-:Drugs_Traffic rdf:type owl:Class ;
-               rdfs:subClassOf :Crime .
+###  http://provincepedia.ml/resources#CrimeType
+:CrimeType rdf:type owl:Class .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Homicides
-:Homicides rdf:type owl:Class ;
-           rdfs:subClassOf :Crime .
+###  http://provincepedia.ml/resources#Population
+:Population rdf:type owl:Class .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Province
+###  http://provincepedia.ml/resources#Province
 :Province rdf:type owl:Class ;
-          rdfs:subClassOf :Administration_entity .
+          rdfs:subClassOf :AdministrationEntity .
 
 
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Public_Debt
-:Public_Debt rdf:type owl:Class .
-
-
-###  http://www.semanticweb.org/utente/ontologies/2018/9/untitled-ontology-5#Thefts
-:Thefts rdf:type owl:Class ;
-        rdfs:subClassOf :Crime .
+###  http://provincepedia.ml/resources#Town
+:Town rdf:type owl:Class ;
+      rdfs:subClassOf :AdministrationEntity .
 
 
 ###  Generated by the OWL API (version 4.5.6.2018-09-06T00:27:41Z) https://github.com/owlcs/owlapi
