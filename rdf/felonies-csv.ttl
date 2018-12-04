@@ -3,28 +3,37 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix pp: <> .
 
 
-<http://provincepedia/felonies#0> rdf:subject "1" ;
-	rdfs:comment "DELITOS Y FALTAS (EU)" .
+<http://provincepedia.ml/0> a <http://provincepedia.ml/resources/#CrimeType> ;
+	<http://provincepedia.ml/resources/#id> "1"^^xsd:int ;
+	<http://provincepedia.ml/resources/#felony> "Crimes and misdemeanours" .
 
-<http://provincepedia/felonies#1> rdf:subject "2" ;
-	rdfs:comment "HOMICIDIOS DOLOSOS Y ASESINATOS CONSUMADOS (EU)" .
+<http://provincepedia.ml/1> a <http://provincepedia.ml/resources/#CrimeType> ;
+	<http://provincepedia.ml/resources/#id> "2"^^xsd:int ;
+	<http://provincepedia.ml/resources/#felony> "Intentional homicide" .
 
-<http://provincepedia/felonies#2> rdf:subject "3" ;
-	rdfs:comment "ROBO CON VIOLENCIA E INTIMIDACI��N (EU)" .
+<http://provincepedia.ml/2> a <http://provincepedia.ml/resources/#CrimeType> ;
+	<http://provincepedia.ml/resources/#id> "3"^^xsd:int ;
+	<http://provincepedia.ml/resources/#felony> "Robbery with violence and intimidation" .
 
-<http://provincepedia/felonies#3> rdf:subject "4" ;
-	rdfs:comment "ROBOS CON FUERZA EN DOMICILIOS (EU)" .
+<http://provincepedia.ml/3> a <http://provincepedia.ml/resources/#CrimeType> ;
+	<http://provincepedia.ml/resources/#id> "4"^^xsd:int ;
+	<http://provincepedia.ml/resources/#felony> "Home robberies" .
 
-<http://provincepedia/felonies#4> rdf:subject "5" ;
-	rdfs:comment "SUSTRACCI��N VEH��CULOS A MOTOR (EU)" .
+<http://provincepedia.ml/4> a <http://provincepedia.ml/resources/#CrimeType> ;
+	<http://provincepedia.ml/resources/#id> "5"^^xsd:int ;
+	<http://provincepedia.ml/resources/#felony> "Theft of motor vehicles" .
 
-<http://provincepedia/felonies#5> rdf:subject "6" ;
-	rdfs:comment "TR��FICO DE DROGAS (EU)" .
+<http://provincepedia.ml/5> a <http://provincepedia.ml/resources/#CrimeType> ;
+	<http://provincepedia.ml/resources/#id> "6"^^xsd:int ;
+	<http://provincepedia.ml/resources/#felony> "Drug trade" .
 
-<http://provincepedia/felonies#6> rdf:subject "7" ;
-	rdfs:comment "DA��OS" .
+<http://provincepedia.ml/6> a <http://provincepedia.ml/resources/#CrimeType> ;
+	<http://provincepedia.ml/resources/#id> "7"^^xsd:int ;
+	<http://provincepedia.ml/resources/#felony> "Injuries" .
 
-<http://provincepedia/felonies#7> rdf:subject "8" ;
-	rdfs:comment "HURTOS" .
+<http://provincepedia.ml/7> a <http://provincepedia.ml/resources/#CrimeType> ;
+	<http://provincepedia.ml/resources/#id> "8"^^xsd:int ;
+	<http://provincepedia.ml/resources/#felony> "Burglary" .
