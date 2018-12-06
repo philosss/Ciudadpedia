@@ -6,6 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
+    "bluereq": "^2.1.7",
     "cookie-parser": "^1.4.3",
     "d3-cloud": "^1.2.5",
     "dbpedia-sparql-client": "^0.9.8",
