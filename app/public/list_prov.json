@@ -1,0 +1,210 @@
+[
+  {
+    "province": "Araba/Alava",
+    "website-link": "http://localhost:3000/p/araba"
+  },
+  {
+    "province": "Albacete",
+    "website-link": "http://localhost:3000/p/albacete"
+  },
+  {
+    "province": "Alicante",
+    "website-link": "http://localhost:3000/p/alicante"
+  },
+  {
+    "province": "Almería",
+    "website-link": "http://localhost:3000/p/almeria"
+  },
+  {
+    "province": "Avila",
+    "website-link": "http://localhost:3000/p/avila"
+  },
+  {
+    "province": "Badajoz",
+    "website-link": "http://localhost:3000/p/badajoz"
+  },
+  {
+    "province": "Balearic Islands",
+    "website-link": "http://localhost:3000/p/balearic islands"
+  },
+  {
+    "province": "Barcelona",
+    "website-link": "http://localhost:3000/p/barcelona"
+  },
+  {
+    "province": "Burgos",
+    "website-link": "http://localhost:3000/p/burgos"
+  },
+  {
+    "province": "Cáceres",
+    "website-link": "http://localhost:3000/p/caceres"
+  },
+  {
+    "province": "Cádiz",
+    "website-link": "http://localhost:3000/p/cadiz"
+  },
+  {
+    "province": "Castellón",
+    "website-link": "http://localhost:3000/p/castellon"
+  },
+  {
+    "province": "Ciudad Real",
+    "website-link": "http://localhost:3000/p/ciudad-real"
+  },
+  {
+    "province": "Córdoba",
+    "website-link": "http://localhost:3000/p/cordoba"
+  },
+  {
+    "province": "La Coruña",
+    "website-link": "http://localhost:3000/p/la-coruna"
+  },
+  {
+    "province": "Cuenca",
+    "website-link": "http://localhost:3000/p/cuenca"
+  },
+  {
+    "province": "Girona",
+    "website-link": "http://localhost:3000/p/girona"
+  },
+  {
+    "province": "Granada",
+    "website-link": "http://localhost:3000/p/granada"
+  },
+  {
+    "province": "Guadalajara",
+    "website-link": "http://localhost:3000/p/guadalajara"
+  },
+  {
+    "province": "Guipúzcoa",
+    "website-link": "http://localhost:3000/p/guipuzcoa"
+  },
+  {
+    "province": "Huelva",
+    "website-link": "http://localhost:3000/p/huelva"
+  },
+  {
+    "province": "Huesca",
+    "website-link": "http://localhost:3000/p/huesca"
+  },
+  {
+    "province": "Jaén",
+    "website-link": "http://localhost:3000/p/jaen"
+  },
+  {
+    "province": "León",
+    "website-link": "http://localhost:3000/p/leon"
+  },
+  {
+    "province": "Lleida",
+    "website-link": "http://localhost:3000/p/lleida"
+  },
+  {
+    "province": "La Rioja",
+    "website-link": "http://localhost:3000/p/la rioja"
+  },
+  {
+    "province": "Lugo",
+    "website-link": "http://localhost:3000/p/lugo"
+  },
+  {
+    "province": "Madrid",
+    "website-link": "http://localhost:3000/p/madrid"
+  },
+  {
+    "province": "Málaga",
+    "website-link": "http://localhost:3000/p/malaga"
+  },
+  {
+    "province": "Murcia",
+    "website-link": "http://localhost:3000/p/murcia"
+  },
+  {
+    "province": "Navarra",
+    "website-link": "http://localhost:3000/p/navarra"
+  },
+  {
+    "province": "Ourense",
+    "website-link": "http://localhost:3000/p/ourense"
+  },
+  {
+    "province": "Asturias",
+    "website-link": "http://localhost:3000/p/asturias"
+  },
+  {
+    "province": "Palencia",
+    "website-link": "http://localhost:3000/p/palencia"
+  },
+  {
+    "province": "Las Palmas",
+    "website-link": "http://localhost:3000/p/las-palmas"
+  },
+  {
+    "province": "Pontevedra",
+    "website-link": "http://localhost:3000/p/pontevedra"
+  },
+  {
+    "province": "Salamanca",
+    "website-link": "http://localhost:3000/p/salamanca"
+  },
+  {
+    "province": "Santa Cruz de Tenerife",
+    "website-link": "http://localhost:3000/p/santa-cruz-de-tenerife"
+  },
+  {
+    "province": "Cantabria",
+    "website-link": "http://localhost:3000/p/cantabria"
+  },
+  {
+    "province": "Segovia",
+    "website-link": "http://localhost:3000/p/segovia"
+  },
+  {
+    "province": "Sevilla",
+    "website-link": "http://localhost:3000/p/sevilla"
+  },
+  {
+    "province": "Soria",
+    "website-link": "http://localhost:3000/p/soria"
+  },
+  {
+    "province": "Tarragona",
+    "website-link": "http://localhost:3000/p/tarragona"
+  },
+  {
+    "province": "Teruel",
+    "website-link": "http://localhost:3000/p/teruel"
+  },
+  {
+    "province": "Toledo",
+    "website-link": "http://localhost:3000/p/toledo"
+  },
+  {
+    "province": "Valencia",
+    "website-link": "http://localhost:3000/p/valencia"
+  },
+  {
+    "province": "Valladolid",
+    "website-link": "http://localhost:3000/p/valladolid"
+  },
+  {
+    "province": "Biscay",
+    "website-link": "http://localhost:3000/p/biscay"
+  },
+  {
+    "province": "Zamora",
+    "website-link": "http://localhost:3000/p/zamora"
+  },
+  {
+    "province": "Zaragoza",
+    "website-link": "http://localhost:3000/p/zaragoza"
+  },
+  {
+    "province": "Ceuta",
+    "website-link": "http://localhost:3000/p/ceuta"
+  },
+  {
+    "province": "Melilla",
+    "website-link": "http://localhost:3000/p/melilla"
+  }
+]

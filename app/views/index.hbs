@@ -2,21 +2,47 @@
 <div id="main">
   <div class="inner">
     <header>
-      <h1>The encyclopedia of Spanish cities<br />
-      </h1>
-      <p>Provincepedia is an encyclopedia of Spanish 🇪🇸 provinces containing data collected
-        through different public CSV datasets, transformed into graphs.
-        This project is part of the Open Linked Big Data class taught at Universidad Politécnica de Madrid 🌞
-        offered by prof. Raúl García-Castro and prof. Óscar Corcho of the Ontology Engineering Group</p>
-      <h3>Try Provincepedia</h3>
-      <form method="post" action="#">
-        <div class="fields">
-          <div class="field">
-            <input type="text" name="province" id="province" placeholder="Type here a Spanish province..." />
-          </div>
-        </div>
-      </form>
+      <h1>The encyclopedia of Spanish provinces</h1>
+      <input type="text" name="province" id="province" placeholder="Type here a Spanish province..." />
+      <script>
+        var options = {
+
+          url: "{{sub}}list_prov.json",
+
+          getValue: function(element) {
+            return element.province;
+          },
+
+          template: {
+            type: "links",
+            fields: {
+              link: "website-link"
+            }
+          },
+
+          list: {
+            maxNumberOfElements: 5,
+            match: {
+              enabled: true
+            },
+            sort: {
+              enabled: true
+            }
+          },
+
+          theme: "square"
+        };
+
+        $("#province").easyAutocomplete(options);
+      </script>
     </header>
+    <br />
+    <p>Provincepedia is an encyclopedia of Spanish 🇪🇸 provinces containing data collected
+      through different public CSV datasets, transformed into graphs.
+      This project is part of the Open Linked Big Data class taught at Universidad Politécnica de Madrid 🌞
+      offered by prof. Raúl García-Castro and prof. Óscar Corcho of the Ontology Engineering Group</p>
+    <br />
+    <h3>Try Provincepedia</h3>
     <section class="tiles">
       <article class="style1">
         <span class="image">
@@ -25,7 +51,7 @@
         <a href="p/madrid">
           <h2>Madrid</h2>
           <div class="content">
-            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+            <p>Madrid is the capital of Spain, and the largest municipality of the Community of Madrid.</p>
           </div>
         </a>
       </article>
@@ -36,7 +62,7 @@
         <a href="p/barcelona">
           <h2>Barcelona</h2>
           <div class="content">
-            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+            <p>Barcelona is the capital city of the autonomous community of Catalonia in the Kingdom of Spain.</p>
           </div>
         </a>
       </article>
@@ -47,7 +73,7 @@
         <a href="p/valencia">
           <h2>Valencia</h2>
           <div class="content">
-            <p>Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.</p>
+            <p>Valencia , officially València , is the capital of the autonomous community of Valencia.</p>
           </div>
         </a>
       </article>
