@@ -352,18 +352,21 @@
 </script>
 <div id="main">
   <div class="inner">
-    <h1>{{title}} - ID: {{prov_id}}</h1>
-    <h2>Provincial capital: {{capital}}</h2>
+    <h1>Province of {{prov_name}}</h1>
+    <div class="row">
+      <div class="col-6 col-12-medium">
+        <h2>Capital: {{capital_name}}</h2>
+      </div>
+      <div class="col-6 col-12-medium">
+        <h3 style="text-align:right">Community of {{ac_name}}</h3>
+      </div>
+    </div>
     <div class="row">
       <div class="col-4 col-12-medium">
-        <span class="image fit"><img src="https://www.linguista.ch/fileadmin/user_upload/images/Sprachen/Spanisch/Spanien/Madrid/Don_Quijote_Madrid/madrid_donquijote_04_24914348570_o.jpg" alt=""></span>
+        <span class="image fit"><img src="{{image}}" alt="{{title}}"></span>
       </div>
       <div class="col-8 col-12-medium">
-        <p>Madrid is the capital of Spain, and the largest municipality of the Community of Madrid. The population of the city is almost 3.2 million with a metropolitan area population of
-          approximately 6.5 million. It is the third-largest city in the European Union, after London and Berlin, and its metropolitan area is the third-largest in the European Union after London and Paris. Located in south-western Europe, the city
-          spans a total of 604.3 km2 (233.3 sq mi). The city is located on the Manzanares in the centre of both the country and the Community of Madrid (which comprises the city of Madrid, its conurbation and extended suburbs and villages); this
-          community is bordered by the autonomous communities of Castile and León and Castile-La Mancha. As the capital city of Spain, seat of government, and residence of the Spanish monarch, Madrid is also the political, economic and cultural
-          centre of Spain.</p>
+        {{abstract}}
       </div>
     </div>
     <div class="row">
@@ -372,7 +375,12 @@
     <div class="row">
       <!-- <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Madrid%20Province&key=AIzaSyDyEAEvC1GXwNh2T5r3Ygpv658ifLPXWLc" allowfullscreen></iframe> -->
       <iframe width="100%" height="400" frameborder="0" style="border:0" src="https://maps.google.com/maps?q=province+of+madrid&t=&z=6&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-    </div>
+    </div><br /> <br />
+    {{#if image_banner}}
+      <div class="row">
+        <span class="image fit"><img src="{{image_banner}}" alt="{{title}}"></span>
+      </div>
+    {{/if}}
     <br /> <br />
     <div class="row">
       <h3>Population Info</h3>
@@ -391,6 +399,8 @@
     </div>
     <br />
     <br />
+
+
     <div class="row">
       <h3>Composition and debt</h3>
     </div>
@@ -408,6 +418,7 @@
       <div id="chartCrime" style="width: 100%; max-width: 900px; height: 370px; margin: auto;"></div>
     </div>
     <br /> <br />
+
     <div class="row">
       <a href="/" style="margin: auto; padding: 0;"><img src="{{sub}}images/Logo.png" alt="" style="width:400px" />
       </a>
