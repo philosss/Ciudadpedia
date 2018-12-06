@@ -1,0 +1,128 @@
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://provincepedia.ml/resources#>
+
+SELECT ?prov_code ?prov_name
+FROM <http://provincepedia.ml/resources/prov>
+
+########
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://provincepedia.ml/resources#>
+PREFIX towns: <http://provincepedia.ml/resources/towns>
+
+SELECT ?town_name
+FROM <http://provincepedia.ml/resources/towns>
+WHERE {
+	?town_name towns:prov_code "VAR" ;
+	towns:capital ?capital .
+	FILTER (?capital = 1)
+}
+
+
+########
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://provincepedia.ml/resources#>
+PREFIX towns: <http://provincepedia.ml/resources/towns>
+PREFIX pop: <http://provincepedia.ml/resources/pop>
+
+SELECT ?year ?men ?women
+FROM <http://provincepedia.ml/resources/towns>
+WHERE {
+	?town_name towns:prov_code "VAR" ;
+	pop:year ?year .
+} ORDER BY DESC(?year)
+LIMIT 1
+
+
+########
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://provincepedia.ml/resources#>
+PREFIX towns: <http://provincepedia.ml/resources/towns>
+PREFIX pop: <http://provincepedia.ml/resources/pop>
+
+SELECT ?year ?women ?men
+FROM <http://provincepedia.ml/resources/pop>
+WHERE {
+	towns:prov_code "VAR" ;
+	pop:year ?year .
+} ORDER BY DESC(?year)
+
+
+######## alternative #######
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://provincepedia.ml/resources#>
+PREFIX towns: <http://provincepedia.ml/resources/towns>
+PREFIX pop: <http://provincepedia.ml/resources/pop>
+
+SELECT ?year ?women
+FROM <http://provincepedia.ml/resources/pop>
+WHERE {
+	towns:prov_code "VAR" ;
+	pop:year ?year .
+} ORDER BY DESC(?year)
+
+
+########
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://provincepedia.ml/resources#>
+PREFIX towns: <http://provincepedia.ml/resources/towns>
+PREFIX pop: <http://provincepedia.ml/resources/pop>
+
+SELECT ?year ?men
+FROM <http://provincepedia.ml/resources/pop>
+WHERE {
+	towns:prov_code "VAR" ;
+	pop:year ?year .
+} ORDER BY DESC(?year)
+
+######## /alternative #######
+
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://provincepedia.ml/resources#>
+PREFIX ac: <http://provincepedia.ml/resources/ac>
+PREFIX prov: <http://provincepedia.ml/resources/prov>
+
+SELECT ?ac_name
+FROM <http://provincepedia.ml/resources/ac>
+WHERE {
+	?ac_name ac:prov_code "VAR" ;
+}
+
+
+########
+
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://provincepedia.ml/resources#>
+PREFIX towns: <http://provincepedia.ml/resources/towns>
+
+SELECT ?town_name ?debt
+FROM <http://provincepedia.ml/resources/towns>
+WHERE {
+	towns:prov_code "VAR" ;
+}
+
+
+########
+
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX base: <http://provincepedia.ml/resources#>
+PREFIX crime: <http://provincepedia.ml/resources/crime>
+PREFIX felonies: <http://provincepedia.ml/resources/felonies>
+
+
+SELECT ?type ?2016
+FROM <http://provincepedia.ml/resources/crime>
+FROM <http://provincepedia.ml/resources/felonies>
+WHERE {
+	?x crime:type ?type .
+	?y felonies:code ?type .
+	towns:prov_code "VAR" ;
+}
+
