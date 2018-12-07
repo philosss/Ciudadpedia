@@ -1,0 +1,39 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix provincepedia: <http://provincepedia.ml/ontology#> .
+
+
+<http://provincepedia.ml/resources/felony/0> a provincepedia:CrimeType ;
+	provincepedia:id "1"^^xsd:int ;
+	provincepedia:felony "Crimes and misdemeanours" .
+
+<http://provincepedia.ml/resources/felony/1> a provincepedia:CrimeType ;
+	provincepedia:id "2"^^xsd:int ;
+	provincepedia:felony "Intentional homicide" .
+
+<http://provincepedia.ml/resources/felony/2> a provincepedia:CrimeType ;
+	provincepedia:id "3"^^xsd:int ;
+	provincepedia:felony "Robbery with violence and intimidation" .
+
+<http://provincepedia.ml/resources/felony/3> a provincepedia:CrimeType ;
+	provincepedia:id "4"^^xsd:int ;
+	provincepedia:felony "Home robberies" .
+
+<http://provincepedia.ml/resources/felony/4> a provincepedia:CrimeType ;
+	provincepedia:id "5"^^xsd:int ;
+	provincepedia:felony "Theft of motor vehicles" .
+
+<http://provincepedia.ml/resources/felony/5> a provincepedia:CrimeType ;
+	provincepedia:id "6"^^xsd:int ;
+	provincepedia:felony "Drug trade" .
+
+<http://provincepedia.ml/resources/felony/6> a provincepedia:CrimeType ;
+	provincepedia:id "7"^^xsd:int ;
+	provincepedia:felony "Injuries" .
+
+<http://provincepedia.ml/resources/felony/7> a provincepedia:CrimeType ;
+	provincepedia:id "8"^^xsd:int ;
+	provincepedia:felony "Burglary" .
