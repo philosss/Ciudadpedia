@@ -6,78 +6,78 @@
 @prefix pp: <> .
 
 
-<http://provincepedia.ml/0> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#0> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "1"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Andalucia" .
 
-<http://provincepedia.ml/1> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#1> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "2"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Aragon" .
 
-<http://provincepedia.ml/2> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#2> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "3"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Asturias" .
 
-<http://provincepedia.ml/3> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#3> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "4"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Illes Baleares" .
 
-<http://provincepedia.ml/4> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#4> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "5"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Canarias" .
 
-<http://provincepedia.ml/5> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#5> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "6"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Cantabria" .
 
-<http://provincepedia.ml/6> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#6> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "7"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Castilla-Leon" .
 
-<http://provincepedia.ml/7> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#7> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "8"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Castilla-Mancha" .
 
-<http://provincepedia.ml/8> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#8> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "9"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Cataluña" .
 
-<http://provincepedia.ml/9> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#9> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "10"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Extremadura" .
 
-<http://provincepedia.ml/10> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#10> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "11"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Galicia" .
 
-<http://provincepedia.ml/11> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#11> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "12"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Madrid" .
 
-<http://provincepedia.ml/12> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#12> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "13"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Murcia" .
 
-<http://provincepedia.ml/13> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#13> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "14"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Navarra" .
 
-<http://provincepedia.ml/14> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#14> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "15"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Pais Vasco" .
 
-<http://provincepedia.ml/15> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#15> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "16"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Rioja" .
 
-<http://provincepedia.ml/16> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#16> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "17"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "C.Valenciana" .
 
-<http://provincepedia.ml/17> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#17> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "18"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Ceuta" .
 
-<http://provincepedia.ml/18> a <http://provincepedia.ml/resources/#Province> ;
+<http://provincepedia.ml/ac#18> a <http://provincepedia.ml/resources#AutonomousCommunity> ;
 	<http://provincepedia.ml/resources/#id> "19"^^xsd:int ;
 	<http://provincepedia.ml/resources/#name> "Melilla" .
