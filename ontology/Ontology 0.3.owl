@@ -1,42 +1,42 @@
-@prefix : <http://provincepedia.ml/resources/#> .
+@prefix : <http://provincepedia.ml> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix xml: <http://www.w3.org/XML/1998/namespace> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
-@base <http://provincepedia.ml/resources> .
+@base <http://provincepedia.ml> .
 
-<http://provincepedia.ml/resources> rdf:type owl:Ontology .
+<http://provincepedia.ml> rdf:type owl:Ontology .
 
 #################################################################
 #    Object Properties
 #################################################################
 
-###  http://provincepedia.ml/resources#classified
+###  http://provincepedia.ml
 :classified rdf:type owl:ObjectProperty ;
             rdfs:domain :Crime ;
             rdfs:range :CrimeType .
 
 
-###  http://provincepedia.ml/resources#has
+###  http://provincepedia.ml
 :has rdf:type owl:ObjectProperty ;
      rdfs:domain :Province ;
      rdfs:range :Population .
 
 
-###  http://provincepedia.ml/resources#in
+###  http://provincepedia.ml
 :in rdf:type owl:ObjectProperty ;
     rdfs:domain :Town ;
     rdfs:range :Province .
 
 
-###  http://provincepedia.ml/resources#of
+###  http://provincepedia.ml
 :of rdf:type owl:ObjectProperty ;
     rdfs:domain :Province ;
     rdfs:range :AutonomousCommunity .
 
 
-###  http://provincepedia.ml/resources#reportedin
+###  http://provincepedia.ml
 :reportedin rdf:type owl:ObjectProperty ;
             rdfs:domain :Crime ;
             rdfs:range :Province .
@@ -46,67 +46,67 @@
 #    Data properties
 #################################################################
 
-###  http://provincepedia.ml/resources#accode
+###  http://provincepedia.ml
 :accode rdf:type owl:DatatypeProperty ;
         rdfs:domain :AutonomousCommunity ;
         rdfs:range xsd:int .
 
 
-###  http://provincepedia.ml/resources#capital
+###  http://provincepedia.ml
 :capital rdf:type owl:DatatypeProperty ;
          rdfs:domain :Town ;
          rdfs:range xsd:boolean .
 
 
-###  http://provincepedia.ml/resources#crimeamount2015
+###  http://provincepedia.ml
 :crimeamount2015 rdf:type owl:DatatypeProperty ;
                  rdfs:domain :Crime ;
                  rdfs:range xsd:int .
 
 
-###  http://provincepedia.ml/resources#crimeamount2016
+###  http://provincepedia.ml
 :crimeamount2016 rdf:type owl:DatatypeProperty ;
                  rdfs:domain :Crime ;
                  rdfs:range xsd:int .
 
 
-###  http://provincepedia.ml/resources#debtamount
+###  http://provincepedia.ml
 :debtamount rdf:type owl:DatatypeProperty ;
             rdfs:domain :Town ;
             rdfs:range xsd:float .
 
 
-###  http://provincepedia.ml/resources#felony
+###  http://provincepedia.ml
 :felony rdf:type owl:DatatypeProperty ;
         rdfs:domain :CrimeType ;
         rdfs:range xsd:string .
 
 
-###  http://provincepedia.ml/resources#femalepopulation
+###  http://provincepedia.ml
 :femalepopulation rdf:type owl:DatatypeProperty ;
                   rdfs:domain :Population ;
                   rdfs:range xsd:int .
 
 
-###  http://provincepedia.ml/resources#id
+###  http://provincepedia.ml
 :id rdf:type owl:DatatypeProperty ;
     rdfs:domain :CrimeType ;
     rdfs:range xsd:int .
 
 
-###  http://provincepedia.ml/resources#malepopulation
+###  http://provincepedia.ml
 :malepopulation rdf:type owl:DatatypeProperty ;
                 rdfs:domain :Population ;
                 rdfs:range xsd:int .
 
 
-###  http://provincepedia.ml/resources#name
+###  http://provincepedia.ml
 :name rdf:type owl:DatatypeProperty ;
       rdfs:domain :AdministrationEntity ;
       rdfs:range xsd:string .
 
 
-###  http://provincepedia.ml/resources#provcode
+###  http://provincepedia.ml
 :provcode rdf:type owl:DatatypeProperty ;
           rdfs:domain :Province ;
           rdfs:range xsd:int .
@@ -116,33 +116,33 @@
 #    Classes
 #################################################################
 
-###  http://provincepedia.ml/resources#AdministrationEntity
+###  http://provincepedia.ml
 :AdministrationEntity rdf:type owl:Class .
 
 
-###  http://provincepedia.ml/resources#AutonomousCommunity
+###  http://provincepedia.ml
 :AutonomousCommunity rdf:type owl:Class ;
                      rdfs:subClassOf :AdministrationEntity .
 
 
-###  http://provincepedia.ml/resources#Crime
+###  http://provincepedia.ml
 :Crime rdf:type owl:Class .
 
 
-###  http://provincepedia.ml/resources#CrimeType
+###  http://provincepedia.ml
 :CrimeType rdf:type owl:Class .
 
 
-###  http://provincepedia.ml/resources#Population
+###  http://provincepedia.ml
 :Population rdf:type owl:Class .
 
 
-###  http://provincepedia.ml/resources#Province
+###  http://provincepedia.ml
 :Province rdf:type owl:Class ;
           rdfs:subClassOf :AdministrationEntity .
 
 
-###  http://provincepedia.ml/resources#Town
+###  http://provincepedia.ml
 :Town rdf:type owl:Class ;
       rdfs:subClassOf :AdministrationEntity .
 
