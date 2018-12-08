@@ -60,20 +60,17 @@ router.get('/:idprov_name', function(req, res, next) {
 							let abs = r["results"]["bindings"][0].abs.value.replace(/\([^)]*\)/g, "")
 
 							rdfstore.create(function(err, store) {
-								var rdf = fs.readFileSync('rdf/towns-csv.ttl').toString();
+								var rdf = fs.readFileSync('rdf/towns.ttl').toString();
 								store.load('text/turtle', rdf, function(s, d) {
 									//console.log(s, d);
-									var query = `
-									SELECT ?n
+									var query = `PREFIX provincepedia: <http://provincepedia.ml/ontology#>
+									SELECT ?name ?capital
 									WHERE {
-										?town <http://provincepedia.ml/resources/#provcode> ?n.
-
-
-									}
-									`
-									//"1" <http://provincepedia.ml/resources/#capital> ?town.
-
-									//<http://provincepedia.ml/resource/ac#4> <http://provincepedia.ml/resources/#name> ?name
+										?town provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+										provincepedia:name ?name;
+										provincepedia:capital ?capital.
+										FILTER (?capital = true)
+									}`;
 
 									store.execute(query, function(success, results) {
 										console.log(results);
