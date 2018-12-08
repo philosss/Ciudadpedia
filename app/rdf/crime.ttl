@@ -1,0 +1,1790 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix provincepedia: <http://provincepedia.ml/resources/#> .
+
+
+<http://provincepedia.ml/resource/crime/0029f088c57ad3b6ec589f9ba4f7a057> provincepedia:id <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "9414"^^xsd:int ;
+	provincepedia:crimeamount2016 "8947"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/1679091c5a880faf6fb5e6087eb1b2dc> provincepedia:id <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "1"^^xsd:int ;
+	provincepedia:crimeamount2016 "2"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d296c101daa88a51f6ca8cfc1ac79b50> provincepedia:id <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "144"^^xsd:int ;
+	provincepedia:crimeamount2016 "148"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0ff8033cf9437c213ee13937b1c4c455> provincepedia:id <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "380"^^xsd:int ;
+	provincepedia:crimeamount2016 "274"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/a8f15eda80c50adb0e71943adc8015cf> provincepedia:id <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "68"^^xsd:int ;
+	provincepedia:crimeamount2016 "77"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/03afdbd66e7929b125f8597834fa83a4> provincepedia:id <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "26"^^xsd:int ;
+	provincepedia:crimeamount2016 "30"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/958adb57686c2fdec5796398de5f317a> provincepedia:id <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "922"^^xsd:int ;
+	provincepedia:crimeamount2016 "944"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/413894b7e2c6dfc6e8a0e9f18287e3c4> provincepedia:id <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "3506"^^xsd:int ;
+	provincepedia:crimeamount2016 "3568"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f3d205b3f8c2bb28c46e204c6f1b499d> provincepedia:id <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "9398"^^xsd:int ;
+	provincepedia:crimeamount2016 "8779"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8f14e45fceea167a5a36dedd4bea2543> provincepedia:id <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "2"^^xsd:int ;
+	provincepedia:crimeamount2016 "1"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/fe73f687e5bc5280214e0486b273a5f9> provincepedia:id <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "158"^^xsd:int ;
+	provincepedia:crimeamount2016 "167"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e5e63da79fcd2bebbd7cb8bf1c1d0274> provincepedia:id <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "561"^^xsd:int ;
+	provincepedia:crimeamount2016 "516"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0e01938fc48a2cfb5f2217fbfb00722d> provincepedia:id <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "138"^^xsd:int ;
+	provincepedia:crimeamount2016 "140"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0f28b5d49b3020afeecd95b4009adf4c> provincepedia:id <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "71"^^xsd:int ;
+	provincepedia:crimeamount2016 "62"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d757719ed7c2b66dd17dcee2a3cb29f4> provincepedia:id <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "955"^^xsd:int ;
+	provincepedia:crimeamount2016 "870"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0b94ce08688c6389ce7b68c52ce3f8c7> provincepedia:id <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "3491"^^xsd:int ;
+	provincepedia:crimeamount2016 "3134"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8dbb5707601f15dc2da9a34107fd2ed9> provincepedia:id <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "71235"^^xsd:int ;
+	provincepedia:crimeamount2016 "70289"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d67d8ab4f4c10bf22aa353e27879133c> provincepedia:id <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "23"^^xsd:int ;
+	provincepedia:crimeamount2016 "11"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/38ed162a0dbef7b3fe0f628aa08b90e7> provincepedia:id <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "1523"^^xsd:int ;
+	provincepedia:crimeamount2016 "1618"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9b1cab1b93285ce58e7c1dc576ff8a14> provincepedia:id <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "6268"^^xsd:int ;
+	provincepedia:crimeamount2016 "6775"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/55d99a37b2e1badba7c8df4ccd506a88> provincepedia:id <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "1600"^^xsd:int ;
+	provincepedia:crimeamount2016 "1550"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/4ca82782c5372a547c104929f03fe7a9> provincepedia:id <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "479"^^xsd:int ;
+	provincepedia:crimeamount2016 "568"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/1c09cec8e3fb5f6dd4fd22a5c644d3e5> provincepedia:id <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "7648"^^xsd:int ;
+	provincepedia:crimeamount2016 "7366"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/be3a3cad2278cf1221f8dd0ce2643ab6> provincepedia:id <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "25056"^^xsd:int ;
+	provincepedia:crimeamount2016 "24495"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/aa98ed8d6ce3f3a5d5eabb46213f767b> provincepedia:id <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "23562"^^xsd:int ;
+	provincepedia:crimeamount2016 "23277"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9bf31c7ff062936a96d3c8bd1f8f2ff3> provincepedia:id <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "4"^^xsd:int ;
+	provincepedia:crimeamount2016 "5"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/1e48c4420b7073bc11916c6c1de226bb> provincepedia:id <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "511"^^xsd:int ;
+	provincepedia:crimeamount2016 "492"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/89a4779d3836ea432f7ea074e522a17e> provincepedia:id <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1974"^^xsd:int ;
+	provincepedia:crimeamount2016 "2067"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/7f975a56c761db6506eca0b37ce6ec87> provincepedia:id <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "505"^^xsd:int ;
+	provincepedia:crimeamount2016 "497"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/bbf94b34eb32268ada57a3be5062fe7d> provincepedia:id <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "187"^^xsd:int ;
+	provincepedia:crimeamount2016 "206"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0a988fc2992add2d3233e19c7aadfdea> provincepedia:id <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "2732"^^xsd:int ;
+	provincepedia:crimeamount2016 "2990"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ee77f23899e911ace641794f89c19e1c> provincepedia:id <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "6506"^^xsd:int ;
+	provincepedia:crimeamount2016 "6165"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d82f9436247aa0049767b776dceab4ed> provincepedia:id <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "3728"^^xsd:int ;
+	provincepedia:crimeamount2016 "3630"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c9f0f895fb98ab9159f51fd0297e236d> provincepedia:id <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "1"^^xsd:int ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9778d5d219c5080b9a6a17bef029331c> provincepedia:id <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "41"^^xsd:int ;
+	provincepedia:crimeamount2016 "33"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f79921bbae40a577928b76d2fc3edc2a> provincepedia:id <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "352"^^xsd:int ;
+	provincepedia:crimeamount2016 "327"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/14bfa6bb14875e45bba028a21ed38046> provincepedia:id <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "29"^^xsd:int ;
+	provincepedia:crimeamount2016 "30"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d9d4f495e875a2e075a1a4a6e1b9770f> provincepedia:id <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "18"^^xsd:int ;
+	provincepedia:crimeamount2016 "17"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/7c82fab8c8f89124e2ce92984e04fb40> provincepedia:id <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "649"^^xsd:int ;
+	provincepedia:crimeamount2016 "632"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0c9ebb2ded806d7ffda75cd0b95eb70c> provincepedia:id <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "794"^^xsd:int ;
+	provincepedia:crimeamount2016 "698"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6d96c43d1905c9a852dba3dd5370e0c4> provincepedia:id <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "14059"^^xsd:int ;
+	provincepedia:crimeamount2016 "13776"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6512bd43d9caa6e02c990b0a82652dca> provincepedia:id <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "0"^^xsd:int ;
+	provincepedia:crimeamount2016 "3"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b3967a0e938dc2a6340e258630febd5a> provincepedia:id <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "175"^^xsd:int ;
+	provincepedia:crimeamount2016 "160"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0ed9422357395a0d4879191c66f4faa2> provincepedia:id <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "730"^^xsd:int ;
+	provincepedia:crimeamount2016 "682"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ef575e8837d065a1683c022d2077d342> provincepedia:id <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "218"^^xsd:int ;
+	provincepedia:crimeamount2016 "243"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/45fbc6d3e05ebd93369ce542e8f2322d> provincepedia:id <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "108"^^xsd:int ;
+	provincepedia:crimeamount2016 "96"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/32b3ee0272954b956a7d1f86f76afa21> provincepedia:id <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1531"^^xsd:int ;
+	provincepedia:crimeamount2016 "1605"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b6af2c9703f203a2794be03d443af2e3> provincepedia:id <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "4237"^^xsd:int ;
+	provincepedia:crimeamount2016 "3982"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/5f395010be2b0a66795e6601298a345f> provincepedia:id <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "238761"^^xsd:int ;
+	provincepedia:crimeamount2016 "235302"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/735b90b4568125ed6c3f678819b6e058> provincepedia:id <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "25"^^xsd:int ;
+	provincepedia:crimeamount2016 "32"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0ff0a77035f9569943049ed3e980bb0d> provincepedia:id <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "14566"^^xsd:int ;
+	provincepedia:crimeamount2016 "13176"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f93899894f2c43279dc0013b9ad2849d> provincepedia:id <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "12521"^^xsd:int ;
+	provincepedia:crimeamount2016 "12149"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e4f37b9ed429c1fe5ce61860d9902521> provincepedia:id <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "5403"^^xsd:int ;
+	provincepedia:crimeamount2016 "5069"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f45a1078feb35de77d26b3f7a52ef502> provincepedia:id <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "841"^^xsd:int ;
+	provincepedia:crimeamount2016 "991"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/3e32de32b8cf2f3d8e72ecfcf99daee1> provincepedia:id <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "20982"^^xsd:int ;
+	provincepedia:crimeamount2016 "21095"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e06eacc3bf0a7b7c84653b2db4500b69> provincepedia:id <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "102564"^^xsd:int ;
+	provincepedia:crimeamount2016 "102958"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/47aea24ee4f77d9109518129a3d9c222> provincepedia:id <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "8354"^^xsd:int ;
+	provincepedia:crimeamount2016 "8334"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c51ce410c124a10e0db5e4b97fc2af39> provincepedia:id <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "0"^^xsd:int ;
+	provincepedia:crimeamount2016 "2"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d395771085aab05244a4fb8fd91bf4ee> provincepedia:id <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "120"^^xsd:int ;
+	provincepedia:crimeamount2016 "147"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/192fc044e74dffea144f9ac5dc9f3395> provincepedia:id <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "345"^^xsd:int ;
+	provincepedia:crimeamount2016 "310"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c0e190d8267e36708f955d7ab048990d> provincepedia:id <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "84"^^xsd:int ;
+	provincepedia:crimeamount2016 "121"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/a97da629b098b75c294dffdc3e463904> provincepedia:id <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "34"^^xsd:int ;
+	provincepedia:crimeamount2016 "58"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d9fc0cdb67638d50f411432d0d41d0ba> provincepedia:id <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1242"^^xsd:int ;
+	provincepedia:crimeamount2016 "1239"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/166cee72e93a992007a89b39eb29628b> provincepedia:id <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "2929"^^xsd:int ;
+	provincepedia:crimeamount2016 "2733"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0433e3038e208089eb74b7d9c8f5725f> provincepedia:id <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "6341"^^xsd:int ;
+	provincepedia:crimeamount2016 "5972"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/aab3238922bcc25a6f606eb525ffdc56> provincepedia:id <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "1"^^xsd:int ;
+	provincepedia:crimeamount2016 "1"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/07e1cd7dca89a1678042477183b7ac3f> provincepedia:id <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "45"^^xsd:int ;
+	provincepedia:crimeamount2016 "61"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8eefcfdf5990e441f0fb6f3fad709e21> provincepedia:id <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "269"^^xsd:int ;
+	provincepedia:crimeamount2016 "280"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/903ce9225fca3e988c2af215d4e544d3> provincepedia:id <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "62"^^xsd:int ;
+	provincepedia:crimeamount2016 "66"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ec5decca5ed3d6b8079e2e7e7bacc9f2> provincepedia:id <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "45"^^xsd:int ;
+	provincepedia:crimeamount2016 "66"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/404dcc91b2aeaa7caa47487d1483e48a> provincepedia:id <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "912"^^xsd:int ;
+	provincepedia:crimeamount2016 "793"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/36ed197b3f31618fdbadb3df86f804bd> provincepedia:id <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "1736"^^xsd:int ;
+	provincepedia:crimeamount2016 "1566"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9d153310e0d1f52b0269ecd7b39eb494> provincepedia:id <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "41455"^^xsd:int ;
+	provincepedia:crimeamount2016 "38356"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/34173cb38f07f89ddbebc2ac9128303f> provincepedia:id <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "8"^^xsd:int ;
+	provincepedia:crimeamount2016 "9"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0e4e946668cf2afc4299b462b812caca> provincepedia:id <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "720"^^xsd:int ;
+	provincepedia:crimeamount2016 "678"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e3ea33961a7c5b1ec04d6c97aa3b5379> provincepedia:id <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1829"^^xsd:int ;
+	provincepedia:crimeamount2016 "1614"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/358aee4cc897452c00244351e4d91f69> provincepedia:id <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "1361"^^xsd:int ;
+	provincepedia:crimeamount2016 "1282"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/82965d4ed8150294d4330ace00821d77> provincepedia:id <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "760"^^xsd:int ;
+	provincepedia:crimeamount2016 "569"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/76330c26dea62332de2ca7b4a9ef51ec> provincepedia:id <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "4441"^^xsd:int ;
+	provincepedia:crimeamount2016 "4228"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/a98ae7bf0adf36d9125faec0c2ba6ef9> provincepedia:id <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "13350"^^xsd:int ;
+	provincepedia:crimeamount2016 "12708"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/5c3ec601ef8db133df10c6eb6ddd4102> provincepedia:id <http://provincepedia.ml/resources/prov/11> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "19596"^^xsd:int ;
+	provincepedia:crimeamount2016 "18752"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/70efdf2ec9b086079795c442636b55fb> provincepedia:id <http://provincepedia.ml/resources/prov/11> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "2"^^xsd:int ;
+	provincepedia:crimeamount2016 "1"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/470e7a4f017a5476afb7eeb3f8b96f9b> provincepedia:id <http://provincepedia.ml/resources/prov/11> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "347"^^xsd:int ;
+	provincepedia:crimeamount2016 "395"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e3b21256183cf7c2c7a66be163579d37> provincepedia:id <http://provincepedia.ml/resources/prov/11> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "2211"^^xsd:int ;
+	provincepedia:crimeamount2016 "1848"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/53fde96fcc4b4ce72d7739202324cd49> provincepedia:id <http://provincepedia.ml/resources/prov/11> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "285"^^xsd:int ;
+	provincepedia:crimeamount2016 "220"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/3b8a614226a953a8cd9526fca6fe9ba5> provincepedia:id <http://provincepedia.ml/resources/prov/11> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "105"^^xsd:int ;
+	provincepedia:crimeamount2016 "92"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/41c576a3bac4220845f9427b002a2a9d> provincepedia:id <http://provincepedia.ml/resources/prov/11> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "2410"^^xsd:int ;
+	provincepedia:crimeamount2016 "2158"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/cc1905a04df02f520d2f48ad1a57019d> provincepedia:id <http://provincepedia.ml/resources/prov/11> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "5905"^^xsd:int ;
+	provincepedia:crimeamount2016 "5980"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/899637611106fa77ee41097ef65f60af> provincepedia:id <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "10842"^^xsd:int ;
+	provincepedia:crimeamount2016 "9581"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/1f0e3dad99908345f7439f8ffabdffc4> provincepedia:id <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "4"^^xsd:int ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b1a59b315fc9a3002ce38bbe070ec3f5> provincepedia:id <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "127"^^xsd:int ;
+	provincepedia:crimeamount2016 "118"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/41bfd20a38bb1b0bec75acf0845530a7> provincepedia:id <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "561"^^xsd:int ;
+	provincepedia:crimeamount2016 "516"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e4a6222cdb5b34375400904f03d8e6a5> provincepedia:id <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "94"^^xsd:int ;
+	provincepedia:crimeamount2016 "130"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8f85517967795eeef66c225f7883bdcb> provincepedia:id <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "73"^^xsd:int ;
+	provincepedia:crimeamount2016 "86"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/426f990b332ef8193a61cc90516c1245> provincepedia:id <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1280"^^xsd:int ;
+	provincepedia:crimeamount2016 "1018"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/03227b950778ab86436ff79fe975b596> provincepedia:id <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "2798"^^xsd:int ;
+	provincepedia:crimeamount2016 "2566"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/acb4d7e0ad916ab7baa0f27ecdee38ca> provincepedia:id <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "19586"^^xsd:int ;
+	provincepedia:crimeamount2016 "18218"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6f4922f45568161a8cdf4ad2299f6d23> provincepedia:id <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "2"^^xsd:int ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/df7f28ac89ca37bf1abd2f6c184fe1cf> provincepedia:id <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "382"^^xsd:int ;
+	provincepedia:crimeamount2016 "392"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8d9fc2308c8f28d2a7d2f6f48801c705> provincepedia:id <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "875"^^xsd:int ;
+	provincepedia:crimeamount2016 "904"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/abd815286ba1007abfbb8415b83ae2cf> provincepedia:id <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "290"^^xsd:int ;
+	provincepedia:crimeamount2016 "323"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c52f1bd66cc19d05628bd8bf27af3ad6> provincepedia:id <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "94"^^xsd:int ;
+	provincepedia:crimeamount2016 "140"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f550e0ba9e1c4e8bb4a5ed0ac23a952d> provincepedia:id <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1980"^^xsd:int ;
+	provincepedia:crimeamount2016 "1849"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/7cecfe41e1394109d7b8620ca3926166> provincepedia:id <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "6162"^^xsd:int ;
+	provincepedia:crimeamount2016 "5897"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/5290f86dffbdf4f7673878fe5a544535> provincepedia:id <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "24573"^^xsd:int ;
+	provincepedia:crimeamount2016 "24595"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/02e74f10e0327ad868d138f2b4fdd6f0> provincepedia:id <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "3"^^xsd:int ;
+	provincepedia:crimeamount2016 "7"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c8ed21db4f678f3b13b9d5ee16489088> provincepedia:id <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "335"^^xsd:int ;
+	provincepedia:crimeamount2016 "369"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d7619beb6eb189509885fbc192d2874b> provincepedia:id <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1286"^^xsd:int ;
+	provincepedia:crimeamount2016 "1248"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e5841df2166dd424a57127423d276bbe> provincepedia:id <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "309"^^xsd:int ;
+	provincepedia:crimeamount2016 "371"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8f53295a73878494e9bc8dd6c3c7104f> provincepedia:id <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "83"^^xsd:int ;
+	provincepedia:crimeamount2016 "75"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/a1b63b36ba67b15d2f47da55cdb8018d> provincepedia:id <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "3164"^^xsd:int ;
+	provincepedia:crimeamount2016 "3085"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b050b09d2d80bdc271a775f5b4639258> provincepedia:id <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "7545"^^xsd:int ;
+	provincepedia:crimeamount2016 "7288"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/060fd70a06ead2e1079d27612b84aff4> provincepedia:id <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "4391"^^xsd:int ;
+	provincepedia:crimeamount2016 "4424"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/3c59dc048e8850243be8079a5c74d079> provincepedia:id <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "3"^^xsd:int ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0f28b5d49b3020afeecd95b4009adf4c> provincepedia:id <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "62"^^xsd:int ;
+	provincepedia:crimeamount2016 "60"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6a10bbd480e4c5573d8f3af73ae0454b> provincepedia:id <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "313"^^xsd:int ;
+	provincepedia:crimeamount2016 "302"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2b24d495052a8ce66358eb576b8912c8> provincepedia:id <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "47"^^xsd:int ;
+	provincepedia:crimeamount2016 "77"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/17e62166fc8586dfa4d1bc0e1742c08b> provincepedia:id <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "11"^^xsd:int ;
+	provincepedia:crimeamount2016 "10"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/4c22bd444899d3b6047a10b20a2f26db> provincepedia:id <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "629"^^xsd:int ;
+	provincepedia:crimeamount2016 "676"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/92bbd31f8e0e43a7da8a6295b251725f> provincepedia:id <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "1078"^^xsd:int ;
+	provincepedia:crimeamount2016 "1016"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/bb32d67faa3b1d750edc26f11d9959d9> provincepedia:id <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "31747"^^xsd:int ;
+	provincepedia:crimeamount2016 "29000"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/3c59dc048e8850243be8079a5c74d079> provincepedia:id <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:crimeamount2015 "0"^^xsd:int ;
+	provincepedia:crimeamount2016 "2"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e6d8545daa42d5ced125a4bf747b3688> provincepedia:id <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "615"^^xsd:int ;
+	provincepedia:crimeamount2016 "612"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/dc2208f9bbd11486d5dbbb9218e03017> provincepedia:id <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "2117"^^xsd:int ;
+	provincepedia:crimeamount2016 "2279"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/92fb0c6d1758261f10d052e6e2c1123c> provincepedia:id <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "454"^^xsd:int ;
+	provincepedia:crimeamount2016 "375"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8df707a948fac1b4a0f97aa554886ec8> provincepedia:id <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "345"^^xsd:int ;
+	provincepedia:crimeamount2016 "347"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ea3502c3594588f0e9d5142f99c66627> provincepedia:id <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "3424"^^xsd:int ;
+	provincepedia:crimeamount2016 "3109"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/12c61971537803cd33dd937236b9a8cb> provincepedia:id <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "10733"^^xsd:int ;
+	provincepedia:crimeamount2016 "9574"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c1d18eefb1bd1698c74653c0980f950d> provincepedia:id <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "24497"^^xsd:int ;
+	provincepedia:crimeamount2016 "24279"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6ea9ab1baa0efb9e19094440c317e21b> provincepedia:id <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "5"^^xsd:int ;
+	provincepedia:crimeamount2016 "4"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8b4066554730ddfaa0266346bdc1b202> provincepedia:id <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "542"^^xsd:int ;
+	provincepedia:crimeamount2016 "527"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/91378b331327b40e564390c43cd6b2be> provincepedia:id <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1473"^^xsd:int ;
+	provincepedia:crimeamount2016 "1684"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6f3e29a35278d71c7f65495871231324> provincepedia:id <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "625"^^xsd:int ;
+	provincepedia:crimeamount2016 "652"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9e3cfc48eccf81a0d57663e129aef3cb> provincepedia:id <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "379"^^xsd:int ;
+	provincepedia:crimeamount2016 "395"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/5553cfaf751a4b14960b7581a20bc142> provincepedia:id <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "2623"^^xsd:int ;
+	provincepedia:crimeamount2016 "2604"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/a0e67468329f13bc8df444339bc4aa88> provincepedia:id <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "7669"^^xsd:int ;
+	provincepedia:crimeamount2016 "7718"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/61d8a70e99aa97296b03374304e090c5> provincepedia:id <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "6694"^^xsd:int ;
+	provincepedia:crimeamount2016 "6584"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/33e75ff09dd601bbe69f351039152189> provincepedia:id <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "1"^^xsd:int ;
+	provincepedia:crimeamount2016 "6"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/950a4152c2b4aa3ad78bdd6b366cc179> provincepedia:id <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "120"^^xsd:int ;
+	provincepedia:crimeamount2016 "170"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/83f97f4825290be4cb794ec6a234595f> provincepedia:id <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "603"^^xsd:int ;
+	provincepedia:crimeamount2016 "551"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/eed5af6add95a9a6f1252739b1ad8c24> provincepedia:id <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "183"^^xsd:int ;
+	provincepedia:crimeamount2016 "232"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e2c420d928d4bf8ce0ff2ec19b371514> provincepedia:id <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "23"^^xsd:int ;
+	provincepedia:crimeamount2016 "23"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b6e32320fa6bc5a588b90183b95dc028> provincepedia:id <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1231"^^xsd:int ;
+	provincepedia:crimeamount2016 "984"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2d95666e2649fcfc6e3af75e09f5adb9> provincepedia:id <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "1521"^^xsd:int ;
+	provincepedia:crimeamount2016 "1482"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e3745a7cc89dd2e79c636a353d1525db> provincepedia:id <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "17820"^^xsd:int ;
+	provincepedia:crimeamount2016 "16839"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/4e732ced3463d06de0ca9a15b6153677> provincepedia:id <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "3"^^xsd:int ;
+	provincepedia:crimeamount2016 "1"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e1e32e235eee1f970470a3a6658dfdd5> provincepedia:id <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "217"^^xsd:int ;
+	provincepedia:crimeamount2016 "243"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/1bf0c59238dd24a7f09a889483a50e8f> provincepedia:id <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1330"^^xsd:int ;
+	provincepedia:crimeamount2016 "1184"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c203d8a151612acf12457e4d67635a95> provincepedia:id <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "217"^^xsd:int ;
+	provincepedia:crimeamount2016 "200"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/091d584fced301b442654dd8c23b3fc9> provincepedia:id <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "105"^^xsd:int ;
+	provincepedia:crimeamount2016 "77"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/dfb84a11f431c62436cfb760e30a34fe> provincepedia:id <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1450"^^xsd:int ;
+	provincepedia:crimeamount2016 "1440"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/fc1c379653b4feca4252b4d078352c4d> provincepedia:id <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "4604"^^xsd:int ;
+	provincepedia:crimeamount2016 "4647"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/630571ee8e61fb9efaa9786a9de27353> provincepedia:id <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "14894"^^xsd:int ;
+	provincepedia:crimeamount2016 "15327"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6364d3f0f495b6ab9dcf8d3b5c6e0b01> provincepedia:id <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "3"^^xsd:int ;
+	provincepedia:crimeamount2016 "6"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/97e8527feaf77a97fc38f34216141515> provincepedia:id <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "265"^^xsd:int ;
+	provincepedia:crimeamount2016 "255"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/878d5691c824ee2aaf770f7d36c151d6> provincepedia:id <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1243"^^xsd:int ;
+	provincepedia:crimeamount2016 "1129"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8eefcfdf5990e441f0fb6f3fad709e21> provincepedia:id <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "259"^^xsd:int ;
+	provincepedia:crimeamount2016 "278"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0266e33d3f546cb5436a10798e657d97> provincepedia:id <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "116"^^xsd:int ;
+	provincepedia:crimeamount2016 "102"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/7e05d6f828574fbc975a896b25bb011e> provincepedia:id <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1125"^^xsd:int ;
+	provincepedia:crimeamount2016 "1304"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/959776b99b006e5785c3a3364949ce47> provincepedia:id <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "4293"^^xsd:int ;
+	provincepedia:crimeamount2016 "4553"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/350a7f5ee27d22dbe36698b10930ff96> provincepedia:id <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "3873"^^xsd:int ;
+	provincepedia:crimeamount2016 "3805"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8e296a067a37563370ded05f5a3bf3ec> provincepedia:id <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "1"^^xsd:int ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8613985ec49eb8f757ae6439e879bb2a> provincepedia:id <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "23"^^xsd:int ;
+	provincepedia:crimeamount2016 "42"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/01386bd6d8e091c2ab4c7c7de644d37b> provincepedia:id <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "169"^^xsd:int ;
+	provincepedia:crimeamount2016 "153"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/98dce83da57b0395e163467c9dae521b> provincepedia:id <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "35"^^xsd:int ;
+	provincepedia:crimeamount2016 "31"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/812b4ba287f5ee0bc9d43bbf5bbe87fb> provincepedia:id <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "33"^^xsd:int ;
+	provincepedia:crimeamount2016 "34"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/571e0f7e2d992e738adff8b1bd43a521> provincepedia:id <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "530"^^xsd:int ;
+	provincepedia:crimeamount2016 "573"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/801272ee79cfde7fa5960571fee36b9b> provincepedia:id <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "1088"^^xsd:int ;
+	provincepedia:crimeamount2016 "974"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/7b5f37cf6529d139d0735e31fa4baae4> provincepedia:id <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "12872"^^xsd:int ;
+	provincepedia:crimeamount2016 "12572"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/34173cb38f07f89ddbebc2ac9128303f> provincepedia:id <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:crimeamount2015 "4"^^xsd:int ;
+	provincepedia:crimeamount2016 "1"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ed265bc903a5a097f61d3ec064d96d2e> provincepedia:id <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "267"^^xsd:int ;
+	provincepedia:crimeamount2016 "253"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8b0d268963dd0cfb808aac48a549829f> provincepedia:id <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "709"^^xsd:int ;
+	provincepedia:crimeamount2016 "735"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/076a0c97d09cf1a0ec3e19c7f2529f2b> provincepedia:id <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "282"^^xsd:int ;
+	provincepedia:crimeamount2016 "284"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/82aa4b0af34c2313a562076992e50aa3> provincepedia:id <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "63"^^xsd:int ;
+	provincepedia:crimeamount2016 "70"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c5d9256689c43036581f781c61f26e50> provincepedia:id <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1567"^^xsd:int ;
+	provincepedia:crimeamount2016 "1505"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/4d0505284ac5049b4167eb7ebfe0791b> provincepedia:id <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "3365"^^xsd:int ;
+	provincepedia:crimeamount2016 "3226"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b6d0d3c61122345690a19bb8af632db4> provincepedia:id <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "11689"^^xsd:int ;
+	provincepedia:crimeamount2016 "11182"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/34173cb38f07f89ddbebc2ac9128303f> provincepedia:id <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:crimeamount2015 "2"^^xsd:int ;
+	provincepedia:crimeamount2016 "2"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d9fc5b73a8d78fad3d6dffe419384e70> provincepedia:id <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "176"^^xsd:int ;
+	provincepedia:crimeamount2016 "185"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8e2cfdc275761edc592f73a076197c33> provincepedia:id <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "571"^^xsd:int ;
+	provincepedia:crimeamount2016 "667"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/a666587afda6e89aec274a3657558a27> provincepedia:id <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "136"^^xsd:int ;
+	provincepedia:crimeamount2016 "161"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c9e1074f5b3f9fc8ea15d152add07294> provincepedia:id <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "42"^^xsd:int ;
+	provincepedia:crimeamount2016 "32"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/5401acfe633e6817b508b84d23686743> provincepedia:id <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1803"^^xsd:int ;
+	provincepedia:crimeamount2016 "1684"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/fe5e7cb609bdbe6d62449d61849c38b0> provincepedia:id <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "3722"^^xsd:int ;
+	provincepedia:crimeamount2016 "3442"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/08b4e77837f61d38eaba93efda9397c0> provincepedia:id <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "14399"^^xsd:int ;
+	provincepedia:crimeamount2016 "13281"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6364d3f0f495b6ab9dcf8d3b5c6e0b01> provincepedia:id <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:crimeamount2015 "2"^^xsd:int ;
+	provincepedia:crimeamount2016 "3"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b5dc4e5d9b495d0196f61d45b26ef33e> provincepedia:id <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "331"^^xsd:int ;
+	provincepedia:crimeamount2016 "308"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/97af4fb322bb5c8973ade16764156bed> provincepedia:id <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "632"^^xsd:int ;
+	provincepedia:crimeamount2016 "523"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2f2b265625d76a6704b08093c652fd79> provincepedia:id <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "184"^^xsd:int ;
+	provincepedia:crimeamount2016 "120"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/140f6969d5213fd0ece03148e62e461e> provincepedia:id <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "53"^^xsd:int ;
+	provincepedia:crimeamount2016 "75"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/1ea97de85eb634d580161c603422437f> provincepedia:id <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1882"^^xsd:int ;
+	provincepedia:crimeamount2016 "1752"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2fe2a9d4c06124698de449b12aeb6249> provincepedia:id <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "3973"^^xsd:int ;
+	provincepedia:crimeamount2016 "3788"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6bd2ab1de93563ccc2ac555b8f1808de> provincepedia:id <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "5477"^^xsd:int ;
+	provincepedia:crimeamount2016 "5406"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6364d3f0f495b6ab9dcf8d3b5c6e0b01> provincepedia:id <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:crimeamount2015 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/58a2fc6ed39fd083f55d4182bf88826d> provincepedia:id <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "87"^^xsd:int ;
+	provincepedia:crimeamount2016 "75"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/15de21c670ae7c3f6f3f1f37029303c9> provincepedia:id <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "269"^^xsd:int ;
+	provincepedia:crimeamount2016 "255"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e00da03b685a0dd18fb6a08af0923de0> provincepedia:id <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "43"^^xsd:int ;
+	provincepedia:crimeamount2016 "64"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ed3d2c21991e3bef5e069713af9fa6ca> provincepedia:id <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "28"^^xsd:int ;
+	provincepedia:crimeamount2016 "37"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d961e9f236177d65d21100592edb0769> provincepedia:id <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "764"^^xsd:int ;
+	provincepedia:crimeamount2016 "767"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/25ef0d887bc7a2b30089a025618e1c62> provincepedia:id <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "1446"^^xsd:int ;
+	provincepedia:crimeamount2016 "1417"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/614ef150402ac35b9049b747c7ce8e59> provincepedia:id <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "58787"^^xsd:int ;
+	provincepedia:crimeamount2016 "60373"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/72b32a1f754ba1c09b3695e0cb6cde7f> provincepedia:id <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "13"^^xsd:int ;
+	provincepedia:crimeamount2016 "13"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b3f61131b6eceeb2b14835fa648a48ff> provincepedia:id <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "1108"^^xsd:int ;
+	provincepedia:crimeamount2016 "1269"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d785bf9067f8af9e078b93cf26de2b54> provincepedia:id <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "2840"^^xsd:int ;
+	provincepedia:crimeamount2016 "3272"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/45cef8e5b9570959bd9feaacae2bf38d> provincepedia:id <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "1874"^^xsd:int ;
+	provincepedia:crimeamount2016 "1742"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/dfd7468ac613286cdbb40872c8ef3b06> provincepedia:id <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "625"^^xsd:int ;
+	provincepedia:crimeamount2016 "655"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/87373df3f89fa9932a9c6c58cc75e309> provincepedia:id <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "5384"^^xsd:int ;
+	provincepedia:crimeamount2016 "5811"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/774965860a0dceecf2a81250fb2eb221> provincepedia:id <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "22115"^^xsd:int ;
+	provincepedia:crimeamount2016 "23171"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/81836b7cd16991abb7febfd7832927fd> provincepedia:id <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "5743"^^xsd:int ;
+	provincepedia:crimeamount2016 "5574"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/19ca14e7ea6328a42e0eb13d585e4c22> provincepedia:id <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "2"^^xsd:int ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/705f2172834666788607efbfca35afb3> provincepedia:id <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "107"^^xsd:int ;
+	provincepedia:crimeamount2016 "85"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f5deaeeae1538fb6c45901d524ee2f98> provincepedia:id <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "253"^^xsd:int ;
+	provincepedia:crimeamount2016 "295"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/3644a684f98ea8fe223c713b77189a77> provincepedia:id <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "85"^^xsd:int ;
+	provincepedia:crimeamount2016 "78"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f033ab37c30201f73f142449d037028d> provincepedia:id <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "24"^^xsd:int ;
+	provincepedia:crimeamount2016 "18"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c1e39d912d21c91dce811d6da9929ae8> provincepedia:id <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "622"^^xsd:int ;
+	provincepedia:crimeamount2016 "610"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2996962656838a97af4c5f926fe6f1b0> provincepedia:id <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "1739"^^xsd:int ;
+	provincepedia:crimeamount2016 "1551"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2f0928c25ff3f884e8d2fa38835bd328> provincepedia:id <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "2992"^^xsd:int ;
+	provincepedia:crimeamount2016 "2927"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/19ca14e7ea6328a42e0eb13d585e4c22> provincepedia:id <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:crimeamount2015 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/5fd0b37cd7dbbb00f97ba6ce92bf5add> provincepedia:id <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "40"^^xsd:int ;
+	provincepedia:crimeamount2016 "37"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/502e4a16930e414107ee22b6198c578f> provincepedia:id <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "110"^^xsd:int ;
+	provincepedia:crimeamount2016 "110"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/812b4ba287f5ee0bc9d43bbf5bbe87fb> provincepedia:id <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "18"^^xsd:int ;
+	provincepedia:crimeamount2016 "38"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/fc490ca45c00b1249bbe3554a4fdf6fb> provincepedia:id <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "14"^^xsd:int ;
+	provincepedia:crimeamount2016 "11"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/522a9ae9a99880d39e5daec35375e999> provincepedia:id <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "529"^^xsd:int ;
+	provincepedia:crimeamount2016 "508"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/5cf21ce30208cfffaa832c6e44bb567d> provincepedia:id <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "870"^^xsd:int ;
+	provincepedia:crimeamount2016 "784"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/5d199323c315a7cde9185683ab6f8397> provincepedia:id <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "35409"^^xsd:int ;
+	provincepedia:crimeamount2016 "34876"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b53b3a3d6ab90ce0268229151c9bde11> provincepedia:id <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "10"^^xsd:int ;
+	provincepedia:crimeamount2016 "8"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0e095e054ee94774d6a496099eb1cf6a> provincepedia:id <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "551"^^xsd:int ;
+	provincepedia:crimeamount2016 "594"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/43351f7bf9a215be70c2c2caa7555002> provincepedia:id <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1086"^^xsd:int ;
+	provincepedia:crimeamount2016 "1164"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d94e18a8adb4cc0f623f7a83b1ac75b4> provincepedia:id <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "647"^^xsd:int ;
+	provincepedia:crimeamount2016 "594"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/eb6fdc36b281b7d5eabf33396c2683a2> provincepedia:id <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "269"^^xsd:int ;
+	provincepedia:crimeamount2016 "308"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/26d4b4313a7e5828856bc0791fca39a2> provincepedia:id <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "3049"^^xsd:int ;
+	provincepedia:crimeamount2016 "3066"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2ea9a0814f75f91f77b5924ce7fe96f2> provincepedia:id <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "11197"^^xsd:int ;
+	provincepedia:crimeamount2016 "11297"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d56986c0fd21a33eec7f23d2082308cb> provincepedia:id <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "22328"^^xsd:int ;
+	provincepedia:crimeamount2016 "20836"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6c8349cc7260ae62e3b1396831a8398f> provincepedia:id <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "6"^^xsd:int ;
+	provincepedia:crimeamount2016 "1"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b7bb35b9c6ca2aee2df08cf09d7016c2> provincepedia:id <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "282"^^xsd:int ;
+	provincepedia:crimeamount2016 "310"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/26f5bd4aa64fdadf96152ca6e6408068> provincepedia:id <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1072"^^xsd:int ;
+	provincepedia:crimeamount2016 "978"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/851ddf5058cf22df63d3344ad89919cf> provincepedia:id <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "284"^^xsd:int ;
+	provincepedia:crimeamount2016 "289"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/1700002963a49da13542e0726b7bb758> provincepedia:id <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "127"^^xsd:int ;
+	provincepedia:crimeamount2016 "123"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6d378765f17a856b7ba8bf1541cafb69> provincepedia:id <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "2974"^^xsd:int ;
+	provincepedia:crimeamount2016 "2864"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/4c78f7b58f4de12ed2cab9bcb9ec0ba0> provincepedia:id <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "6266"^^xsd:int ;
+	provincepedia:crimeamount2016 "6162"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/eabeed77c370a6a4258a6373af2d137d> provincepedia:id <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "7506"^^xsd:int ;
+	provincepedia:crimeamount2016 "7289"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/17e62166fc8586dfa4d1bc0e1742c08b> provincepedia:id <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "2"^^xsd:int ;
+	provincepedia:crimeamount2016 "2"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e3796ae838835da0b6f6ea37bcf8bcb7> provincepedia:id <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "124"^^xsd:int ;
+	provincepedia:crimeamount2016 "117"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/1be3bc32e6564055d5ca3e5a354acbef> provincepedia:id <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "262"^^xsd:int ;
+	provincepedia:crimeamount2016 "191"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ca46c1b9512a7a8315fa3c5a946e8265> provincepedia:id <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "81"^^xsd:int ;
+	provincepedia:crimeamount2016 "91"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/3def184ad8f4755ff269862ea77393dd> provincepedia:id <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "44"^^xsd:int ;
+	provincepedia:crimeamount2016 "38"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/14cfdb59b5bda1fc245aadae15b1984a> provincepedia:id <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "863"^^xsd:int ;
+	provincepedia:crimeamount2016 "916"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/78631a4bb5303be54fa1cfdcb958c00a> provincepedia:id <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "2823"^^xsd:int ;
+	provincepedia:crimeamount2016 "2876"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/efdb11ffee473cd8123145347a4cd429> provincepedia:id <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "32007"^^xsd:int ;
+	provincepedia:crimeamount2016 "31454"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/642e92efb79421734881b53e1e1b18b6> provincepedia:id <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "2"^^xsd:int ;
+	provincepedia:crimeamount2016 "6"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/7501e5d4da87ac39d782741cd794002d> provincepedia:id <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "572"^^xsd:int ;
+	provincepedia:crimeamount2016 "588"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/85690f81aadc1749175c187784afc9ee> provincepedia:id <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1411"^^xsd:int ;
+	provincepedia:crimeamount2016 "1412"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/995665640dc319973d3173a74a03860c> provincepedia:id <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "621"^^xsd:int ;
+	provincepedia:crimeamount2016 "615"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/18d8042386b79e2c279fd162df0205c8> provincepedia:id <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "195"^^xsd:int ;
+	provincepedia:crimeamount2016 "161"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b7d35509ab19d0cd2256a219de0fe0ff> provincepedia:id <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "2318"^^xsd:int ;
+	provincepedia:crimeamount2016 "2333"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/21f3473068796324e0d4bbae4b0142f1> provincepedia:id <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "11439"^^xsd:int ;
+	provincepedia:crimeamount2016 "11989"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/dde16b86c64390f0af01275a44d3a42d> provincepedia:id <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "3368"^^xsd:int ;
+	provincepedia:crimeamount2016 "3339"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/a1d0c6e83f027327d8461063f4ac58a6> provincepedia:id <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "0"^^xsd:int ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f899139df5e1059396431415e770c6dd> provincepedia:id <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "35"^^xsd:int ;
+	provincepedia:crimeamount2016 "22"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ff4d5fbbafdf976cfdc032e3bde78de5> provincepedia:id <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "203"^^xsd:int ;
+	provincepedia:crimeamount2016 "259"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c9e1074f5b3f9fc8ea15d152add07294> provincepedia:id <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "27"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/7647966b7343c29048673252e490f736> provincepedia:id <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "18"^^xsd:int ;
+	provincepedia:crimeamount2016 "25"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/fd06b8ea02fe5b1c2496fe1700e9d16c> provincepedia:id <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "519"^^xsd:int ;
+	provincepedia:crimeamount2016 "567"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f670ef5d2d6bdf8f29450a970494dd64> provincepedia:id <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "885"^^xsd:int ;
+	provincepedia:crimeamount2016 "710"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2d5b98050c5dd3843bf05fbbf8a873bc> provincepedia:id <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "62379"^^xsd:int ;
+	provincepedia:crimeamount2016 "60282"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/03afdbd66e7929b125f8597834fa83a4> provincepedia:id <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "9"^^xsd:int ;
+	provincepedia:crimeamount2016 "11"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0060ef47b12160b9198302ebdb144dcf> provincepedia:id <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "1628"^^xsd:int ;
+	provincepedia:crimeamount2016 "1820"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/7d3010c11d08cf990b7614d2c2ca9098> provincepedia:id <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "2628"^^xsd:int ;
+	provincepedia:crimeamount2016 "2540"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/4aa0e93b918848be0b7728b4b1568d8a> provincepedia:id <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "1473"^^xsd:int ;
+	provincepedia:crimeamount2016 "1542"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/3435c378bb76d4357324dd7e69f3cd18> provincepedia:id <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "245"^^xsd:int ;
+	provincepedia:crimeamount2016 "307"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b983273d87ce44aec57595123cee4c62> provincepedia:id <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "5662"^^xsd:int ;
+	provincepedia:crimeamount2016 "5591"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9fb165a9b7dfef2a9f8ac7d69b22a42c> provincepedia:id <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "21044"^^xsd:int ;
+	provincepedia:crimeamount2016 "21007"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/939314105ce8701e67489642ef4d49e8> provincepedia:id <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "1730"^^xsd:int ;
+	provincepedia:crimeamount2016 "1750"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6c8349cc7260ae62e3b1396831a8398f> provincepedia:id <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:crimeamount2015 "1"^^xsd:int ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/fe9fc289c3ff0af142b6d3bead98a923> provincepedia:id <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "17"^^xsd:int ;
+	provincepedia:crimeamount2016 "21"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/621bf66ddb7c962aa0d22ac97d69b793> provincepedia:id <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "96"^^xsd:int ;
+	provincepedia:crimeamount2016 "106"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/7cbbc409ec990f19c78c75bd1e06f215> provincepedia:id <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "4"^^xsd:int ;
+	provincepedia:crimeamount2016 "19"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e2c420d928d4bf8ce0ff2ec19b371514> provincepedia:id <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:crimeamount2015 "13"^^xsd:int ;
+	provincepedia:crimeamount2016 "10"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ed265bc903a5a097f61d3ec064d96d2e> provincepedia:id <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "210"^^xsd:int ;
+	provincepedia:crimeamount2016 "287"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/3cef96dcc9b8035d23f69e30bb19218a> provincepedia:id <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "488"^^xsd:int ;
+	provincepedia:crimeamount2016 "411"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/99c42c8de9d3fc6535e03eaf17d4f1d9> provincepedia:id <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "30571"^^xsd:int ;
+	provincepedia:crimeamount2016 "28975"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c0c7c76d30bd3dcaefc96f40275bdc0a> provincepedia:id <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "1"^^xsd:int ;
+	provincepedia:crimeamount2016 "4"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/acab0116c354964a558e65bdd07ff047> provincepedia:id <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "828"^^xsd:int ;
+	provincepedia:crimeamount2016 "846"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/4502591a3be059858cf9e9d763134ee3> provincepedia:id <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "2760"^^xsd:int ;
+	provincepedia:crimeamount2016 "2745"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f2201f5191c4e92cc5af043eebfd0946> provincepedia:id <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "368"^^xsd:int ;
+	provincepedia:crimeamount2016 "351"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/cf67355a3333e6e143439161adc2d82e> provincepedia:id <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "218"^^xsd:int ;
+	provincepedia:crimeamount2016 "253"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ad5ab36761669d6eadbaee691c4a1d22> provincepedia:id <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "3229"^^xsd:int ;
+	provincepedia:crimeamount2016 "3448"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d118d975f3cdf403187a078f3a06f866> provincepedia:id <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "8884"^^xsd:int ;
+	provincepedia:crimeamount2016 "8112"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b957d47523c4e92a822cc38703a3bcc3> provincepedia:id <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "1965"^^xsd:int ;
+	provincepedia:crimeamount2016 "1887"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/642e92efb79421734881b53e1e1b18b6> provincepedia:id <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/fe9fc289c3ff0af142b6d3bead98a923> provincepedia:id <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:crimeamount2015 "20"^^xsd:int ;
+	provincepedia:crimeamount2016 "16"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/16a5cdae362b8d27a1d8f8c7b78b4330> provincepedia:id <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "127"^^xsd:int ;
+	provincepedia:crimeamount2016 "111"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/35f4a8d465e6e1edc05f3d8ab658c551> provincepedia:id <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "15"^^xsd:int ;
+	provincepedia:crimeamount2016 "14"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f033ab37c30201f73f142449d037028d> provincepedia:id <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:crimeamount2015 "16"^^xsd:int ;
+	provincepedia:crimeamount2016 "14"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9fe8593a8a330607d76796b35c64c600> provincepedia:id <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "339"^^xsd:int ;
+	provincepedia:crimeamount2016 "288"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/621461af90cadfdaf0e8d4cc25129f91> provincepedia:id <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "418"^^xsd:int ;
+	provincepedia:crimeamount2016 "437"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e657722b5cb4436e98eeaf60b4e6267a> provincepedia:id <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "19510"^^xsd:int ;
+	provincepedia:crimeamount2016 "18870"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2838023a778dfaecdc212708f721b788> provincepedia:id <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "1"^^xsd:int ;
+	provincepedia:crimeamount2016 "3"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/a532400ed62e772b9dc0b86f46e583ff> provincepedia:id <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "313"^^xsd:int ;
+	provincepedia:crimeamount2016 "276"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b6f8dc086b2d60c5856e4ff517060392> provincepedia:id <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "2479"^^xsd:int ;
+	provincepedia:crimeamount2016 "2515"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/27ed0fb950b856b06e1273989422e7d3> provincepedia:id <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "459"^^xsd:int ;
+	provincepedia:crimeamount2016 "530"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/577ef1154f3240ad5b9b413aa7346a1e> provincepedia:id <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "94"^^xsd:int ;
+	provincepedia:crimeamount2016 "90"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/4c2e5eaae9152079b9e95845750bb9ab> provincepedia:id <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1948"^^xsd:int ;
+	provincepedia:crimeamount2016 "1856"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ebb87faa733d9a04ebb40f422b135fb0> provincepedia:id <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "4029"^^xsd:int ;
+	provincepedia:crimeamount2016 "3880"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6aa6c0bb044d37732535ba5675577675> provincepedia:id <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "88760"^^xsd:int ;
+	provincepedia:crimeamount2016 "87352"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/a3f390d88e4c41f2747bfa2f1b5f87db> provincepedia:id <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "9"^^xsd:int ;
+	provincepedia:crimeamount2016 "11"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9d05c2d955b24bd5d20b1638156ea0ef> provincepedia:id <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "2825"^^xsd:int ;
+	provincepedia:crimeamount2016 "2585"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/3a098b02e2d67a733c661fa9bfbe89ec> provincepedia:id <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "6218"^^xsd:int ;
+	provincepedia:crimeamount2016 "6061"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9cb9ed4f35cf7c2f295cc2bc6f732a84> provincepedia:id <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "1420"^^xsd:int ;
+	provincepedia:crimeamount2016 "1550"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d759175de8ea5b1d9a2660e45554894f> provincepedia:id <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "593"^^xsd:int ;
+	provincepedia:crimeamount2016 "632"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/87a8152387ccb007cb00a495744d6372> provincepedia:id <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "11232"^^xsd:int ;
+	provincepedia:crimeamount2016 "11338"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/0c76d344b7b18ff818aee31d130c8e25> provincepedia:id <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "29560"^^xsd:int ;
+	provincepedia:crimeamount2016 "29124"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/4dd26a77cf6ac49c33aca7213c1d29e5> provincepedia:id <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "13334"^^xsd:int ;
+	provincepedia:crimeamount2016 "12473"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f457c545a9ded88f18ecee47145a72c0> provincepedia:id <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "0"^^xsd:int ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ac1dd209cbcc5e5d1c6e28598e8cbbe8> provincepedia:id <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "99"^^xsd:int ;
+	provincepedia:crimeamount2016 "89"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/4fac9ba115140ac4f1c22da82aa0bc7f> provincepedia:id <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "426"^^xsd:int ;
+	provincepedia:crimeamount2016 "513"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8e98d81f8217304975ccb23337bb5761> provincepedia:id <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "121"^^xsd:int ;
+	provincepedia:crimeamount2016 "134"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/42a0e188f5033bc65bf8d78622277c4e> provincepedia:id <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "35"^^xsd:int ;
+	provincepedia:crimeamount2016 "48"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d2d2c6e2445eef2bcff6bf0fdf69846c> provincepedia:id <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "1847"^^xsd:int ;
+	provincepedia:crimeamount2016 "1814"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/76908ab39c07d85c0b3693ce5d700771> provincepedia:id <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "4796"^^xsd:int ;
+	provincepedia:crimeamount2016 "4302"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/bef2ed71a0cf3e56c71eb3beeae32252> provincepedia:id <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "36939"^^xsd:int ;
+	provincepedia:crimeamount2016 "36438"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/093f65e080a295f8076b1c5722a46aa2> provincepedia:id <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "6"^^xsd:int ;
+	provincepedia:crimeamount2016 "3"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/697e382cfd25b07a3e62275d3ee132b3> provincepedia:id <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "1018"^^xsd:int ;
+	provincepedia:crimeamount2016 "1089"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/aa97d584861474f4097cf13ccb5325da> provincepedia:id <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1831"^^xsd:int ;
+	provincepedia:crimeamount2016 "1651"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c4015b7f368e6b4871809f49debe0579> provincepedia:id <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "384"^^xsd:int ;
+	provincepedia:crimeamount2016 "486"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2f2b265625d76a6704b08093c652fd79> provincepedia:id <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "134"^^xsd:int ;
+	provincepedia:crimeamount2016 "146"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/514f94b7b871de0eacb221709d341aec> provincepedia:id <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "3409"^^xsd:int ;
+	provincepedia:crimeamount2016 "3102"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/69a2835d20b8290bc7984b8aa6538f89> provincepedia:id <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "12774"^^xsd:int ;
+	provincepedia:crimeamount2016 "13839"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/f2f446980d8e971ef3da97af089481c3> provincepedia:id <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "3450"^^xsd:int ;
+	provincepedia:crimeamount2016 "3392"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2838023a778dfaecdc212708f721b788> provincepedia:id <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:crimeamount2015 "0"^^xsd:int ;
+	provincepedia:crimeamount2016 "0"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/eb160de1de89d9058fcb0b968dbbbd68> provincepedia:id <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "37"^^xsd:int ;
+	provincepedia:crimeamount2016 "28"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/bc6dc48b743dc5d013b1abaebd2faed2> provincepedia:id <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "141"^^xsd:int ;
+	provincepedia:crimeamount2016 "129"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2a79ea27c279e471f4d180b08d62b00a> provincepedia:id <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "55"^^xsd:int ;
+	provincepedia:crimeamount2016 "46"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/e2ef524fbf3d9fe611d5a8e90fefdc9c> provincepedia:id <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "22"^^xsd:int ;
+	provincepedia:crimeamount2016 "20"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/430c3626b879b4005d41b8a46172e0c0> provincepedia:id <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "409"^^xsd:int ;
+	provincepedia:crimeamount2016 "456"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6f4920ea25403ec77bee9efce43ea25e> provincepedia:id <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "1033"^^xsd:int ;
+	provincepedia:crimeamount2016 "976"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/fdc04eed7cecf74fe496844d14b900b2> provincepedia:id <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "22603"^^xsd:int ;
+	provincepedia:crimeamount2016 "22514"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ea5d2f1c4608232e07d3aa3d998e5135> provincepedia:id <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "4"^^xsd:int ;
+	provincepedia:crimeamount2016 "8"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/2b6d65b9a9445c4271ab9076ead5605a> provincepedia:id <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "500"^^xsd:int ;
+	provincepedia:crimeamount2016 "633"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8929c70f8d710e412d38da624b21c3c8> provincepedia:id <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "1003"^^xsd:int ;
+	provincepedia:crimeamount2016 "1108"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/d18f655c3fce66ca401d5f38b48c89af> provincepedia:id <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "213"^^xsd:int ;
+	provincepedia:crimeamount2016 "211"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/138bb0696595b338afbab333c555292a> provincepedia:id <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "166"^^xsd:int ;
+	provincepedia:crimeamount2016 "131"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/b5d3ad899f70013367f24e0b1fa75944> provincepedia:id <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "3114"^^xsd:int ;
+	provincepedia:crimeamount2016 "3000"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/8e3e59214cfae2e1afa470119559e683> provincepedia:id <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "7432"^^xsd:int ;
+	provincepedia:crimeamount2016 "7309"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/162d18156abe38a3b32851b72b1d44f5> provincepedia:id <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "3673"^^xsd:int ;
+	provincepedia:crimeamount2016 "3448"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/72b32a1f754ba1c09b3695e0cb6cde7f> provincepedia:id <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:crimeamount2015 "1"^^xsd:int ;
+	provincepedia:crimeamount2016 "3"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/34ed066df378efacc9b924ec161e7639> provincepedia:id <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "123"^^xsd:int ;
+	provincepedia:crimeamount2016 "124"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/149e9677a5989fd342ae44213df68868> provincepedia:id <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "64"^^xsd:int ;
+	provincepedia:crimeamount2016 "51"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/6a10bbd480e4c5573d8f3af73ae0454b> provincepedia:id <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "275"^^xsd:int ;
+	provincepedia:crimeamount2016 "304"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/1728efbda81692282ba642aafd57be3a> provincepedia:id <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "308"^^xsd:int ;
+	provincepedia:crimeamount2016 "199"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/cee631121c2ec9232f3a2f028ad5c89b> provincepedia:id <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "235"^^xsd:int ;
+	provincepedia:crimeamount2016 "207"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/dfa92d8f817e5b08fcaafb50d03763cf> provincepedia:id <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "796"^^xsd:int ;
+	provincepedia:crimeamount2016 "713"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ad2972cf612acdeec0f99338a768aa05> provincepedia:id <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/0> ;
+	provincepedia:crimeamount2015 "3673"^^xsd:int ;
+	provincepedia:crimeamount2016 "3644"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9f61408e3afb633e50cdf1b20de6f466> provincepedia:id <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/1> ;
+	provincepedia:crimeamount2015 "1"^^xsd:int ;
+	provincepedia:crimeamount2016 "1"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/3a0772443a0739141292a5429b952fe6> provincepedia:id <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/2> ;
+	provincepedia:crimeamount2015 "221"^^xsd:int ;
+	provincepedia:crimeamount2016 "283"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/c52f1bd66cc19d05628bd8bf27af3ad6> provincepedia:id <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/3> ;
+	provincepedia:crimeamount2015 "72"^^xsd:int ;
+	provincepedia:crimeamount2016 "126"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/13fe9d84310e77f13a6d184dbf1232f3> provincepedia:id <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/4> ;
+	provincepedia:crimeamount2015 "88"^^xsd:int ;
+	provincepedia:crimeamount2016 "79"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/ca46c1b9512a7a8315fa3c5a946e8265> provincepedia:id <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/5> ;
+	provincepedia:crimeamount2015 "86"^^xsd:int ;
+	provincepedia:crimeamount2016 "70"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/a9a1d5317a33ae8cef33961c34144f84> provincepedia:id <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/6> ;
+	provincepedia:crimeamount2015 "254"^^xsd:int ;
+	provincepedia:crimeamount2016 "272"^^xsd:int .
+
+<http://provincepedia.ml/resource/crime/9afefc52942cb83c7c1f14b2139b09ba> provincepedia:id <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:felony <http://provincepedia.ml/resource/felony/7> ;
+	provincepedia:crimeamount2015 "1001"^^xsd:int ;
+	provincepedia:crimeamount2016 "994"^^xsd:int .

@@ -3,265 +3,265 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix provincepedia: <http://provincepedia.ml/ontology#> .
+@prefix provincepedia: <http://provincepedia.ml/resources/#> .
 
 
 <http://provincepedia.ml/resources/prov/0> a provincepedia:Province ;
-	provincepedia:provcode "1"^^xsd:int ;
+	provincepedia:provcode "0"^^xsd:int ;
 	provincepedia:name "Araba/Alava" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/15> .
-
-<http://provincepedia.ml/resources/prov/1> a provincepedia:Province ;
-	provincepedia:provcode "2"^^xsd:int ;
-	provincepedia:name "Albacete" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/8> .
-
-<http://provincepedia.ml/resources/prov/2> a provincepedia:Province ;
-	provincepedia:provcode "3"^^xsd:int ;
-	provincepedia:name "Alicante" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/17> .
-
-<http://provincepedia.ml/resources/prov/3> a provincepedia:Province ;
-	provincepedia:provcode "4"^^xsd:int ;
-	provincepedia:name "Almería" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
-
-<http://provincepedia.ml/resources/prov/4> a provincepedia:Province ;
-	provincepedia:provcode "5"^^xsd:int ;
-	provincepedia:name "Avila" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
-
-<http://provincepedia.ml/resources/prov/5> a provincepedia:Province ;
-	provincepedia:provcode "6"^^xsd:int ;
-	provincepedia:name "Badajoz" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/10> .
-
-<http://provincepedia.ml/resources/prov/6> a provincepedia:Province ;
-	provincepedia:provcode "7"^^xsd:int ;
-	provincepedia:name "Balearic Islands" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/4> .
-
-<http://provincepedia.ml/resources/prov/7> a provincepedia:Province ;
-	provincepedia:provcode "8"^^xsd:int ;
-	provincepedia:name "Barcelona" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/9> .
-
-<http://provincepedia.ml/resources/prov/8> a provincepedia:Province ;
-	provincepedia:provcode "9"^^xsd:int ;
-	provincepedia:name "Burgos" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
-
-<http://provincepedia.ml/resources/prov/9> a provincepedia:Province ;
-	provincepedia:provcode "10"^^xsd:int ;
-	provincepedia:name "Cáceres" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/10> .
-
-<http://provincepedia.ml/resources/prov/10> a provincepedia:Province ;
-	provincepedia:provcode "11"^^xsd:int ;
-	provincepedia:name "Cádiz" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
-
-<http://provincepedia.ml/resources/prov/11> a provincepedia:Province ;
-	provincepedia:provcode "12"^^xsd:int ;
-	provincepedia:name "Castellón" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/17> .
-
-<http://provincepedia.ml/resources/prov/12> a provincepedia:Province ;
-	provincepedia:provcode "13"^^xsd:int ;
-	provincepedia:name "Ciudad Real" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/8> .
-
-<http://provincepedia.ml/resources/prov/13> a provincepedia:Province ;
-	provincepedia:provcode "14"^^xsd:int ;
-	provincepedia:name "Córdoba" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
-
-<http://provincepedia.ml/resources/prov/14> a provincepedia:Province ;
-	provincepedia:provcode "15"^^xsd:int ;
-	provincepedia:name "La Coruña" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/11> .
-
-<http://provincepedia.ml/resources/prov/15> a provincepedia:Province ;
-	provincepedia:provcode "16"^^xsd:int ;
-	provincepedia:name "Cuenca" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/8> .
-
-<http://provincepedia.ml/resources/prov/16> a provincepedia:Province ;
-	provincepedia:provcode "17"^^xsd:int ;
-	provincepedia:name "Girona" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/9> .
-
-<http://provincepedia.ml/resources/prov/17> a provincepedia:Province ;
-	provincepedia:provcode "18"^^xsd:int ;
-	provincepedia:name "Granada" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
-
-<http://provincepedia.ml/resources/prov/18> a provincepedia:Province ;
-	provincepedia:provcode "19"^^xsd:int ;
-	provincepedia:name "Guadalajara" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/8> .
-
-<http://provincepedia.ml/resources/prov/19> a provincepedia:Province ;
-	provincepedia:provcode "20"^^xsd:int ;
-	provincepedia:name "Guipúzcoa" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/15> .
-
-<http://provincepedia.ml/resources/prov/20> a provincepedia:Province ;
-	provincepedia:provcode "21"^^xsd:int ;
-	provincepedia:name "Huelva" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
-
-<http://provincepedia.ml/resources/prov/21> a provincepedia:Province ;
-	provincepedia:provcode "22"^^xsd:int ;
-	provincepedia:name "Huesca" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/2> .
-
-<http://provincepedia.ml/resources/prov/22> a provincepedia:Province ;
-	provincepedia:provcode "23"^^xsd:int ;
-	provincepedia:name "Jaén" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
-
-<http://provincepedia.ml/resources/prov/23> a provincepedia:Province ;
-	provincepedia:provcode "24"^^xsd:int ;
-	provincepedia:name "León" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
-
-<http://provincepedia.ml/resources/prov/24> a provincepedia:Province ;
-	provincepedia:provcode "25"^^xsd:int ;
-	provincepedia:name "Lleida" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/9> .
-
-<http://provincepedia.ml/resources/prov/25> a provincepedia:Province ;
-	provincepedia:provcode "26"^^xsd:int ;
-	provincepedia:name "La Rioja" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/16> .
-
-<http://provincepedia.ml/resources/prov/26> a provincepedia:Province ;
-	provincepedia:provcode "27"^^xsd:int ;
-	provincepedia:name "Lugo" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/11> .
-
-<http://provincepedia.ml/resources/prov/27> a provincepedia:Province ;
-	provincepedia:provcode "28"^^xsd:int ;
-	provincepedia:name "Madrid" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/12> .
-
-<http://provincepedia.ml/resources/prov/28> a provincepedia:Province ;
-	provincepedia:provcode "29"^^xsd:int ;
-	provincepedia:name "Málaga" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
-
-<http://provincepedia.ml/resources/prov/29> a provincepedia:Province ;
-	provincepedia:provcode "30"^^xsd:int ;
-	provincepedia:name "Murcia" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/13> .
-
-<http://provincepedia.ml/resources/prov/30> a provincepedia:Province ;
-	provincepedia:provcode "31"^^xsd:int ;
-	provincepedia:name "Navarra" ;
 	provincepedia:in <http://provincepedia.ml/resources/ac/14> .
 
-<http://provincepedia.ml/resources/prov/31> a provincepedia:Province ;
-	provincepedia:provcode "32"^^xsd:int ;
-	provincepedia:name "Ourense" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/11> .
-
-<http://provincepedia.ml/resources/prov/32> a provincepedia:Province ;
-	provincepedia:provcode "33"^^xsd:int ;
-	provincepedia:name "Asturias" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/3> .
-
-<http://provincepedia.ml/resources/prov/33> a provincepedia:Province ;
-	provincepedia:provcode "34"^^xsd:int ;
-	provincepedia:name "Palencia" ;
+<http://provincepedia.ml/resources/prov/1> a provincepedia:Province ;
+	provincepedia:provcode "1"^^xsd:int ;
+	provincepedia:name "Albacete" ;
 	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
 
-<http://provincepedia.ml/resources/prov/34> a provincepedia:Province ;
-	provincepedia:provcode "35"^^xsd:int ;
-	provincepedia:name "Provincia de Las Palmas" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/5> .
+<http://provincepedia.ml/resources/prov/2> a provincepedia:Province ;
+	provincepedia:provcode "2"^^xsd:int ;
+	provincepedia:name "Alicante" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/16> .
 
-<http://provincepedia.ml/resources/prov/35> a provincepedia:Province ;
-	provincepedia:provcode "36"^^xsd:int ;
-	provincepedia:name "Pontevedra" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/11> .
+<http://provincepedia.ml/resources/prov/3> a provincepedia:Province ;
+	provincepedia:provcode "3"^^xsd:int ;
+	provincepedia:name "Almería" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/0> .
 
-<http://provincepedia.ml/resources/prov/36> a provincepedia:Province ;
-	provincepedia:provcode "37"^^xsd:int ;
-	provincepedia:name "Salamanca" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
-
-<http://provincepedia.ml/resources/prov/37> a provincepedia:Province ;
-	provincepedia:provcode "38"^^xsd:int ;
-	provincepedia:name "Santa Cruz de Tenerife" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/5> .
-
-<http://provincepedia.ml/resources/prov/38> a provincepedia:Province ;
-	provincepedia:provcode "39"^^xsd:int ;
-	provincepedia:name "Cantabria" ;
+<http://provincepedia.ml/resources/prov/4> a provincepedia:Province ;
+	provincepedia:provcode "4"^^xsd:int ;
+	provincepedia:name "Avila" ;
 	provincepedia:in <http://provincepedia.ml/resources/ac/6> .
 
-<http://provincepedia.ml/resources/prov/39> a provincepedia:Province ;
-	provincepedia:provcode "40"^^xsd:int ;
-	provincepedia:name "Segovia" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
-
-<http://provincepedia.ml/resources/prov/40> a provincepedia:Province ;
-	provincepedia:provcode "41"^^xsd:int ;
-	provincepedia:name "Sevilla" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
-
-<http://provincepedia.ml/resources/prov/41> a provincepedia:Province ;
-	provincepedia:provcode "42"^^xsd:int ;
-	provincepedia:name "Soria" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
-
-<http://provincepedia.ml/resources/prov/42> a provincepedia:Province ;
-	provincepedia:provcode "43"^^xsd:int ;
-	provincepedia:name "Tarragona" ;
+<http://provincepedia.ml/resources/prov/5> a provincepedia:Province ;
+	provincepedia:provcode "5"^^xsd:int ;
+	provincepedia:name "Badajoz" ;
 	provincepedia:in <http://provincepedia.ml/resources/ac/9> .
 
-<http://provincepedia.ml/resources/prov/43> a provincepedia:Province ;
-	provincepedia:provcode "44"^^xsd:int ;
-	provincepedia:name "Teruel" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/2> .
+<http://provincepedia.ml/resources/prov/6> a provincepedia:Province ;
+	provincepedia:provcode "6"^^xsd:int ;
+	provincepedia:name "Balearic Islands" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/3> .
 
-<http://provincepedia.ml/resources/prov/44> a provincepedia:Province ;
-	provincepedia:provcode "45"^^xsd:int ;
-	provincepedia:name "Toledo" ;
+<http://provincepedia.ml/resources/prov/7> a provincepedia:Province ;
+	provincepedia:provcode "7"^^xsd:int ;
+	provincepedia:name "Barcelona" ;
 	provincepedia:in <http://provincepedia.ml/resources/ac/8> .
 
-<http://provincepedia.ml/resources/prov/45> a provincepedia:Province ;
-	provincepedia:provcode "46"^^xsd:int ;
-	provincepedia:name "Valencia" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/17> .
+<http://provincepedia.ml/resources/prov/8> a provincepedia:Province ;
+	provincepedia:provcode "8"^^xsd:int ;
+	provincepedia:name "Burgos" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/6> .
 
-<http://provincepedia.ml/resources/prov/46> a provincepedia:Province ;
-	provincepedia:provcode "47"^^xsd:int ;
-	provincepedia:name "Valladolid" ;
+<http://provincepedia.ml/resources/prov/9> a provincepedia:Province ;
+	provincepedia:provcode "9"^^xsd:int ;
+	provincepedia:name "Cáceres" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/9> .
+
+<http://provincepedia.ml/resources/prov/10> a provincepedia:Province ;
+	provincepedia:provcode "10"^^xsd:int ;
+	provincepedia:name "Cádiz" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/0> .
+
+<http://provincepedia.ml/resources/prov/11> a provincepedia:Province ;
+	provincepedia:provcode "11"^^xsd:int ;
+	provincepedia:name "Castellón" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/16> .
+
+<http://provincepedia.ml/resources/prov/12> a provincepedia:Province ;
+	provincepedia:provcode "12"^^xsd:int ;
+	provincepedia:name "Ciudad Real" ;
 	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
 
-<http://provincepedia.ml/resources/prov/47> a provincepedia:Province ;
-	provincepedia:provcode "48"^^xsd:int ;
-	provincepedia:name "Biscay" ;
+<http://provincepedia.ml/resources/prov/13> a provincepedia:Province ;
+	provincepedia:provcode "13"^^xsd:int ;
+	provincepedia:name "Córdoba" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/0> .
+
+<http://provincepedia.ml/resources/prov/14> a provincepedia:Province ;
+	provincepedia:provcode "14"^^xsd:int ;
+	provincepedia:name "La Coruña" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/10> .
+
+<http://provincepedia.ml/resources/prov/15> a provincepedia:Province ;
+	provincepedia:provcode "15"^^xsd:int ;
+	provincepedia:name "Cuenca" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
+
+<http://provincepedia.ml/resources/prov/16> a provincepedia:Province ;
+	provincepedia:provcode "16"^^xsd:int ;
+	provincepedia:name "Girona" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/8> .
+
+<http://provincepedia.ml/resources/prov/17> a provincepedia:Province ;
+	provincepedia:provcode "17"^^xsd:int ;
+	provincepedia:name "Granada" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/0> .
+
+<http://provincepedia.ml/resources/prov/18> a provincepedia:Province ;
+	provincepedia:provcode "18"^^xsd:int ;
+	provincepedia:name "Guadalajara" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
+
+<http://provincepedia.ml/resources/prov/19> a provincepedia:Province ;
+	provincepedia:provcode "19"^^xsd:int ;
+	provincepedia:name "Guipúzcoa" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/14> .
+
+<http://provincepedia.ml/resources/prov/20> a provincepedia:Province ;
+	provincepedia:provcode "20"^^xsd:int ;
+	provincepedia:name "Huelva" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/0> .
+
+<http://provincepedia.ml/resources/prov/21> a provincepedia:Province ;
+	provincepedia:provcode "21"^^xsd:int ;
+	provincepedia:name "Huesca" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
+
+<http://provincepedia.ml/resources/prov/22> a provincepedia:Province ;
+	provincepedia:provcode "22"^^xsd:int ;
+	provincepedia:name "Jaén" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/0> .
+
+<http://provincepedia.ml/resources/prov/23> a provincepedia:Province ;
+	provincepedia:provcode "23"^^xsd:int ;
+	provincepedia:name "León" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/6> .
+
+<http://provincepedia.ml/resources/prov/24> a provincepedia:Province ;
+	provincepedia:provcode "24"^^xsd:int ;
+	provincepedia:name "Lleida" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/8> .
+
+<http://provincepedia.ml/resources/prov/25> a provincepedia:Province ;
+	provincepedia:provcode "25"^^xsd:int ;
+	provincepedia:name "La Rioja" ;
 	provincepedia:in <http://provincepedia.ml/resources/ac/15> .
 
-<http://provincepedia.ml/resources/prov/48> a provincepedia:Province ;
-	provincepedia:provcode "49"^^xsd:int ;
-	provincepedia:name "Zamora" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
+<http://provincepedia.ml/resources/prov/26> a provincepedia:Province ;
+	provincepedia:provcode "26"^^xsd:int ;
+	provincepedia:name "Lugo" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/10> .
 
-<http://provincepedia.ml/resources/prov/49> a provincepedia:Province ;
-	provincepedia:provcode "50"^^xsd:int ;
-	provincepedia:name "Zaragoza" ;
+<http://provincepedia.ml/resources/prov/27> a provincepedia:Province ;
+	provincepedia:provcode "27"^^xsd:int ;
+	provincepedia:name "Madrid" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/11> .
+
+<http://provincepedia.ml/resources/prov/28> a provincepedia:Province ;
+	provincepedia:provcode "28"^^xsd:int ;
+	provincepedia:name "Málaga" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/0> .
+
+<http://provincepedia.ml/resources/prov/29> a provincepedia:Province ;
+	provincepedia:provcode "29"^^xsd:int ;
+	provincepedia:name "Murcia" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/12> .
+
+<http://provincepedia.ml/resources/prov/30> a provincepedia:Province ;
+	provincepedia:provcode "30"^^xsd:int ;
+	provincepedia:name "Navarra" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/13> .
+
+<http://provincepedia.ml/resources/prov/31> a provincepedia:Province ;
+	provincepedia:provcode "31"^^xsd:int ;
+	provincepedia:name "Ourense" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/10> .
+
+<http://provincepedia.ml/resources/prov/32> a provincepedia:Province ;
+	provincepedia:provcode "32"^^xsd:int ;
+	provincepedia:name "Asturias" ;
 	provincepedia:in <http://provincepedia.ml/resources/ac/2> .
 
+<http://provincepedia.ml/resources/prov/33> a provincepedia:Province ;
+	provincepedia:provcode "33"^^xsd:int ;
+	provincepedia:name "Palencia" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/6> .
+
+<http://provincepedia.ml/resources/prov/34> a provincepedia:Province ;
+	provincepedia:provcode "34"^^xsd:int ;
+	provincepedia:name "Provincia de Las Palmas" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/4> .
+
+<http://provincepedia.ml/resources/prov/35> a provincepedia:Province ;
+	provincepedia:provcode "35"^^xsd:int ;
+	provincepedia:name "Pontevedra" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/10> .
+
+<http://provincepedia.ml/resources/prov/36> a provincepedia:Province ;
+	provincepedia:provcode "36"^^xsd:int ;
+	provincepedia:name "Salamanca" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/6> .
+
+<http://provincepedia.ml/resources/prov/37> a provincepedia:Province ;
+	provincepedia:provcode "37"^^xsd:int ;
+	provincepedia:name "Santa Cruz de Tenerife" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/4> .
+
+<http://provincepedia.ml/resources/prov/38> a provincepedia:Province ;
+	provincepedia:provcode "38"^^xsd:int ;
+	provincepedia:name "Cantabria" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/5> .
+
+<http://provincepedia.ml/resources/prov/39> a provincepedia:Province ;
+	provincepedia:provcode "39"^^xsd:int ;
+	provincepedia:name "Segovia" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/6> .
+
+<http://provincepedia.ml/resources/prov/40> a provincepedia:Province ;
+	provincepedia:provcode "40"^^xsd:int ;
+	provincepedia:name "Sevilla" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/0> .
+
+<http://provincepedia.ml/resources/prov/41> a provincepedia:Province ;
+	provincepedia:provcode "41"^^xsd:int ;
+	provincepedia:name "Soria" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/6> .
+
+<http://provincepedia.ml/resources/prov/42> a provincepedia:Province ;
+	provincepedia:provcode "42"^^xsd:int ;
+	provincepedia:name "Tarragona" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/8> .
+
+<http://provincepedia.ml/resources/prov/43> a provincepedia:Province ;
+	provincepedia:provcode "43"^^xsd:int ;
+	provincepedia:name "Teruel" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
+
+<http://provincepedia.ml/resources/prov/44> a provincepedia:Province ;
+	provincepedia:provcode "44"^^xsd:int ;
+	provincepedia:name "Toledo" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/7> .
+
+<http://provincepedia.ml/resources/prov/45> a provincepedia:Province ;
+	provincepedia:provcode "45"^^xsd:int ;
+	provincepedia:name "Valencia" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/16> .
+
+<http://provincepedia.ml/resources/prov/46> a provincepedia:Province ;
+	provincepedia:provcode "46"^^xsd:int ;
+	provincepedia:name "Valladolid" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/6> .
+
+<http://provincepedia.ml/resources/prov/47> a provincepedia:Province ;
+	provincepedia:provcode "47"^^xsd:int ;
+	provincepedia:name "Biscay" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/14> .
+
+<http://provincepedia.ml/resources/prov/48> a provincepedia:Province ;
+	provincepedia:provcode "48"^^xsd:int ;
+	provincepedia:name "Zamora" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/6> .
+
+<http://provincepedia.ml/resources/prov/49> a provincepedia:Province ;
+	provincepedia:provcode "49"^^xsd:int ;
+	provincepedia:name "Zaragoza" ;
+	provincepedia:in <http://provincepedia.ml/resources/ac/1> .
+
 <http://provincepedia.ml/resources/prov/50> a provincepedia:Province ;
-	provincepedia:provcode "51"^^xsd:int ;
+	provincepedia:provcode "50"^^xsd:int ;
 	provincepedia:name "Ceuta" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/18> .
+	provincepedia:in <http://provincepedia.ml/resources/ac/17> .
 
 <http://provincepedia.ml/resources/prov/51> a provincepedia:Province ;
-	provincepedia:provcode "52"^^xsd:int ;
+	provincepedia:provcode "51"^^xsd:int ;
 	provincepedia:name "Melilla" ;
-	provincepedia:in <http://provincepedia.ml/resources/ac/19> .
+	provincepedia:in <http://provincepedia.ml/resources/ac/18> .

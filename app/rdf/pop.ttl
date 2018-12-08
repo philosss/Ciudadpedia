@@ -1,0 +1,3439 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix provincepedia: <http://provincepedia.ml/resources/#> .
+
+
+<http://provincepedia.ml/resources/pop/bf5f80dbdee42b9cc64122875ac2ac8c> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "195009"^^xsd:double ;
+	provincepedia:femalepopulation "195357"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/80d992350dac3a088e68cb21db43a11e> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "195681"^^xsd:double ;
+	provincepedia:femalepopulation "195893"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3ab219ce2c59921703a7e253b30542a1> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "196394"^^xsd:double ;
+	provincepedia:femalepopulation "196564"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6db89347ab694b5febfb79899ca1babd> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "197389"^^xsd:double ;
+	provincepedia:femalepopulation "197539"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8eb43fa59938fc9ebd01100f124ca1bd> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "198256"^^xsd:double ;
+	provincepedia:femalepopulation "198428"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d14c91288043c714a91d387cbff1597d> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "199828"^^xsd:double ;
+	provincepedia:femalepopulation "199682"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/94309548a67e99fc24a4ac52a38af5fc> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "201085"^^xsd:double ;
+	provincepedia:femalepopulation "200505"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/77ee05cbad3342f3d5fc46748b765a56> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "200830"^^xsd:double ;
+	provincepedia:femalepopulation "200016"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a7ee1843e2134ab1254fe03391ee16e7> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "200366"^^xsd:double ;
+	provincepedia:femalepopulation "199081"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d863e49c81df41988e20d8233b267c72> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "199799"^^xsd:double ;
+	provincepedia:femalepopulation "198082"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/27daa28902135a79abc17268225966dc> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "198260"^^xsd:double ;
+	provincepedia:femalepopulation "196261"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c7b8d53e411ff2c08f5bbfce797076dd> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "915455"^^xsd:double ;
+	provincepedia:femalepopulation "930089"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fbf8225b4df3309bb9c2a69f1b779a4b> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "914824"^^xsd:double ;
+	provincepedia:femalepopulation "927748"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f9fcfae38642b42d94e9935febcd0ccb> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "915629"^^xsd:double ;
+	provincepedia:femalepopulation "926816"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d40abbf957500b07e4f081860d84108c> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "916055"^^xsd:double ;
+	provincepedia:femalepopulation "926119"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4596d58c738fb48e7cbe0d7646c47b8b> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "921458"^^xsd:double ;
+	provincepedia:femalepopulation "929166"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/bb090f1b10ee88624fee19b7c30ae41d> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "923942"^^xsd:double ;
+	provincepedia:femalepopulation "930302"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/18257f888e0c93bc0090f529612f8539> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "924452"^^xsd:double ;
+	provincepedia:femalepopulation "928757"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8c3cdfac376b684c1a66db59c885454a> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "920410"^^xsd:double ;
+	provincepedia:femalepopulation "924028"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1dbcac6eaac875a7b5dd2c1f95be4755> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "918948"^^xsd:double ;
+	provincepedia:femalepopulation "921137"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8693dac30b555216ba4a37a067fc9b5e> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "918027"^^xsd:double ;
+	provincepedia:femalepopulation "918107"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2778ae77f80f99057ea91b9d84b5dd87> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/2> ;
+	provincepedia:malepopulation "909620"^^xsd:double ;
+	provincepedia:femalepopulation "907899"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7a08e971b69279cb9e7992baaa1dbac6> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "354572"^^xsd:double ;
+	provincepedia:femalepopulation "346600"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7091e66baaa590298ab627364ab5fab8> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "354122"^^xsd:double ;
+	provincepedia:femalepopulation "345919"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6cd6ef4fc916287b452617ab9207f575> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "352228"^^xsd:double ;
+	provincepedia:femalepopulation "343958"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/38a5fbf7c79eb3ded67c85f594184683> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "349380"^^xsd:double ;
+	provincepedia:femalepopulation "341774"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/dd98c9cc837b91a284fb6ff672ef3939> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "348597"^^xsd:double ;
+	provincepedia:femalepopulation "340291"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c79d88add9a6a1fb267b2c781a77e166> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "350948"^^xsd:double ;
+	provincepedia:femalepopulation "340731"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0bf072c9b12154c2c3e9eed699a6ddd0> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "350979"^^xsd:double ;
+	provincepedia:femalepopulation "338341"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/51ae796d862fd1c41a4350f947a51784> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "351257"^^xsd:double ;
+	provincepedia:femalepopulation "335191"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/45547e855a77cb8aed4f210b5ea3145d> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "348985"^^xsd:double ;
+	provincepedia:femalepopulation "331499"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/593c8d320580c4819631e89242f9f3c2> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "345568"^^xsd:double ;
+	provincepedia:femalepopulation "327474"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e4d98ecc11db124dd018421e62a578a9> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/3> ;
+	provincepedia:malepopulation "338589"^^xsd:double ;
+	provincepedia:femalepopulation "320855"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ea0592a67b12b6b85b0f28cac552441f> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "159826"^^xsd:double ;
+	provincepedia:femalepopulation "165974"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/feaa7185ba20b0203714d03e6642f810> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "159186"^^xsd:double ;
+	provincepedia:femalepopulation "164627"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/69510123dc9613da1de94dbe6b10107c> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "158367"^^xsd:double ;
+	provincepedia:femalepopulation "163437"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6fd3753b6253372e9188ad8b2bdd5957> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "158099"^^xsd:double ;
+	provincepedia:femalepopulation "162565"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5d0fb50c43bc8e3b334b084478eed1a8> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "158085"^^xsd:double ;
+	provincepedia:femalepopulation "161810"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e5fa5c25ba2f1e99a8a44be313cee9e7> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "158630"^^xsd:double ;
+	provincepedia:femalepopulation "161297"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/36ae8e1d1d1418a9947c7373134620f5> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "159551"^^xsd:double ;
+	provincepedia:femalepopulation "161015"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/96b5a798d5014af0c8bf0b983b6e0aa5> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "159673"^^xsd:double ;
+	provincepedia:femalepopulation "160173"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/13968be064ca544165cf5aca00bb9dcf> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "158892"^^xsd:double ;
+	provincepedia:femalepopulation "158845"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b26bdcb56a322d168474f8b31c558db3> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "157766"^^xsd:double ;
+	provincepedia:femalepopulation "157514"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5b0b5c817545cbd7e6b860d3609c2bba> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/0> ;
+	provincepedia:malepopulation "155474"^^xsd:double ;
+	provincepedia:femalepopulation "155470"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1117448eb641ec3f5be4942108faa348> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "491317"^^xsd:double ;
+	provincepedia:femalepopulation "536342"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/db2397e111370a01eb345bd5c5727806> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "494532"^^xsd:double ;
+	provincepedia:femalepopulation "539745"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/154717240f1166fbdebb5bffc97d3e94> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "497946"^^xsd:double ;
+	provincepedia:femalepopulation "542979"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fc14c76d09ab213315af6f65b82a27c3> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "502362"^^xsd:double ;
+	provincepedia:femalepopulation "547513"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0f249d5ca68dfd2e51145eca886ec918> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "507151"^^xsd:double ;
+	provincepedia:femalepopulation "551824"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1303082516696516c11e82b48ffd36c2> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "511932"^^xsd:double ;
+	provincepedia:femalepopulation "555870"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ee49aefb1b95f3528a0a07dc6a62ae3b> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "515503"^^xsd:double ;
+	provincepedia:femalepopulation "558801"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fda4c9aecabeceb2e6a11bbc255dbf6e> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "516497"^^xsd:double ;
+	provincepedia:femalepopulation "559380"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/dd1eee7a3323f9d95ec24255c3356292> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "517332"^^xsd:double ;
+	provincepedia:femalepopulation "559771"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/94c98b78cbf7e480618d1745c33912e6> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "516868"^^xsd:double ;
+	provincepedia:femalepopulation "559412"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4e75d233f8e84eda74307c6cf9b3969b> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/32> ;
+	provincepedia:malepopulation "513783"^^xsd:double ;
+	provincepedia:femalepopulation "557298"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/781e42b2701f5bd0a03f4b01ec30a572> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "80696"^^xsd:double ;
+	provincepedia:femalepopulation "79447"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/322b9cff83f7c7d0dffac4ea657d175e> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "81587"^^xsd:double ;
+	provincepedia:femalepopulation "80161"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c839fb6aa1bb37cbb75c4386727fb39c> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "82580"^^xsd:double ;
+	provincepedia:femalepopulation "81071"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6d96343c63b2bc5be6c2e8f8005ca561> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "83673"^^xsd:double ;
+	provincepedia:femalepopulation "82068"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b357180b8ac53e9992d21b778a6041ac> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "84485"^^xsd:double ;
+	provincepedia:femalepopulation "82847"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f11cde3998102af6482ce3e9de2b2dd0> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "85552"^^xsd:double ;
+	provincepedia:femalepopulation "83906"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2ff8dc6f40202cd2a7e09cac1e3febaf> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "86617"^^xsd:double ;
+	provincepedia:femalepopulation "84748"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8697b4f0f58a67b0ddda7f97380e90e3> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "87344"^^xsd:double ;
+	provincepedia:femalepopulation "85426"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f9d2404ec8ae47f11c27adf16127cc72> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "87691"^^xsd:double ;
+	provincepedia:femalepopulation "85679"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b34309c1984c8cb4be92fb2068cea8e6> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "87943"^^xsd:double ;
+	provincepedia:femalepopulation "85875"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7ee0f115d637ed5df29bfaf3a7532a91> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/4> ;
+	provincepedia:malepopulation "87521"^^xsd:double ;
+	provincepedia:femalepopulation "85769"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/330ee1f034187da96adddda5c35209d1> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "334241"^^xsd:double ;
+	provincepedia:femalepopulation "340765"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/dc9edb21f61308a5f77a8609cb1b6f18> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "336228"^^xsd:double ;
+	provincepedia:femalepopulation "342245"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/991bc80e62122b7538323df7aa6d63b2> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "338456"^^xsd:double ;
+	provincepedia:femalepopulation "344115"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2aabe43260497e284e5738ecbf93bb83> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "340416"^^xsd:double ;
+	provincepedia:femalepopulation "345676"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ef32e986ea8ab12421ab303e9e0cae40> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "341689"^^xsd:double ;
+	provincepedia:femalepopulation "346958"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/12cce27c677ec285309fdf58a24d8c6f> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "342965"^^xsd:double ;
+	provincepedia:femalepopulation "347929"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e2fabdebc1c5289d4eea4056f2f62b90> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "343428"^^xsd:double ;
+	provincepedia:femalepopulation "348413"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/913729a854591fb1f2610b293a0a8437> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "342454"^^xsd:double ;
+	provincepedia:femalepopulation "347449"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a9f6499820935037464461ea3fe101f2> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "341370"^^xsd:double ;
+	provincepedia:femalepopulation "346375"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a409126dc1cdd73f56c5c6c6365cb681> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "339751"^^xsd:double ;
+	provincepedia:femalepopulation "344640"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c4daa99bc0b433fdf0531ad60fd02cfe> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/5> ;
+	provincepedia:malepopulation "337782"^^xsd:double ;
+	provincepedia:femalepopulation "342892"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d07fc490c937f27c9e8b398495e3364a> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "583269"^^xsd:double ;
+	provincepedia:femalepopulation "583334"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5d3d909da524487559e6b3df2801e2df> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "575304"^^xsd:double ;
+	provincepedia:femalepopulation "575631"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3f8e0f8b2c45f6f6f983110e90b48643> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "567545"^^xsd:double ;
+	provincepedia:femalepopulation "567982"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1233325d5eac336be6202fd4a57efa39> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "562541"^^xsd:double ;
+	provincepedia:femalepopulation "562431"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/515368e9d22a50d38383b69ad4e8d3e1> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "558631"^^xsd:double ;
+	provincepedia:femalepopulation "557211"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/bb3285ae57b0b11ffc6043e6e672b939> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "556558"^^xsd:double ;
+	provincepedia:femalepopulation "553557"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/473c0fa150977ca66acb12f3dc61de2e> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "552593"^^xsd:double ;
+	provincepedia:femalepopulation "548122"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/23be10c96c9103cd4085023b28960480> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "548586"^^xsd:double ;
+	provincepedia:femalepopulation "543069"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/111fd8c6cf6d9471a96ef4f6010aae0f> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "545138"^^xsd:double ;
+	provincepedia:femalepopulation "538545"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6135eaac274d61c407aecf88dae052e1> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "538640"^^xsd:double ;
+	provincepedia:femalepopulation "531524"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a158be0685a9ea70ac7c523ed29cff5d> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/6> ;
+	provincepedia:malepopulation "524023"^^xsd:double ;
+	provincepedia:femalepopulation "518832"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5dd48d078de8b4125eca7a8943a780af> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2672858"^^xsd:double ;
+	provincepedia:femalepopulation "2841530"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/84c2b59a68a6c9435afa4a17a64aaf22> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2655722"^^xsd:double ;
+	provincepedia:femalepopulation "2818659"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/509ee893565732d13d4c71567c389ff9> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2644747"^^xsd:double ;
+	provincepedia:femalepopulation "2801157"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ebeb1b3a78695f7b0c6eb59071038680> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2640940"^^xsd:double ;
+	provincepedia:femalepopulation "2791862"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/91a62fb0a4b182be79c9c0e765d316fc> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2651393"^^xsd:double ;
+	provincepedia:femalepopulation "2794224"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0633a445a394697ac9ea44b5fdf3833f> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2682871"^^xsd:double ;
+	provincepedia:femalepopulation "2810207"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7410fd6ab8db8ce5177959c4bfbd9bc5> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2703747"^^xsd:double ;
+	provincepedia:femalepopulation "2814529"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/19b1b6ddc38a7b43482cf6d0a5d2f253> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2705267"^^xsd:double ;
+	provincepedia:femalepopulation "2800400"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2bfb7b40086cec1821f9f8ba0c451cda> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2701883"^^xsd:double ;
+	provincepedia:femalepopulation "2786749"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fe947b352bd0a23ee1adb49659b66c70> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2694201"^^xsd:double ;
+	provincepedia:femalepopulation "2771640"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ea7f53f62326b65afae69d32d5433891> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/7> ;
+	provincepedia:malepopulation "2654433"^^xsd:double ;
+	provincepedia:femalepopulation "2733273"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b9e5ad1a73f070b546c72c19264e7c3c> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "545851"^^xsd:double ;
+	provincepedia:femalepopulation "589174"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8b5be3362957f5443b973ddc0bb916d9> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "545784"^^xsd:double ;
+	provincepedia:femalepopulation "588707"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/cdda69d226eed58c01f5a2d15be8b324> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "546309"^^xsd:double ;
+	provincepedia:femalepopulation "588061"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/47d20f199ea887c0f0c7c0670dc47dd9> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "547848"^^xsd:double ;
+	provincepedia:femalepopulation "589272"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e75a7f5e69c98ad56d44efab70d16861> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "549932"^^xsd:double ;
+	provincepedia:femalepopulation "590353"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3f2e0ad93fe7fbaa2fb949d0173be686> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "555108"^^xsd:double ;
+	provincepedia:femalepopulation "593763"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e740d353a882d473f0502b1055525672> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "559733"^^xsd:double ;
+	provincepedia:femalepopulation "595976"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/376d9cc373fc1bb006af8c2964ff72e9> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "560835"^^xsd:double ;
+	provincepedia:femalepopulation "595195"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3eb29ede06786fb6b17cef5e97edf732> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "561248"^^xsd:double ;
+	provincepedia:femalepopulation "594570"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7bc59f57c612c9fa3198d289874e8e04> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "561046"^^xsd:double ;
+	provincepedia:femalepopulation "593582"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/782749c4efee9b65dec355f363547ac8> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/47> ;
+	provincepedia:malepopulation "558221"^^xsd:double ;
+	provincepedia:femalepopulation "590863"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e492479f17aed2b814095ae05344f94f> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "178771"^^xsd:double ;
+	provincepedia:femalepopulation "177348"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/661f67f9d18b761913785e326290c7b0> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "179535"^^xsd:double ;
+	provincepedia:femalepopulation "178081"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4a606ede744ee0318d2fee7d117f84b1> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "180678"^^xsd:double ;
+	provincepedia:femalepopulation "179194"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/af27a9574389c90a4c848ea46c1ceac9> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "182446"^^xsd:double ;
+	provincepedia:femalepopulation "180466"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/18ba8eb1690bf8a77b6c6296789d7200> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "183820"^^xsd:double ;
+	provincepedia:femalepopulation "181475"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6251c1c649b285e7ade6c121e41136ef> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "185852"^^xsd:double ;
+	provincepedia:femalepopulation "182849"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/018f063d12be1d035b61b40de742880a> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "188155"^^xsd:double ;
+	provincepedia:femalepopulation "184035"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4a25a0544520e1c5e1e3d390076188c1> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "188923"^^xsd:double ;
+	provincepedia:femalepopulation "184329"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/40428ccadfe782f2aaafcfb15c6fb5e7> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "189545"^^xsd:double ;
+	provincepedia:femalepopulation "184460"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/245a93ebcd4ee6473adff8a832e5900d> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "190291"^^xsd:double ;
+	provincepedia:femalepopulation "184517"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2c9b1b1a6b6b21525688fa400f3f703b> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/8> ;
+	provincepedia:malepopulation "189006"^^xsd:double ;
+	provincepedia:femalepopulation "183555"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/cfa65137062b5724538b291f7e261e8e> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "197514"^^xsd:double ;
+	provincepedia:femalepopulation "198067"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f6f541e3c3c0171ecb1d18f64b6eb4fa> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "199259"^^xsd:double ;
+	provincepedia:femalepopulation "199774"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7c10ddc6320a7477f732e54a5709f520> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "201012"^^xsd:double ;
+	provincepedia:femalepopulation "201385"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/630e3b5197d08d687cb92446eb786a51> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "202564"^^xsd:double ;
+	provincepedia:femalepopulation "202967"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fe5d15a408400a2414cb737e0c471a7e> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "203763"^^xsd:double ;
+	provincepedia:femalepopulation "204012"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/59806375821f51139fc59c68a14c5837> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "204868"^^xsd:double ;
+	provincepedia:femalepopulation "205206"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d783d68c8ac46d7b2ba812799940d81c> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "206095"^^xsd:double ;
+	provincepedia:femalepopulation "206406"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/25d9dbf682e612e2eb43adc574837899> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "205858"^^xsd:double ;
+	provincepedia:femalepopulation "206539"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9c80af7d9f2f331a06a833bc859c4410> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "205231"^^xsd:double ;
+	provincepedia:femalepopulation "206629"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/cf95e3a65b9c4c39a0d2f5f6ac71771a> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "204175"^^xsd:double ;
+	provincepedia:femalepopulation "206125"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c544b818fe254c815601e50647865950> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/9> ;
+	provincepedia:malepopulation "203432"^^xsd:double ;
+	provincepedia:femalepopulation "205543"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b6de36c80716cba3e7c6ecf70f2b6046> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "620349"^^xsd:double ;
+	provincepedia:femalepopulation "628795"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e7ed18f9aec92100a09b335259a3af2f> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "620717"^^xsd:double ;
+	provincepedia:femalepopulation "628241"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1f3f1e9c21ac6e7b27afd19664c89978> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "620722"^^xsd:double ;
+	provincepedia:femalepopulation "627519"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f27cb8ec2f2d9d0030f9beadd91e3983> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "621089"^^xsd:double ;
+	provincepedia:femalepopulation "627495"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/cc84b2c9f0e400f77b4bcf429b17b5d1> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "620872"^^xsd:double ;
+	provincepedia:femalepopulation "626680"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/eea27cb14e2f57a2fa8aabf26887bdcf> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "621167"^^xsd:double ;
+	provincepedia:femalepopulation "626411"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8e8f811574da8479f7c3238aab2112c5> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "620463"^^xsd:double ;
+	provincepedia:femalepopulation "624899"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f9c027282f4f986421d381e3beb59fe1> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "617114"^^xsd:double ;
+	provincepedia:femalepopulation "621809"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0b21a8b4125d0bd3bb3412e6604375db> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "612381"^^xsd:double ;
+	provincepedia:femalepopulation "617463"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e28076ee7332c307472ab0d4451e0d05> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "607768"^^xsd:double ;
+	provincepedia:femalepopulation "613256"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/39efb26d826347717da87af84d21bcff> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/10> ;
+	provincepedia:malepopulation "601486"^^xsd:double ;
+	provincepedia:femalepopulation "607581"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2b2cd30c5a43dd8c8884dfcbcf0e882e> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "283648"^^xsd:double ;
+	provincepedia:femalepopulation "297755"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6af647261cfd0ae4c7d0cddaa3aecc50> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "283967"^^xsd:double ;
+	provincepedia:femalepopulation "297510"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/07ea2dffa58463426f3aac0f0eab70ca> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "284550"^^xsd:double ;
+	provincepedia:femalepopulation "297954"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f4a59281dc39253409ef0650139760c6> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "286204"^^xsd:double ;
+	provincepedia:femalepopulation "299154"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/74ea8161d18a38acf15401c62120a9f5> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "287479"^^xsd:double ;
+	provincepedia:femalepopulation "300203"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b702c5e75f73d23264902bebb6ed1734> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "288734"^^xsd:double ;
+	provincepedia:femalepopulation "301303"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/839bd71b2484c1dd4f58d555f29b776e> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "290133"^^xsd:double ;
+	provincepedia:femalepopulation "302254"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5c0730f0b395801391be4897985102db> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "289406"^^xsd:double ;
+	provincepedia:femalepopulation "301468"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f8b4f122a0efc7545075dc62b84d946f> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "288423"^^xsd:double ;
+	provincepedia:femalepopulation "300095"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d90d8a69bf8d15574b9d8605fa6db41e> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "286659"^^xsd:double ;
+	provincepedia:femalepopulation "297996"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/35391e41a2d2c880054bc6ba5b36f1b5> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/38> ;
+	provincepedia:malepopulation "282699"^^xsd:double ;
+	provincepedia:femalepopulation "294567"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2c138c08ba9ca4bf7bc8a05cb22a888f> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "282781"^^xsd:double ;
+	provincepedia:femalepopulation "286775"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2714e025484d3e87f5ecd0d02927ab12> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "283164"^^xsd:double ;
+	provincepedia:femalepopulation "287007"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5acb9e2ab65eb34efc7eb047a22db057> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "284025"^^xsd:double ;
+	provincepedia:femalepopulation "287199"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/76a811ad43995ba1f3e1b94aa6140f74> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "285919"^^xsd:double ;
+	provincepedia:femalepopulation "288540"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5350bbe6b8f188a8f9ca7ca8d95e4b37> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "288155"^^xsd:double ;
+	provincepedia:femalepopulation "290058"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/36ebe6b7e46ed33a0d59a8aa9587224e> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "292684"^^xsd:double ;
+	provincepedia:femalepopulation "293045"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e7146c3f6afb5eb217ff27d86195b8a5> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "297669"^^xsd:double ;
+	provincepedia:femalepopulation "296255"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2397f82b2d21bd0543e36d0c2db7c5e0> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "298888"^^xsd:double ;
+	provincepedia:femalepopulation "296685"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d1f6b48ed0f5b9a563ea2cef211a4b82> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "299597"^^xsd:double ;
+	provincepedia:femalepopulation "296256"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9601aef5d3063fe88d64e84faa40b138> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "299815"^^xsd:double ;
+	provincepedia:femalepopulation "294922"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/80ff084b4e5aec543ee56d8a5ab47c46> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/1> ;
+	provincepedia:malepopulation "296324"^^xsd:double ;
+	provincepedia:femalepopulation "291691"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8134c34f3560f99df6a1df2e19592b37> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "247057"^^xsd:double ;
+	provincepedia:femalepopulation "251671"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e1d2287dff6be806bcd029d269a2d04d> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "249888"^^xsd:double ;
+	provincepedia:femalepopulation "254229"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/90c880791b69d54e1cf4727f4e373417> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "252357"^^xsd:double ;
+	provincepedia:femalepopulation "256052"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c20b89ea41002cff18392984ea056334> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "255465"^^xsd:double ;
+	provincepedia:femalepopulation "258679"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e2b3111c351551aad6fae5a7e869b996> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "257584"^^xsd:double ;
+	provincepedia:femalepopulation "260468"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/438b1d383a3949ffd05cd1bd6ca2d16a> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "260177"^^xsd:double ;
+	provincepedia:femalepopulation "262572"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/46f84987277a359e60a408c79203ad2e> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "262148"^^xsd:double ;
+	provincepedia:femalepopulation "264134"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ab0ad8f9eaba9d9b10f202eb288cae77> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "262176"^^xsd:double ;
+	provincepedia:femalepopulation "263990"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/107567356833eb74cf26fb83731d324a> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "262138"^^xsd:double ;
+	provincepedia:femalepopulation "263321"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3ab411ca579c97ba9001bcd86d73b94a> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "261565"^^xsd:double ;
+	provincepedia:femalepopulation "262399"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/74fb4bb0956e42c9bdc627d151a2aa12> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/12> ;
+	provincepedia:malepopulation "259226"^^xsd:double ;
+	provincepedia:femalepopulation "260533"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e5bce6b796e017b689c936999da2a085> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "386169"^^xsd:double ;
+	provincepedia:femalepopulation "400294"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f5d7c68e303898e6eb77901df5e5a3db> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "387966"^^xsd:double ;
+	provincepedia:femalepopulation "402015"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e746476397d335a8f3a28b0c13704846> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "389187"^^xsd:double ;
+	provincepedia:femalepopulation "403225"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/78e6b7ad11cb0466e982fb2141ae5a5d> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "390844"^^xsd:double ;
+	provincepedia:femalepopulation "404860"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/561ddd5219f249b725fda19f9467176c> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "391933"^^xsd:double ;
+	provincepedia:femalepopulation "405837"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f4aa6063587b7b4b25e15e808552d9c4> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "393273"^^xsd:double ;
+	provincepedia:femalepopulation "407140"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/acca90d603659c50f545b5c6a6969db3> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "394505"^^xsd:double ;
+	provincepedia:femalepopulation "408212"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/86f38f7508644797e678cc25d52a5078> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "393972"^^xsd:double ;
+	provincepedia:femalepopulation "407820"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ad8c095336ef087adcd805e16411e062> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "392969"^^xsd:double ;
+	provincepedia:femalepopulation "406788"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/64505197a6fa2d8bb807f93b07e3f096> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "391921"^^xsd:double ;
+	provincepedia:femalepopulation "405407"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/766312f260c7ca45333b2eb3b52f1b5e> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/13> ;
+	provincepedia:malepopulation "389579"^^xsd:double ;
+	provincepedia:femalepopulation "403102"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9332c4a49d3489d45ee7bd635d35684f> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "538748"^^xsd:double ;
+	provincepedia:femalepopulation "582737"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/447c3d28c97e9ed07ee4880ed5222567> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "539055"^^xsd:double ;
+	provincepedia:femalepopulation "582691"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/13c71c31b54ecc00bdbd3f81189588d0> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "540529"^^xsd:double ;
+	provincepedia:femalepopulation "583586"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e4265914781e73675fe79c9a3bda6a1f> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "543023"^^xsd:double ;
+	provincepedia:femalepopulation "585671"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/562017ea1ab604c8d65d47d6fc3ff39b> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "545342"^^xsd:double ;
+	provincepedia:femalepopulation "587987"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4d24a8014db5f6d507f2a22f20e4af19> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "548031"^^xsd:double ;
+	provincepedia:femalepopulation "590463"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3183993b3d64887a995c4f07f9d4cfa5> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "549265"^^xsd:double ;
+	provincepedia:femalepopulation "591913"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c23a1070c3490eec1af565b9522c9897> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "548550"^^xsd:double ;
+	provincepedia:femalepopulation "591518"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0703957bc0d180a5fa75a788c0c39b51> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "547520"^^xsd:double ;
+	provincepedia:femalepopulation "590586"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/bf6c5b1a3215b7d531551e1372ec018c> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "545971"^^xsd:double ;
+	provincepedia:femalepopulation "589315"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ff850ab913125136da7fb6d8003a4f7a> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/14> ;
+	provincepedia:malepopulation "542390"^^xsd:double ;
+	provincepedia:femalepopulation "586209"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/91d935bbdef143f98c9fea11d2b6541b> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "101434"^^xsd:double ;
+	provincepedia:femalepopulation "99219"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b4c467da14de85bb4837504a18d51323> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "102229"^^xsd:double ;
+	provincepedia:femalepopulation "99808"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/726bdbb54df8bccbe6ce9e90f2200e43> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "103297"^^xsd:double ;
+	provincepedia:femalepopulation "100703"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/84117709ddfc53b6359fd0a3217bb4c2> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "104624"^^xsd:double ;
+	provincepedia:femalepopulation "101970"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5d3f7b8b28ad7227f03495eb1e835b9a> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "105685"^^xsd:double ;
+	provincepedia:femalepopulation "102977"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ed3322317902870fdfe91092e88a4e83> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "107374"^^xsd:double ;
+	provincepedia:femalepopulation "104422"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/76eda4335c8353cf99f761ca77768de2> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "108781"^^xsd:double ;
+	provincepedia:femalepopulation "105971"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/193e6b016512eeee6082fee4a1c0f569> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "109637"^^xsd:double ;
+	provincepedia:femalepopulation "106740"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b0cd1114a2875f207116afb6d8b08357> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "109938"^^xsd:double ;
+	provincepedia:femalepopulation "106671"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e144001e98dddebfe82b42b11b235cf7> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "109835"^^xsd:double ;
+	provincepedia:femalepopulation "106600"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f36387392533907462f51482145e8dd6> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/15> ;
+	provincepedia:malepopulation "108844"^^xsd:double ;
+	provincepedia:femalepopulation "106059"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0b2f454ec24fdedcad7298c1d8405ee9> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "345256"^^xsd:double ;
+	provincepedia:femalepopulation "365050"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/523840992565ed58570da708dd09cc99> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "344838"^^xsd:double ;
+	provincepedia:femalepopulation "364141"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/905272440bc2a421afcd7f97746d8eef> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "344813"^^xsd:double ;
+	provincepedia:femalepopulation "363079"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/23563df6091e8ef21ecbf4a727a2a408> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "344922"^^xsd:double ;
+	provincepedia:femalepopulation "362395"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4fbcc8ab4788979c26100282e321a323> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "345072"^^xsd:double ;
+	provincepedia:femalepopulation "361914"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/022cdea700fc9780b5a9df4e3be3c962> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "346232"^^xsd:double ;
+	provincepedia:femalepopulation "361975"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4bc477c18bd27b98f9487ddd8b8176f7> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "346871"^^xsd:double ;
+	provincepedia:femalepopulation "361550"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ae07ce50a86f42c896c48f3965f4a67b> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "346883"^^xsd:double ;
+	provincepedia:femalepopulation "360375"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/17961cf078374e9360516a8ab227dddc> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "347048"^^xsd:double ;
+	provincepedia:femalepopulation "358929"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ddf982bb174b7da06302a7e7c232cd15> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "346609"^^xsd:double ;
+	provincepedia:femalepopulation "357564"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/35d6d1d1ba874bba5dcc87cc9434d5a1> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/19> ;
+	provincepedia:malepopulation "344199"^^xsd:double ;
+	provincepedia:femalepopulation "355199"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d754571c9f81987c39456f6bca571ee3> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "373330"^^xsd:double ;
+	provincepedia:femalepopulation "376197"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/16045fc7479fc494d83d0e613df547a2> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "371571"^^xsd:double ;
+	provincepedia:femalepopulation "373673"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9823f5e63c11beb0fb07360c6bdac9c6> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "370201"^^xsd:double ;
+	provincepedia:femalepopulation "371407"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/17c0d32de4ff508d63c3cf32206b903d> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "370122"^^xsd:double ;
+	provincepedia:femalepopulation "370250"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a84bbacd9f0454724ee337650aa8859a> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "372332"^^xsd:double ;
+	provincepedia:femalepopulation "370792"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e1e150c4b244b3957e1d77f4c7713de9> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "376416"^^xsd:double ;
+	provincepedia:femalepopulation "372775"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/59b51833c9973cfc854c92fc3328b018> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "378879"^^xsd:double ;
+	provincepedia:femalepopulation "372721"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ebce08686adb3525568e893734d06347> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "377460"^^xsd:double ;
+	provincepedia:femalepopulation "369576"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/bc33c6b1f015560cfdc670f6a7b9ef79> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "375941"^^xsd:double ;
+	provincepedia:femalepopulation "365900"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/df31de259458f05adc12b8ce7720f12f> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "374151"^^xsd:double ;
+	provincepedia:femalepopulation "361705"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/511ed567317f5a2474c13b9d278f8328> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/16> ;
+	provincepedia:malepopulation "365976"^^xsd:double ;
+	provincepedia:femalepopulation "353771"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/69151ed5a796d7acaaf81865b3d60b62> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "454404"^^xsd:double ;
+	provincepedia:femalepopulation "462972"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/49b6d17652ca870494550a5b1a3f9a63> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "454440"^^xsd:double ;
+	provincepedia:femalepopulation "462599"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0a56ec8f96181575327b0baa305ff544> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "454723"^^xsd:double ;
+	provincepedia:femalepopulation "462771"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/499d0cba0ffb8ce4562ffc217338e452> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "455501"^^xsd:double ;
+	provincepedia:femalepopulation "463638"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/acd5211901a1f20304a2dc2cb416f725> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "456567"^^xsd:double ;
+	provincepedia:femalepopulation "463917"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4e9704f1100118afcd4e9793e1b4630b> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "457787"^^xsd:double ;
+	provincepedia:femalepopulation "464350"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d6f055c06c752cd080035d1f2914f32f> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "458053"^^xsd:double ;
+	provincepedia:femalepopulation "464408"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/611aa7a1df23ba571cb02d8639fa1b16> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "456366"^^xsd:double ;
+	provincepedia:femalepopulation "463518"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/997cfce1ad831f0a5fbd272a6c63ccf9> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "453709"^^xsd:double ;
+	provincepedia:femalepopulation "461608"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5208473dde62905a6040fdca21fe2ddb> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "450462"^^xsd:double ;
+	provincepedia:femalepopulation "458650"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3a21ba8ca7ce76d7a27ee53c0b966df9> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/17> ;
+	provincepedia:malepopulation "445339"^^xsd:double ;
+	provincepedia:femalepopulation "454921"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/10cb5cdac57f0bdc611a9c515218cb3a> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "130028"^^xsd:double ;
+	provincepedia:femalepopulation "126109"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b0a44286b698402795afc5453bbeab16> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "129659"^^xsd:double ;
+	provincepedia:femalepopulation "125673"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c855f26732ea0e86fda6157f4aca2fcc> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "129294"^^xsd:double ;
+	provincepedia:femalepopulation "124986"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7381f0204d397e09fb1ec4ba6f200fc2> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "129641"^^xsd:double ;
+	provincepedia:femalepopulation "124917"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7224a6834b33ae346776ab9aa2438494> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "130218"^^xsd:double ;
+	provincepedia:femalepopulation "125021"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/55332d2c716e4b0c96ba9d01daf82e97> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "131548"^^xsd:double ;
+	provincepedia:femalepopulation "125552"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/12f11e1e8965ab48dc8c2b6a0fb2f7b3> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "132200"^^xsd:double ;
+	provincepedia:femalepopulation "125531"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d367bc308564efb1fdb3638dbc5ac1ad> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "130678"^^xsd:double ;
+	provincepedia:femalepopulation "123978"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d2055ddf6a24c159d06aaeba5d5d732d> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "128818"^^xsd:double ;
+	provincepedia:femalepopulation "121713"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3a8cc544f34529118b6e8a3356871d18> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "126298"^^xsd:double ;
+	provincepedia:femalepopulation "119106"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0026dfa5743f5b98986a4c7ccc7446fc> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/18> ;
+	provincepedia:malepopulation "122069"^^xsd:double ;
+	provincepedia:femalepopulation "115293"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c804419f49bdf68b0b5034d9dadd8b7b> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "258236"^^xsd:double ;
+	provincepedia:femalepopulation "264216"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fe57adb65b0744e5330ab5dbc700b3ef> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "258028"^^xsd:double ;
+	provincepedia:femalepopulation "263082"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/05b1b172da6f48a100e7899c34e716f8> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "258263"^^xsd:double ;
+	provincepedia:femalepopulation "263386"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2c984ca18748a8d6bfd4ce9b5cc1d1f8> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "258545"^^xsd:double ;
+	provincepedia:femalepopulation "263591"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/90006303201a346d5d85739d2e66f41e> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "258389"^^xsd:double ;
+	provincepedia:femalepopulation "263039"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/072297cacfc8ee40f40f2d50dd0b840f> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "258390"^^xsd:double ;
+	provincepedia:femalepopulation "262558"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/36e3df954d5bab675d34b10fb33ec38a> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "257850"^^xsd:double ;
+	provincepedia:femalepopulation "262130"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fe722ea9979a6974fe6c63d66314dd3a> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "257222"^^xsd:double ;
+	provincepedia:femalepopulation "260668"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/65d469f7be1dfdbe564aac154b398160> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "255966"^^xsd:double ;
+	provincepedia:femalepopulation "258664"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/eff749f0466a3dd1e558eb0b239d0447> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "253562"^^xsd:double ;
+	provincepedia:femalepopulation "256716"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6dfe0c9dcf7f881f8ed68ba53715c668> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/20> ;
+	provincepedia:malepopulation "250758"^^xsd:double ;
+	provincepedia:femalepopulation "254278"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4874f59d7e6037c99a02344ddd5b3072> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "110685"^^xsd:double ;
+	provincepedia:femalepopulation "108546"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f62677bed19212fb8a159dc71049f76b> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "111012"^^xsd:double ;
+	provincepedia:femalepopulation "108658"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/41f93a89f69a294d931b63a751223090> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "111516"^^xsd:double ;
+	provincepedia:femalepopulation "109072"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3e40cece35bd0731375affac5efb8a1b> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "112377"^^xsd:double ;
+	provincepedia:femalepopulation "109707"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fc76b66c66d82a5a000609312d76244c> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "113182"^^xsd:double ;
+	provincepedia:femalepopulation "110176"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5f66e32ff7c846bfc82f07121845b404> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "114046"^^xsd:double ;
+	provincepedia:femalepopulation "110642"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/753728f60b52a6bb44eadefb4ccdf36b> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "114693"^^xsd:double ;
+	provincepedia:femalepopulation "111128"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7bc4ace1d09158cb169ba42a292e7df9> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "115394"^^xsd:double ;
+	provincepedia:femalepopulation "111202"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/eb30534e7991769bfd6cd05f2a65db00> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "115612"^^xsd:double ;
+	provincepedia:femalepopulation "111178"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3562210002a257c47d335e08d6a0bfd8> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "115685"^^xsd:double ;
+	provincepedia:femalepopulation "111083"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0695f900de9045fc1e8958bd9db925db> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/21> ;
+	provincepedia:malepopulation "114309"^^xsd:double ;
+	provincepedia:femalepopulation "110098"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d5dc3a948457b03ec671a70312112cb4> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "315910"^^xsd:double ;
+	provincepedia:femalepopulation "320705"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/12490672181eb1a550bfe785175ccc22> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "318789"^^xsd:double ;
+	provincepedia:femalepopulation "323027"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8735934fa61446388936421af7149981> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "321155"^^xsd:double ;
+	provincepedia:femalepopulation "325345"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/edf97a0d7618d6fc81b414669aa40d52> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "324051"^^xsd:double ;
+	provincepedia:femalepopulation "328081"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/467b752aacb86d3c9cc28519c3c7ae44> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "326158"^^xsd:double ;
+	provincepedia:femalepopulation "329973"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/eee76301cf5a172b19b3f29080a1fd58> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "329913"^^xsd:double ;
+	provincepedia:femalepopulation "331803"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b4679bb868a119994478034b87d97354> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "333760"^^xsd:double ;
+	provincepedia:femalepopulation "333500"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/edc8ae5b9fd0a78b4b85f85ccc3d2dbc> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "332956"^^xsd:double ;
+	provincepedia:femalepopulation "334104"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b6a757138bf0fb208116333669f9a495> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "331841"^^xsd:double ;
+	provincepedia:femalepopulation "334521"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3140c39751278e565a330f02c64a62b4> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "331044"^^xsd:double ;
+	provincepedia:femalepopulation "334157"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/635bdf30a0501c6f380bc6a38d628de5> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/22> ;
+	provincepedia:malepopulation "330002"^^xsd:double ;
+	provincepedia:femalepopulation "333526"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/699dd1e8a1e6ab87e12292082a0915f0> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "227127"^^xsd:double ;
+	provincepedia:femalepopulation "238903"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a8b177d95e8c40cb4943392e7ca7228d> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "229440"^^xsd:double ;
+	provincepedia:femalepopulation "240886"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9ce6c52a4ca3f93128bfbf5d8f066952> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "231782"^^xsd:double ;
+	provincepedia:femalepopulation "243114"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/687f9c17207b7f81d91d6c7d17b80078> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "234533"^^xsd:double ;
+	provincepedia:femalepopulation "245798"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/493063130ac90a6ff2f4af73ecce8f9e> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "236768"^^xsd:double ;
+	provincepedia:femalepopulation "247764"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b4ff5f9223c1bf5fba93b76903176266> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "239125"^^xsd:double ;
+	provincepedia:femalepopulation "250113"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/334cdc69718a253254105fd00c6a25c3> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "241096"^^xsd:double ;
+	provincepedia:femalepopulation "251727"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3ff8352855d58c78f9cebf7b0b6dd3fc> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "241709"^^xsd:double ;
+	provincepedia:femalepopulation "252501"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/35e096d0c2ff18e73da2627a7c0fdb9e> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "242090"^^xsd:double ;
+	provincepedia:femalepopulation "252733"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3961b4ff6e8a12ed6722a507c25b9857> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "242204"^^xsd:double ;
+	provincepedia:femalepopulation "252837"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8081d2867ccd01d2dca3e66a15876558> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/23> ;
+	provincepedia:malepopulation "241497"^^xsd:double ;
+	provincepedia:femalepopulation "252441"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b0097062ef61d4f79d4d0c7720a4ae67> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "217187"^^xsd:double ;
+	provincepedia:femalepopulation "212090"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/301fc63906b4ebc427cf32aeb16063db> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "216996"^^xsd:double ;
+	provincepedia:femalepopulation "211897"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/244ff9d4fa95dcc8d7e59d2dfaf5b2c4> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "217180"^^xsd:double ;
+	provincepedia:femalepopulation "211928"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4ae3d808f306543c702c696e94ad8022> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "217796"^^xsd:double ;
+	provincepedia:femalepopulation "212864"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/af89060e928ce20be61a88b061782407> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "218835"^^xsd:double ;
+	provincepedia:femalepopulation "213334"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a1cb2e849f067b0221851ca1f4aec06a> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "221301"^^xsd:double ;
+	provincepedia:femalepopulation "214546"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9a842bb473b64944b6e5f8678b10eb9b> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "223077"^^xsd:double ;
+	provincepedia:femalepopulation "215135"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5ee6a00c5c88730390900c24b560e89a> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "222425"^^xsd:double ;
+	provincepedia:femalepopulation "214264"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c8054dc508a9d14c71d60e1ce582ea26> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "221356"^^xsd:double ;
+	provincepedia:femalepopulation "212822"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6e53b6e2ee6de3ba3608fdea1f6c93cd> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "220203"^^xsd:double ;
+	provincepedia:femalepopulation "211206"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0e7944fa9347c62a7800c2c9243fce20> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/24> ;
+	provincepedia:malepopulation "215983"^^xsd:double ;
+	provincepedia:femalepopulation "207501"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1293ff867a0abaa8d47810504e2db310> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "161041"^^xsd:double ;
+	provincepedia:femalepopulation "170466"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d8c8a36d2efd83c66288a1ff04ab3443> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "162070"^^xsd:double ;
+	provincepedia:femalepopulation "171523"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/dab6c4ff25884954f711f583ceed9733> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "163297"^^xsd:double ;
+	provincepedia:femalepopulation "172839"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e6d75a75b6543b1c480f5f43983dc3c1> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "164645"^^xsd:double ;
+	provincepedia:femalepopulation "174275"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f7cd9313cbd2190ad7aae1fb3a141aa9> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "166048"^^xsd:double ;
+	provincepedia:femalepopulation "175774"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/769f7e51d7dcdea3a99ea262e2fb31db> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "167629"^^xsd:double ;
+	provincepedia:femalepopulation "177217"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/935b0f31c5d08a7be724ece1974fe38a> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "169176"^^xsd:double ;
+	provincepedia:femalepopulation "178452"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/77f405168d5bc568211b0c4cd60b1be0> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "170058"^^xsd:double ;
+	provincepedia:femalepopulation "179467"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a06aedd7ad8bdea481fa7a3cddd03c66> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "170859"^^xsd:double ;
+	provincepedia:femalepopulation "180141"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e4c577bc7171154fd5ab69f788dd311f> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "171514"^^xsd:double ;
+	provincepedia:femalepopulation "180808"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/683b34fb8762610bbea91b03859a66a1> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/26> ;
+	provincepedia:malepopulation "171339"^^xsd:double ;
+	provincepedia:femalepopulation "181294"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7a3b9b3cffe7fc3d0ea9d8d05da7095e> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3142095"^^xsd:double ;
+	provincepedia:femalepopulation "3407885"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/bcfd8f5bf7c66525fd74773008eaca76> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3108811"^^xsd:double ;
+	provincepedia:femalepopulation "3367894"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ea400f57bfec4a58964f8a503945a407> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3084747"^^xsd:double ;
+	provincepedia:femalepopulation "3339528"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e3a8374349393e6eb788a89dc1ad3bde> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3066776"^^xsd:double ;
+	provincepedia:femalepopulation "3318521"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fa80e481eff544129ffdcb4e99e55ae0> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3065576"^^xsd:double ;
+	provincepedia:femalepopulation "3312721"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e26c58c07ddaaf52e151517979881d09> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3086686"^^xsd:double ;
+	provincepedia:femalepopulation "3328023"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2c87dcb1cc5f03304de5176bf9cae0a9> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3097459"^^xsd:double ;
+	provincepedia:femalepopulation "3328114"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f2cca312f22346c6cf9ad0922417848a> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3087772"^^xsd:double ;
+	provincepedia:femalepopulation "3306467"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0399ca95404873508233391b2d5d63b9> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3082941"^^xsd:double ;
+	provincepedia:femalepopulation "3290591"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6a8f39f6103b55448bdf4ec6a763b561> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3066114"^^xsd:double ;
+	provincepedia:femalepopulation "3261480"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3915668c44f7a10702d2ae716309b1c9> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/27> ;
+	provincepedia:malepopulation "3018293"^^xsd:double ;
+	provincepedia:femalepopulation "3207902"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1cc22d5c3801139370390c60276ef49c> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "812077"^^xsd:double ;
+	provincepedia:femalepopulation "839547"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d95bd97bb83f80e3320678f978d76100> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "810480"^^xsd:double ;
+	provincepedia:femalepopulation "836233"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a383dd843792b9d777d19f9df505a3b2> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "808326"^^xsd:double ;
+	provincepedia:femalepopulation "832246"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f310ccc856534a9e014b59b0e97116f3> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "804149"^^xsd:double ;
+	provincepedia:femalepopulation "827209"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1b6d140eb007e03403a369d6db38c3bd> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "798860"^^xsd:double ;
+	provincepedia:femalepopulation "820853"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/961387c16136c7e283beaf65a225b449> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "795377"^^xsd:double ;
+	provincepedia:femalepopulation "816606"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a51b79853d4edcdfa8d52e5602d18e9a> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "789052"^^xsd:double ;
+	provincepedia:femalepopulation "809085"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3f416e86061f058895adc5560ea9e8c7> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "780751"^^xsd:double ;
+	provincepedia:femalepopulation "800593"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/eaa92ce6ff42cf092e4cb13a9ab3c8e1> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "773689"^^xsd:double ;
+	provincepedia:femalepopulation "792977"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e1f7bd93458c52d03429b6f5f1deb99a> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "767748"^^xsd:double ;
+	provincepedia:femalepopulation "785146"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2d0e4acec56dd93fc460736cb478ab27> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/28> ;
+	provincepedia:malepopulation "756298"^^xsd:double ;
+	provincepedia:femalepopulation "772705"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9051042b1cae006712745f248123880b> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "738589"^^xsd:double ;
+	provincepedia:femalepopulation "736979"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/95bd3d2361ffda44195b0cdced0d8320> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "737984"^^xsd:double ;
+	provincepedia:femalepopulation "734993"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3c9238bc3cc17e394598856bcb9b08ae> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "735108"^^xsd:double ;
+	provincepedia:femalepopulation "731366"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/27dd73f8e52e1a52573521e9c4c9fabd> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "734269"^^xsd:double ;
+	provincepedia:femalepopulation "729505"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e75e40fb00ea08c963faf07e6750ac2b> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "734055"^^xsd:double ;
+	provincepedia:femalepopulation "727749"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a92b06b390d5cae28bce7a315f57ca70> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "735550"^^xsd:double ;
+	provincepedia:femalepopulation "726437"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ae2970788e6c9283aeb6e742e0f81c1e> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "737239"^^xsd:double ;
+	provincepedia:femalepopulation "724690"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ecbda6ff4dd5d2408d08c0a5f7534927> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "737295"^^xsd:double ;
+	provincepedia:femalepopulation "721782"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/86f017a9cedb151cd6e9866137bd3e9f> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "735569"^^xsd:double ;
+	provincepedia:femalepopulation "717976"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5dcc7a1f4d90406e352928080f2dad3a> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "730477"^^xsd:double ;
+	provincepedia:femalepopulation "711306"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9eae4f6820ef90c1b189cb83fee3b790> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/29> ;
+	provincepedia:malepopulation "719696"^^xsd:double ;
+	provincepedia:femalepopulation "699872"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4d0cec867819ac6ed50c11b3ad9ae7a2> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "318331"^^xsd:double ;
+	provincepedia:femalepopulation "325534"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/50a118e78577ee002153f5501b08370f> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "316990"^^xsd:double ;
+	provincepedia:femalepopulation "323346"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1221d7310d3b94a0cd08ca00fa68816b> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "315938"^^xsd:double ;
+	provincepedia:femalepopulation "321547"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/bed385c23f67e1efee37286d377d0efb> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "315570"^^xsd:double ;
+	provincepedia:femalepopulation "320832"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/66a4060b34b16b452b49ffc8e8953035> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "315935"^^xsd:double ;
+	provincepedia:femalepopulation "320515"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1761098737cc87d33e7ab41259c8fefe> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "317845"^^xsd:double ;
+	provincepedia:femalepopulation "321104"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/eb7f9c5c5a7365b7748b1933ac00231c> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "319090"^^xsd:double ;
+	provincepedia:femalepopulation "320933"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/68a019d82065f2892b2e4b09187e35d0> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "318116"^^xsd:double ;
+	provincepedia:femalepopulation "318983"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4ebf442c91bac068e8d41cd1b6f9f2cc> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "316529"^^xsd:double ;
+	provincepedia:femalepopulation "316488"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b17d998e6aa8b0ea2b56fe6e2bdf12b7> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "314005"^^xsd:double ;
+	provincepedia:femalepopulation "313271"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e1169ca7f4f45ef91cee87ee46043db0> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/30> ;
+	provincepedia:malepopulation "308495"^^xsd:double ;
+	provincepedia:femalepopulation "308216"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6949fe57cbce93dfec4c20b1d1fb835c> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "149230"^^xsd:double ;
+	provincepedia:femalepopulation "160142"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/db5aab80b35ef944b6c52e86f53fcac9> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "150326"^^xsd:double ;
+	provincepedia:femalepopulation "161236"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/72c38469b443dcd14b3a2c8a954e11de> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "151777"^^xsd:double ;
+	provincepedia:femalepopulation "162886"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2d093e91907b4017957d8442365ac01c> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "153836"^^xsd:double ;
+	provincepedia:femalepopulation "164903"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4adac14b633f0c55f1d3c693231df264> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "155401"^^xsd:double ;
+	provincepedia:femalepopulation "166400"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/500ac907c242829e5872bd743c47c018> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "157223"^^xsd:double ;
+	provincepedia:femalepopulation "168166"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8218d04877abc3a6c3bc0d71a46b4f6a> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "158517"^^xsd:double ;
+	provincepedia:femalepopulation "169670"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0fbd3b56de5a5968a7bb1e7b541f4185> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "159302"^^xsd:double ;
+	provincepedia:femalepopulation "170717"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/24e590274079cb574c81e7b75f4bb25c> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "159842"^^xsd:double ;
+	provincepedia:femalepopulation "171807"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d25afd40da544eea6717a4f67733fe05> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "159955"^^xsd:double ;
+	provincepedia:femalepopulation "172207"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2cd01c25d7bb65a46c40a658134b2a6c> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/31> ;
+	provincepedia:malepopulation "160080"^^xsd:double ;
+	provincepedia:femalepopulation "172728"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3df0bfe276d6ad6c2598449e556e6c94> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "80264"^^xsd:double ;
+	provincepedia:femalepopulation "81556"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7d41e980aa6c9c234ff265a634b641fb> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "80784"^^xsd:double ;
+	provincepedia:femalepopulation "82223"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a093b2a836132ddbd1616de7acabac4f> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "81447"^^xsd:double ;
+	provincepedia:femalepopulation "82801"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/375a5e19661bb8af223d0264fa3bd88b> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "82115"^^xsd:double ;
+	provincepedia:femalepopulation "83691"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/40ba6ce9908218ddd44d6b3ed0de6d20> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "82849"^^xsd:double ;
+	provincepedia:femalepopulation "84452"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b65eac96a2e7ed6afc6b462e93dba99e> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "83608"^^xsd:double ;
+	provincepedia:femalepopulation "85141"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/30f3a39042a102a412cf62c96ffd0aea> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "84416"^^xsd:double ;
+	provincepedia:femalepopulation "85885"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/af6660ae740ad69dd57a7eb05e98b8b6> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "84933"^^xsd:double ;
+	provincepedia:femalepopulation "86372"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7e311ab95ac79f14f9095cee4363ec7d> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "85206"^^xsd:double ;
+	provincepedia:femalepopulation "86688"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/55ac9d8c616a89d068089f1c3bda4299> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "85561"^^xsd:double ;
+	provincepedia:femalepopulation "87104"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0149dc86b200615ae748cdecd44ca647> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/33> ;
+	provincepedia:malepopulation "85454"^^xsd:double ;
+	provincepedia:femalepopulation "87255"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fc7880099e948eaf69f3228298e261e6> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "561545"^^xsd:double ;
+	provincepedia:femalepopulation "565408"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/226d40643e454190763f3f309e37daeb> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "558346"^^xsd:double ;
+	provincepedia:femalepopulation "560804"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0cba441f5b6ebc7420e3f1e691104807> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "554726"^^xsd:double ;
+	provincepedia:femalepopulation "556158"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b7a29ebfb19e9ed60f3e43996d5090e7> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "552997"^^xsd:double ;
+	provincepedia:femalepopulation "553239"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b9f8ccae9d3df0960c04c621c228edbc> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "550595"^^xsd:double ;
+	provincepedia:femalepopulation "550119"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d761b824f4d97900b91ed8254c74befa> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "550174"^^xsd:double ;
+	provincepedia:femalepopulation "548062"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/510a60a4d98e3f00e2eaeed94c06fc05> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "546215"^^xsd:double ;
+	provincepedia:femalepopulation "542836"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4aa4a451c9f5f07ca646fd00b924ae17> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "540825"^^xsd:double ;
+	provincepedia:femalepopulation "536262"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/baa3c7e3e1122f1ed6ee0da23af3359d> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "535870"^^xsd:double ;
+	provincepedia:femalepopulation "530621"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b4b0edf570e0e702afede28afd2240b8> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "531385"^^xsd:double ;
+	provincepedia:femalepopulation "524976"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4082c65fa5e2061ae9b7e43c3b9e6bba> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/34> ;
+	provincepedia:malepopulation "523693"^^xsd:double ;
+	provincepedia:femalepopulation "516417"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/52a11c06f4cee5ff483b2c44f0c42c3d> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "456461"^^xsd:double ;
+	provincepedia:femalepopulation "484466"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1319b495d6162112a1897c5e0f190622> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "457996"^^xsd:double ;
+	provincepedia:femalepopulation "485232"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/451201aeb34c7cceb4e9dc0b41d808ec> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "459032"^^xsd:double ;
+	provincepedia:femalepopulation "486156"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4b78a2b5d7bc8de03115643ede6e04a7> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "460510"^^xsd:double ;
+	provincepedia:femalepopulation "487792"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f29b663e7982e75f6d1276d8f820a714> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "461581"^^xsd:double ;
+	provincepedia:femalepopulation "488692"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/db852589116d107442bf0ffe3b8ac8e0> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "463081"^^xsd:double ;
+	provincepedia:femalepopulation "490160"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e41f50b2433f9c88233ef8fa6c3b846d> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "463897"^^xsd:double ;
+	provincepedia:femalepopulation "491025"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8b8730df46c63b964e2fa60d02780948> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "462901"^^xsd:double ;
+	provincepedia:femalepopulation "490902"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e09500d338b986ed570f935329a53f5a> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "461396"^^xsd:double ;
+	provincepedia:femalepopulation "490305"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9b89be1ce7747912acb313c32dee8d3d> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "458840"^^xsd:double ;
+	provincepedia:femalepopulation "488863"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e41a8bf654ed60f977769b50760fb57e> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/35> ;
+	provincepedia:malepopulation "454896"^^xsd:double ;
+	provincepedia:femalepopulation "485831"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/64a3da78d4639f3934688a213f46dc7f> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "154388"^^xsd:double ;
+	provincepedia:femalepopulation "158442"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/71e3e61f72446662b0d8a9b33af06b89> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "154288"^^xsd:double ;
+	provincepedia:femalepopulation "158330"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1053db80056d7fba6fa5dfee92436c83> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "154516"^^xsd:double ;
+	provincepedia:femalepopulation "158294"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d6173f3e2be98d8f8bfb3b344f6363ad> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "155021"^^xsd:double ;
+	provincepedia:femalepopulation "158548"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d6b30b6569a9a607dc1436c9b06054f7> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "156245"^^xsd:double ;
+	provincepedia:femalepopulation "158979"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d079771ff2e4088bdd86c087bf27b940> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "158540"^^xsd:double ;
+	provincepedia:femalepopulation "160099"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/19809712ee62f7ce635675c7ee7c0545> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "160318"^^xsd:double ;
+	provincepedia:femalepopulation "160633"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8ef3b035820630a87eb7596ebff3ff48> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "160694"^^xsd:double ;
+	provincepedia:femalepopulation "160156"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a3027ef57033b771c70f0eb1609aaf15> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "160628"^^xsd:double ;
+	provincepedia:femalepopulation "159311"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5ce3de510db5390e34801856f1fce71e> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "161177"^^xsd:double ;
+	provincepedia:femalepopulation "158608"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8a2f499af21eec3af03d2af3e5774277> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/25> ;
+	provincepedia:malepopulation "159651"^^xsd:double ;
+	provincepedia:femalepopulation "156541"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0316ecc32c00e6347cb27c2b1bb1e654> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "162601"^^xsd:double ;
+	provincepedia:femalepopulation "171114"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e89f3c67ced0f1217b98059cb09cdb50> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "163922"^^xsd:double ;
+	provincepedia:femalepopulation "172165"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/dbe453aa584d33a5d7d9f9aef22ba738> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "165197"^^xsd:double ;
+	provincepedia:femalepopulation "173356"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/777f9a2dc1fa0e3bd5f00601ef2d2734> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "167027"^^xsd:double ;
+	provincepedia:femalepopulation "174974"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ab5a9f9a1b4407045ed951bac662d6ca> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "168350"^^xsd:double ;
+	provincepedia:femalepopulation "176046"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2b56f5c7dae3194729cd2635c0cbe77e> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "170004"^^xsd:double ;
+	provincepedia:femalepopulation "177245"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2482023b9199f1196f8f7aadaa4f26a0> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "171226"^^xsd:double ;
+	provincepedia:femalepopulation "178399"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f73c2c76a0ff36b9de0eff572b37b49c> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "171696"^^xsd:double ;
+	provincepedia:femalepopulation "179123"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ffa95b1e886aa994b885bfad693fd701> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "171672"^^xsd:double ;
+	provincepedia:femalepopulation "179229"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d9cabb170de79d4277e6c749a9e3742b> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "171712"^^xsd:double ;
+	provincepedia:femalepopulation "179306"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/68095784750cf1f4a410dd0a39c82713> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/36> ;
+	provincepedia:malepopulation "170852"^^xsd:double ;
+	provincepedia:femalepopulation "178991"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/783e4597c16bdb71c4936c4c1671eebd> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "519098"^^xsd:double ;
+	provincepedia:femalepopulation "531104"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4a35eb2f9eaca4eca717320af4fe310d> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "512269"^^xsd:double ;
+	provincepedia:femalepopulation "523505"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/303cecd3a4aca7086e358ba7432e1cf7> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "506765"^^xsd:double ;
+	provincepedia:femalepopulation "517560"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1a1c4d7674d2dd260cf737c8e53f14a5> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "505028"^^xsd:double ;
+	provincepedia:femalepopulation "514879"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/72dfb5f054f721dfc0bb76714423f9d6> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "502554"^^xsd:double ;
+	provincepedia:femalepopulation "511577"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9e31915fd32c4a399e293e47bf4f53a9> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "499442"^^xsd:double ;
+	provincepedia:femalepopulation "507555"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/33b46d01b27aa353d5058106d39071f4> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "494731"^^xsd:double ;
+	provincepedia:femalepopulation "502146"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ece5d2edbf93848e0a8834bf16fae4c9> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "490419"^^xsd:double ;
+	provincepedia:femalepopulation "497370"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fd4f3dd7c66e744c072a3c48bf3e3eb1> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "486127"^^xsd:double ;
+	provincepedia:femalepopulation "492550"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6675f59a8e0d71511f3b1fadee6c97d5> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "481536"^^xsd:double ;
+	provincepedia:femalepopulation "487589"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/474f55c697741deb21907d755b3e0049> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/37> ;
+	provincepedia:malepopulation "473053"^^xsd:double ;
+	provincepedia:femalepopulation "478783"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b13b57c93aa09536490f30a89d645072> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "77837"^^xsd:double ;
+	provincepedia:femalepopulation "76571"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3134d031d665d445006833ed1577753b> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "78373"^^xsd:double ;
+	provincepedia:femalepopulation "76934"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e4c3ce9261e5c5bdf1b2c491449d99c5> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "79007"^^xsd:double ;
+	provincepedia:femalepopulation "77352"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e6f2b280e20cd9fdd2b908c53bf2ddce> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "79900"^^xsd:double ;
+	provincepedia:femalepopulation "78038"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f2a2806fc39373d8692a9bdda1d499d4> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "80513"^^xsd:double ;
+	provincepedia:femalepopulation "78615"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/846674ce267c0c1de33300c67bc45ee8> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "81659"^^xsd:double ;
+	provincepedia:femalepopulation "79715"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/737a166977a12655884065efdd1a350c> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "82478"^^xsd:double ;
+	provincepedia:femalepopulation "80458"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0e3cac4c971b7a7d0e9983ff64dd8fa3> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "82768"^^xsd:double ;
+	provincepedia:femalepopulation "80655"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2bba277711c9f2a3b7fe67ec8e28eb1d> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "82643"^^xsd:double ;
+	provincepedia:femalepopulation "80532"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5030c96697bc895e257119cc8b478b1e> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "82994"^^xsd:double ;
+	provincepedia:femalepopulation "80380"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2fc6e82aaefb4b7fd18592c215931d8e> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/39> ;
+	provincepedia:malepopulation "82881"^^xsd:double ;
+	provincepedia:femalepopulation "80210"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e41662c700d60c2e11b060000a738d6e> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "952037"^^xsd:double ;
+	provincepedia:femalepopulation "992854"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5c16ffeb16fd57ef3c70465246dcf80c> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "951479"^^xsd:double ;
+	provincepedia:femalepopulation "991687"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ad30535928c8ebad7d87cdc20b2cb201> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "950670"^^xsd:double ;
+	provincepedia:femalepopulation "990051"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/31b5b767fdfba541ba1c79132aeda8c8> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "950101"^^xsd:double ;
+	provincepedia:femalepopulation "989311"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e6636088594b0a7cf0b2df85771a8f2b> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "949097"^^xsd:double ;
+	provincepedia:femalepopulation "987811"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4bd56bc4c0ff89de899ad9b6a8b28f94> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "949258"^^xsd:double ;
+	provincepedia:femalepopulation "987445"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/285c17cc8c47bb5ed73ce85fcd3cd5c8> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "947826"^^xsd:double ;
+	provincepedia:femalepopulation "984746"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f3aa4dd2c377283e93c2dfdcbd04b16f> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "941421"^^xsd:double ;
+	provincepedia:femalepopulation "977326"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f85f1538a5ab3075d1818d640032b2b9> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "934053"^^xsd:double ;
+	provincepedia:femalepopulation "968903"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f93cfc819fa9672d5d5d0f16a9814391> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "925297"^^xsd:double ;
+	provincepedia:femalepopulation "958809"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7fdeff96ee4e7bdd4dd97669b83ada2c> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/40> ;
+	provincepedia:malepopulation "912976"^^xsd:double ;
+	provincepedia:femalepopulation "946579"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/cff4f9e6abbc270cd9652ee679c7de2b> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "45547"^^xsd:double ;
+	provincepedia:femalepopulation "44205"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/16f42bc674b157e63a78a75a5b449c90> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "45693"^^xsd:double ;
+	provincepedia:femalepopulation "44317"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4cb33f0ae2ca5e4ca65285821ad94ecb> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "46077"^^xsd:double ;
+	provincepedia:femalepopulation "44668"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/be69f124f22e0bb017d0ce33590b8734> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "46570"^^xsd:double ;
+	provincepedia:femalepopulation "45211"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/536fb05a84460401f1f32261410c1b51> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "46985"^^xsd:double ;
+	provincepedia:femalepopulation "45645"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e65f7c1212cf293dfd9042c72da5b1f2> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "47520"^^xsd:double ;
+	provincepedia:femalepopulation "46055"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f32f8883a87958b823310350d9f21a76> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "47977"^^xsd:double ;
+	provincepedia:femalepopulation "46486"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ec74b258a265cb4e3ec7559394074fd2> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "48202"^^xsd:double ;
+	provincepedia:femalepopulation "46696"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/305df2753b409968114d030451cfc929> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "48281"^^xsd:double ;
+	provincepedia:femalepopulation "46706"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/490c37b4b5adf8732db2398ff547e8a1> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "48153"^^xsd:double ;
+	provincepedia:femalepopulation "46585"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/71e4c161d594d58da9f94e5c5c653bc1> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/41> ;
+	provincepedia:malepopulation "47861"^^xsd:double ;
+	provincepedia:femalepopulation "46609"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/37de0b74018a91ad7c0255423514ee4d> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "396256"^^xsd:double ;
+	provincepedia:femalepopulation "398759"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/951ae574af4361c1933a0fac7f326a2f> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "395685"^^xsd:double ;
+	provincepedia:femalepopulation "396937"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e14b5f81552d11718297ae1d4e8801e3> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "395811"^^xsd:double ;
+	provincepedia:femalepopulation "395859"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/93dfaf9ddde32c48de86a7a9aeda51a2> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "397279"^^xsd:double ;
+	provincepedia:femalepopulation "395876"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5c51aea3f09277fa20df56a5e583b04b> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "399094"^^xsd:double ;
+	provincepedia:femalepopulation "396234"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/57c1b5e7b4992b18f6769cde828500fc> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "404298"^^xsd:double ;
+	provincepedia:femalepopulation "398507"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b2c2cebad0df02cfd021a3e5bed1527e> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "407510"^^xsd:double ;
+	provincepedia:femalepopulation "399394"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d856efb3f658efbea8b9f5b439019120> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "406485"^^xsd:double ;
+	provincepedia:femalepopulation "397375"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/82185e4236c2fdfa0fa0b77c29f6c969> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "404855"^^xsd:double ;
+	provincepedia:femalepopulation "393963"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/dc53c51c0d6bc2c9f9eb7383ac88a03b> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "403655"^^xsd:double ;
+	provincepedia:femalepopulation "390328"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6e433288668467d2be6c7289fe074226> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/42> ;
+	provincepedia:malepopulation "397323"^^xsd:double ;
+	provincepedia:femalepopulation "382886"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e1bfdd686e2643afad7e95645f7b3050> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "67733"^^xsd:double ;
+	provincepedia:femalepopulation "66128"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0bba551b5f78d9e7647cd7bc006578fe> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "68366"^^xsd:double ;
+	provincepedia:femalepopulation "66507"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/244dd842689b1131323ea77c3e638a43> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "69087"^^xsd:double ;
+	provincepedia:femalepopulation "66956"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1986a62503dd12e812e46a21ea4d9c56> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "70045"^^xsd:double ;
+	provincepedia:femalepopulation "67670"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2af8488fbfad57385cb3b3bb6212057f> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "71039"^^xsd:double ;
+	provincepedia:femalepopulation "68352"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6187b22b73c4056f9fbbb75d5c5d2d38> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "72031"^^xsd:double ;
+	provincepedia:femalepopulation "69082"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/260658a06ab7eb6eae95e4032aa6b258> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "73240"^^xsd:double ;
+	provincepedia:femalepopulation "69678"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/794c277c5abcdc60c8db213cec995006> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "74087"^^xsd:double ;
+	provincepedia:femalepopulation "70271"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/cc5185ba0d00ed3a0d5d5b112274b127> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "74667"^^xsd:double ;
+	provincepedia:femalepopulation "70445"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e6e7fde80a52dd4186d6487f09574437> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "75468"^^xsd:double ;
+	provincepedia:femalepopulation "70665"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4d54c4ec1777df6f932f764580768ae4> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/43> ;
+	provincepedia:malepopulation "75259"^^xsd:double ;
+	provincepedia:femalepopulation "70444"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/17b390c2ae1d6c4e7298893727a73e14> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "347159"^^xsd:double ;
+	provincepedia:femalepopulation "340124"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fb7cd14cacdc9d9ad7e541a1716fcbd7> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "347802"^^xsd:double ;
+	provincepedia:femalepopulation "340077"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/af730ec82d026f984f40dde08aa75996> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "348768"^^xsd:double ;
+	provincepedia:femalepopulation "340485"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/21e34e75d4e77d19c1211e39a15d979f> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "350747"^^xsd:double ;
+	provincepedia:femalepopulation "341797"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/48fe3e7ca3602728310d72de57ecbe51> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "353012"^^xsd:double ;
+	provincepedia:femalepopulation "343548"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3527ba898f9eb54ffc720371b5e3c49f> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "356843"^^xsd:double ;
+	provincepedia:femalepopulation "346393"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/002ccf0fcca40c74b7e70624cfa4baef> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "358439"^^xsd:double ;
+	provincepedia:femalepopulation "347143"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/55e8c7f80e391f8b0602eab20e852f17> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "356188"^^xsd:double ;
+	provincepedia:femalepopulation "344824"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/454df4b951208bc2a3feba387bf21226> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "352261"^^xsd:double ;
+	provincepedia:femalepopulation "340162"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/348bb78f811f226e7ce87a5b2a9e6bc1> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "347674"^^xsd:double ;
+	provincepedia:femalepopulation "335060"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6c48dc6a4f97f508ed06de6b2c163a45> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/44> ;
+	provincepedia:malepopulation "338467"^^xsd:double ;
+	provincepedia:femalepopulation "326817"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b96b20f65e7772843168b552b99e4abc> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1239955"^^xsd:double ;
+	provincepedia:femalepopulation "1290966"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a00adecafe256d94bf7abd933ddb36c3> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1236752"^^xsd:double ;
+	provincepedia:femalepopulation "1285589"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0e4a71365752d60af104112cb911ea64> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1236395"^^xsd:double ;
+	provincepedia:femalepopulation "1282284"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/443efc1d6fc58a131b30baadf9a861a7> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1239896"^^xsd:double ;
+	provincepedia:femalepopulation "1283144"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/38ee2377884d4c140e9365dc37b2540d> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1243110"^^xsd:double ;
+	provincepedia:femalepopulation "1284480"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3754e38f24a937a904d67bf3f6a5be06> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1255397"^^xsd:double ;
+	provincepedia:femalepopulation "1291648"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/50fad7e5ee68529ba7d21c0ad8a7b424> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1265539"^^xsd:double ;
+	provincepedia:femalepopulation "1296975"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e48c443341b6e4b65d1ced36de22cc41> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1265516"^^xsd:double ;
+	provincepedia:femalepopulation "1293683"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8ee39c7b10e52180785c9d3241bc77c8> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1264340"^^xsd:double ;
+	provincepedia:femalepopulation "1289353"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/bf26298348b0576bb28d486b2f22f9f3> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1264420"^^xsd:double ;
+	provincepedia:femalepopulation "1285985"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1f32fc4bb454efba73d68cdc1d07acd1> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/45> ;
+	provincepedia:malepopulation "1250288"^^xsd:double ;
+	provincepedia:femalepopulation "1272270"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f4f66413022500d6e129fc2c06518385> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "254330"^^xsd:double ;
+	provincepedia:femalepopulation "266470"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/6c6a6617f4b4a7457925dca31cb8b495> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "255853"^^xsd:double ;
+	provincepedia:femalepopulation "267354"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b275f4e951f38bfe8f9612384ab4173e> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "256700"^^xsd:double ;
+	provincepedia:femalepopulation "268121"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/34686320ef6dae5558fb29af289e22c8> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "258221"^^xsd:double ;
+	provincepedia:femalepopulation "269174"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e3b063f4a189da419146791076371848> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "259085"^^xsd:double ;
+	provincepedia:femalepopulation "269590"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8f7282dc4ce353b89e9305d5d868e259> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "260366"^^xsd:double ;
+	provincepedia:femalepopulation "270775"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5e2e3c66b1fa6a5c15ae9dd54b239b92> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "261249"^^xsd:double ;
+	provincepedia:femalepopulation "271394"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9753ee322bed6bf99cde316feafeb41d> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "261233"^^xsd:double ;
+	provincepedia:femalepopulation "270649"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/019e1933ebb268fd1b67ab4f97f82a31> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "260706"^^xsd:double ;
+	provincepedia:femalepopulation "269797"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/d866d94638a8eb21fc021e36b6a2d6d1> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "259882"^^xsd:double ;
+	provincepedia:femalepopulation "268906"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/09cea7bf5c77512b89432838692e8b57> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/46> ;
+	provincepedia:malepopulation "258324"^^xsd:double ;
+	provincepedia:femalepopulation "267327"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/20a258bc037e356c9e550f7113a33897> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "87369"^^xsd:double ;
+	provincepedia:femalepopulation "88537"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/bf494ebb7e3dd447b20009088d6caa08> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "88746"^^xsd:double ;
+	provincepedia:femalepopulation "89812"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/1ccae5984ec7caa94726a916fa83940b> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "90088"^^xsd:double ;
+	provincepedia:femalepopulation "91222"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/052f6c71db9bae0206659e576e676c1c> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "91539"^^xsd:double ;
+	provincepedia:femalepopulation "92635"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/bcd7ed1390144f63c1a8ddd55e109a5c> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "92641"^^xsd:double ;
+	provincepedia:femalepopulation "93761"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2a6c43e1e633877291bc31259b412330> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "93947"^^xsd:double ;
+	provincepedia:femalepopulation "95095"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b01325578e6eb2b19cc6578bb08baaca> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "95062"^^xsd:double ;
+	provincepedia:femalepopulation "96244"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b29a44e74e913077379b1b316c037f8f> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "95787"^^xsd:double ;
+	provincepedia:femalepopulation "96940"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/ff7df3cecc16f9391a16122e339accbc> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "96311"^^xsd:double ;
+	provincepedia:femalepopulation "97440"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/80e8e6cfd78af92fd5e7519d48295ef3> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "96818"^^xsd:double ;
+	provincepedia:femalepopulation "98106"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7ac9c9d49228e7d9076296fbb0559606> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/48> ;
+	provincepedia:malepopulation "97347"^^xsd:double ;
+	provincepedia:femalepopulation "98818"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a3657f024769648ee005b0a5897abee0> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "470488"^^xsd:double ;
+	provincepedia:femalepopulation "489883"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/91903edf0df6c0c2f85dd51d5a7f9e6f> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "471399"^^xsd:double ;
+	provincepedia:femalepopulation "490099"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/2a1b8a24a0884b307e1beff246a93fed> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "472366"^^xsd:double ;
+	provincepedia:femalepopulation "489575"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b3cc5b99fc5ed57cb550bb6e269a0d64> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "475668"^^xsd:double ;
+	provincepedia:femalepopulation "490936"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/360b7c9b7366201ef2f46fa2d8e328b6> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "476883"^^xsd:double ;
+	provincepedia:femalepopulation "491670"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/9150fd822cc2c6c1850a8741f25953f1> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "479590"^^xsd:double ;
+	provincepedia:femalepopulation "492917"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/abd0b7a7afe952fd1f7113d529fae949> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "481700"^^xsd:double ;
+	provincepedia:femalepopulation "493351"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c5f5bef4b6050fc93867ade5be93256b> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "481855"^^xsd:double ;
+	provincepedia:femalepopulation "491588"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b7dfcb63edd2844af762652f984591b6> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "482372"^^xsd:double ;
+	provincepedia:femalepopulation "489910"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c93a20831990c635f08b64b74a467875> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "482022"^^xsd:double ;
+	provincepedia:femalepopulation "487855"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8932bb5320a5ee5d18b73bce6d5392fd> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/49> ;
+	provincepedia:malepopulation "474025"^^xsd:double ;
+	provincepedia:femalepopulation "481290"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/4c760df5c50f1c76924d285f5b991304> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "43297"^^xsd:double ;
+	provincepedia:femalepopulation "41921"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e90fc568da222d773b22875ad56248aa> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "43209"^^xsd:double ;
+	provincepedia:femalepopulation "41825"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/8915b1debf4424fa0c7e68be9026339c> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "43028"^^xsd:double ;
+	provincepedia:femalepopulation "41624"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7099fb203946feb83a95d9670d6c7456> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "43124"^^xsd:double ;
+	provincepedia:femalepopulation "41569"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/b8ffe7139279e54ba75a3cf24d318372> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "43259"^^xsd:double ;
+	provincepedia:femalepopulation "41415"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a4e3aa0d4a1b66b8dae361224f4d84c7> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "43323"^^xsd:double ;
+	provincepedia:femalepopulation "41211"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e07a5d41e6dec357ada76e8c132e2095> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "42960"^^xsd:double ;
+	provincepedia:femalepopulation "40877"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5e0daad0b3c36da2b095211c1141a907> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "41801"^^xsd:double ;
+	provincepedia:femalepopulation "39826"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/371faee4c94ee8e520cac283bec75e29> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "40539"^^xsd:double ;
+	provincepedia:femalepopulation "38756"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/42ac6a9aa9d34a08c2e58dff02db2bb6> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "39035"^^xsd:double ;
+	provincepedia:femalepopulation "37887"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/15c15ec94e3cc4188bef407f1fef4f98> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/50> ;
+	provincepedia:malepopulation "38047"^^xsd:double ;
+	provincepedia:femalepopulation "37205"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/a0cf652d88bc25ef5190adbef48bc86b> a provincepedia:Population ;
+	provincepedia:in "2018"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "42827"^^xsd:double ;
+	provincepedia:femalepopulation "41894"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/c74f165c56f18949bfd4eae60ef3916b> a provincepedia:Population ;
+	provincepedia:in "2017"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "43079"^^xsd:double ;
+	provincepedia:femalepopulation "41865"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/e26513953bda509d31f868ad775dafcc> a provincepedia:Population ;
+	provincepedia:in "2016"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "43108"^^xsd:double ;
+	provincepedia:femalepopulation "41656"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/fd83eadd96ffca25618c84598f11e570> a provincepedia:Population ;
+	provincepedia:in "2015"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "43142"^^xsd:double ;
+	provincepedia:femalepopulation "41428"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/53d474266f0eba48e4df65250fe2c56b> a provincepedia:Population ;
+	provincepedia:in "2014"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "42864"^^xsd:double ;
+	provincepedia:femalepopulation "41006"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/3d5331792ef47237cdd913a5a6d3f431> a provincepedia:Population ;
+	provincepedia:in "2013"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "43113"^^xsd:double ;
+	provincepedia:femalepopulation "40506"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/253b4191a221f6206a9c0ea20f710484> a provincepedia:Population ;
+	provincepedia:in "2012"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "42310"^^xsd:double ;
+	provincepedia:femalepopulation "39476"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/0b3e89f251d9153367b56e641f447fcb> a provincepedia:Population ;
+	provincepedia:in "2011"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "40601"^^xsd:double ;
+	provincepedia:femalepopulation "38261"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/5cc9eb1791acd89dd832c86d081055a0> a provincepedia:Population ;
+	provincepedia:in "2010"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "38939"^^xsd:double ;
+	provincepedia:femalepopulation "37108"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/f201607810fa2664142169a9aa760410> a provincepedia:Population ;
+	provincepedia:in "2009"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "37266"^^xsd:double ;
+	provincepedia:femalepopulation "36095"^^xsd:double .
+
+<http://provincepedia.ml/resources/pop/7cd613b5798d0c540ba064c5f7ecc386> a provincepedia:Population ;
+	provincepedia:in "2008"^^xsd:int ;
+	provincepedia:provcode <http://provincepedia.ml/resources/prov/51> ;
+	provincepedia:malepopulation "36061"^^xsd:double ;
+	provincepedia:femalepopulation "35184"^^xsd:double .
