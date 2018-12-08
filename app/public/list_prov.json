@@ -1,210 +1,210 @@
 [
   {
     "province": "Araba/Alava",
-    "website_link": "0_araba"
+    "website-link": "0_araba"
   },
   {
     "province": "Albacete",
-    "website_link": "1_albacete"
+    "website-link": "1_albacete"
   },
   {
     "province": "Alicante",
-    "website_link": "2_alicante"
+    "website-link": "2_alicante"
   },
   {
     "province": "Almería",
-    "website_link": "3_almeria"
+    "website-link": "3_almeria"
   },
   {
     "province": "Avila",
-    "website_link": "4_avila"
+    "website-link": "4_avila"
   },
   {
     "province": "Badajoz",
-    "website_link": "5_badajoz"
+    "website-link": "5_badajoz"
   },
   {
     "province": "Balearic Islands",
-    "website_link": "6_balearic-islands"
+    "website-link": "6_balearic-islands"
   },
   {
     "province": "Barcelona",
-    "website_link": "7_barcelona"
+    "website-link": "7_barcelona"
   },
   {
     "province": "Burgos",
-    "website_link": "8_burgos"
+    "website-link": "8_burgos"
   },
   {
     "province": "Cáceres",
-    "website_link": "9_caceres"
+    "website-link": "9_caceres"
   },
   {
     "province": "Cádiz",
-    "website_link": "10_cadiz"
+    "website-link": "10_cadiz"
   },
   {
     "province": "Castellón",
-    "website_link": "11_castellon"
+    "website-link": "11_castellon"
   },
   {
     "province": "Ciudad Real",
-    "website_link": "12_ciudad-real"
+    "website-link": "12_ciudad-real"
   },
   {
     "province": "Córdoba",
-    "website_link": "13_cordoba"
+    "website-link": "13_cordoba"
   },
   {
     "province": "La Coruña",
-    "website_link": "14_la-coruna"
+    "website-link": "14_la-coruna"
   },
   {
     "province": "Cuenca",
-    "website_link": "15_cuenca"
+    "website-link": "15_cuenca"
   },
   {
     "province": "Girona",
-    "website_link": "16_girona"
+    "website-link": "16_girona"
   },
   {
     "province": "Granada",
-    "website_link": "17_granada"
+    "website-link": "17_granada"
   },
   {
     "province": "Guadalajara",
-    "website_link": "18_guadalajara"
+    "website-link": "18_guadalajara"
   },
   {
     "province": "Guipúzcoa",
-    "website_link": "19_guipuzcoa"
+    "website-link": "19_guipuzcoa"
   },
   {
     "province": "Huelva",
-    "website_link": "20_huelva"
+    "website-link": "20_huelva"
   },
   {
     "province": "Huesca",
-    "website_link": "21_huesca"
+    "website-link": "21_huesca"
   },
   {
     "province": "Jaén",
-    "website_link": "22_jaen"
+    "website-link": "22_jaen"
   },
   {
     "province": "León",
-    "website_link": "23_leon"
+    "website-link": "23_leon"
   },
   {
     "province": "Lleida",
-    "website_link": "24_lleida"
+    "website-link": "24_lleida"
   },
   {
     "province": "La Rioja",
-    "website_link": "25_la-rioja"
+    "website-link": "25_la-rioja"
   },
   {
     "province": "Lugo",
-    "website_link": "26_lugo"
+    "website-link": "26_lugo"
   },
   {
     "province": "Madrid",
-    "website_link": "27_madrid"
+    "website-link": "27_madrid"
   },
   {
     "province": "Málaga",
-    "website_link": "28_malaga"
+    "website-link": "28_malaga"
   },
   {
     "province": "Murcia",
-    "website_link": "29_murcia"
+    "website-link": "29_murcia"
   },
   {
     "province": "Navarra",
-    "website_link": "30_navarra"
+    "website-link": "30_navarra"
   },
   {
     "province": "Ourense",
-    "website_link": "31_ourense"
+    "website-link": "31_ourense"
   },
   {
     "province": "Asturias",
-    "website_link": "32_asturias"
+    "website-link": "32_asturias"
   },
   {
     "province": "Palencia",
-    "website_link": "33_palencia"
+    "website-link": "33_palencia"
   },
   {
     "province": "Las Palmas",
-    "website_link": "34_las-palmas"
+    "website-link": "34_las-palmas"
   },
   {
     "province": "Pontevedra",
-    "website_link": "35_pontevedra"
+    "website-link": "35_pontevedra"
   },
   {
     "province": "Salamanca",
-    "website_link": "36_salamanca"
+    "website-link": "36_salamanca"
   },
   {
     "province": "Santa Cruz de Tenerife",
-    "website_link": "37_santa-cruz-de-tenerife"
+    "website-link": "37_santa-cruz-de-tenerife"
   },
   {
     "province": "Cantabria",
-    "website_link": "38_cantabria"
+    "website-link": "38_cantabria"
   },
   {
     "province": "Segovia",
-    "website_link": "39_segovia"
+    "website-link": "39_segovia"
   },
   {
     "province": "Sevilla",
-    "website_link": "40_sevilla"
+    "website-link": "40_sevilla"
   },
   {
     "province": "Soria",
-    "website_link": "41_soria"
+    "website-link": "41_soria"
   },
   {
     "province": "Tarragona",
-    "website_link": "42_tarragona"
+    "website-link": "42_tarragona"
   },
   {
     "province": "Teruel",
-    "website_link": "43_teruel"
+    "website-link": "43_teruel"
   },
   {
     "province": "Toledo",
-    "website_link": "44_toledo"
+    "website-link": "44_toledo"
   },
   {
     "province": "Valencia",
-    "website_link": "45_valencia"
+    "website-link": "45_valencia"
   },
   {
     "province": "Valladolid",
-    "website_link": "46_valladolid"
+    "website-link": "46_valladolid"
   },
   {
     "province": "Biscay",
-    "website_link": "47_biscay"
+    "website-link": "47_biscay"
   },
   {
     "province": "Zamora",
-    "website_link": "48_zamora"
+    "website-link": "48_zamora"
   },
   {
     "province": "Zaragoza",
-    "website_link": "49_zaragoza"
+    "website-link": "49_zaragoza"
   },
   {
     "province": "Ceuta",
-    "website_link": "50_ceuta"
+    "website-link": "50_ceuta"
   },
   {
     "province": "Melilla",
-    "website_link": "51_melilla"
+    "website-link": "51_melilla"
   }
 ]

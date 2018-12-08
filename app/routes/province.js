@@ -27,6 +27,8 @@ router.get('/:idprov_name', function(req, res, next) {
 	pain_nameprov_parsed_plus = pain_nameprov.replace("-", "+")
 
 
+
+
 	breq.get(wdk.searchEntities(pain_nameprov_parsed_spaced))
 		.then(entities => {
 			//Retrieve the QID of province's capital. We get the first in list
@@ -44,8 +46,9 @@ router.get('/:idprov_name', function(req, res, next) {
 				dbp:${pain_nameprov_parsed_undescored} dbo:abstract ?abs.
 				FILTER (lang(?abs) = 'en')
 			}`;
+			console.log("DB: " + dbpedia_query);
 			const rdf_basic = `PREFIX provincepedia: <http://provincepedia.ml/ontology#>
-			SELECT ?ac_name ?province_name ?capital_name ?year
+			SELECT ?ac_name ?province_name ?capital_name
 			WHERE {
 				?towns provincepedia:provcode <http://provincepedia.ml/resources/prov/${idprov}> ;
 				provincepedia:name ?capital_name;
@@ -97,25 +100,25 @@ router.get('/:idprov_name', function(req, res, next) {
 								var rdf = fs.readFileSync('rdf/db.ttl').toString();
 								store.load('text/turtle', rdf, function(s, d) {
 									//Turle qeury execution
+									store.execute(rdf_basic, function(success, rdf_basic_results) {
+										rdf_basic_results = rdf_basic_results[0]
+										console.log(rdf_basic_results[0]);
 
 
-									store.execute(rdf_crime, function(success, results) {
-										console.log(results);
+										res.render('province', {
+											sub: './../',
+											prov_idcode: idprov,
+											ac_name: rdf_basic_results.ac_name.value,
+											province_name: rdf_basic_results.province_name.value,
+											capital_name: rdf_basic_results.capital_name.value,
+											title: 'Provice of ' + rdf_basic_results.province_name.value,
+											abstract: abs.split(". ").slice(0, 6).join(". "),
+											pain_nameprov_parsed_plus: pain_nameprov_parsed_plus,
+											image: wikidata_result.image,
+											image_banner: wikidata_result.image_banner
+										});
 									});
 								});
-							});
-
-							res.render('province', {
-								sub: './../',
-								prov_idcode: idprov,
-								ac_name: "Madrid",
-								//prov_name: prov_idcode_parsed_spaced,
-								capital_name: "Madrid",
-								title: 'Provice of Madrid',
-								abstract: abs.split(". ").slice(0, 6).join(". "),
-
-								image: wikidata_result.image,
-								image_banner: wikidata_result.image_banner
 							});
 						})
 						.catch(function(e) { console.log(e); });
