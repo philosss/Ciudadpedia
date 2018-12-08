@@ -1,64 +1,64 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
-@prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix provincepedia: <http://provincepedia.ml/ontology#> .
+@prefix provincepedia: <http://provincepedia.ml/resources/#> .
 
 
-<http://provincepedia.ml/resources/ac/0> <provincepedia:id> "1"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/0> <provincepedia:id> "0"^^xsd:int ;
 	provincepedia:name "Andalucia" .
 
-<http://provincepedia.ml/resources/ac/1> <provincepedia:id> "2"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/1> <provincepedia:id> "1"^^xsd:int ;
 	provincepedia:name "Aragon" .
 
-<http://provincepedia.ml/resources/ac/2> <provincepedia:id> "3"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/2> <provincepedia:id> "2"^^xsd:int ;
 	provincepedia:name "Asturias" .
 
-<http://provincepedia.ml/resources/ac/3> <provincepedia:id> "4"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/3> <provincepedia:id> "3"^^xsd:int ;
 	provincepedia:name "Illes Baleares" .
 
-<http://provincepedia.ml/resources/ac/4> <provincepedia:id> "5"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/4> <provincepedia:id> "4"^^xsd:int ;
 	provincepedia:name "Canarias" .
 
-<http://provincepedia.ml/resources/ac/5> <provincepedia:id> "6"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/5> <provincepedia:id> "5"^^xsd:int ;
 	provincepedia:name "Cantabria" .
 
-<http://provincepedia.ml/resources/ac/6> <provincepedia:id> "7"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/6> <provincepedia:id> "6"^^xsd:int ;
 	provincepedia:name "Castilla-Leon" .
 
-<http://provincepedia.ml/resources/ac/7> <provincepedia:id> "8"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/7> <provincepedia:id> "7"^^xsd:int ;
 	provincepedia:name "Castilla-Mancha" .
 
-<http://provincepedia.ml/resources/ac/8> <provincepedia:id> "9"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/8> <provincepedia:id> "8"^^xsd:int ;
 	provincepedia:name "Catalu�a" .
 
-<http://provincepedia.ml/resources/ac/9> <provincepedia:id> "10"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/9> <provincepedia:id> "9"^^xsd:int ;
 	provincepedia:name "Extremadura" .
 
-<http://provincepedia.ml/resources/ac/10> <provincepedia:id> "11"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/10> <provincepedia:id> "10"^^xsd:int ;
 	provincepedia:name "Galicia" .
 
-<http://provincepedia.ml/resources/ac/11> <provincepedia:id> "12"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/11> <provincepedia:id> "11"^^xsd:int ;
 	provincepedia:name "Madrid" .
 
-<http://provincepedia.ml/resources/ac/12> <provincepedia:id> "13"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/12> <provincepedia:id> "12"^^xsd:int ;
 	provincepedia:name "Murcia" .
 
-<http://provincepedia.ml/resources/ac/13> <provincepedia:id> "14"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/13> <provincepedia:id> "13"^^xsd:int ;
 	provincepedia:name "Navarra" .
 
-<http://provincepedia.ml/resources/ac/14> <provincepedia:id> "15"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/14> <provincepedia:id> "14"^^xsd:int ;
 	provincepedia:name "Pais Vasco" .
 
-<http://provincepedia.ml/resources/ac/15> <provincepedia:id> "16"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/15> <provincepedia:id> "15"^^xsd:int ;
 	provincepedia:name "Rioja" .
 
-<http://provincepedia.ml/resources/ac/16> <provincepedia:id> "17"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/16> <provincepedia:id> "16"^^xsd:int ;
 	provincepedia:name "C.Valenciana" .
 
-<http://provincepedia.ml/resources/ac/17> <provincepedia:id> "18"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/17> <provincepedia:id> "17"^^xsd:int ;
 	provincepedia:name "Ceuta" .
 
-<http://provincepedia.ml/resources/ac/18> <provincepedia:id> "19"^^xsd:int ;
+<http://provincepedia.ml/resources/ac/18> <provincepedia:id> "18"^^xsd:int ;
 	provincepedia:name "Melilla" .
