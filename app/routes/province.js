@@ -6,6 +6,8 @@ const rdfstore = require('rdfstore');
 const fs = require('fs');
 const breq = require('bluereq');
 const router = express.Router();
+const dbpediaLookup = require('dbpedia-entity-lookup');
+
 
 router.get('/:idprov_name', function(req, res, next) {
 
@@ -46,7 +48,8 @@ router.get('/:idprov_name', function(req, res, next) {
 				dbp:${pain_nameprov_parsed_undescored} dbo:abstract ?abs.
 				FILTER (lang(?abs) = 'en')
 			}`;
-			console.log("DB: " + dbpedia_query);
+
+			//console.log("DB: " + dbpedia_query);
 			const rdf_basic = `PREFIX provincepedia: <http://provincepedia.ml/ontology#>
 			SELECT ?ac_name ?province_name ?capital_name
 			WHERE {
@@ -59,12 +62,14 @@ router.get('/:idprov_name', function(req, res, next) {
 				provincepedia:name ?ac_name.
 			}`;
 			const rdf_pop = `PREFIX provincepedia: <http://provincepedia.ml/ontology#>
-			SELECT ?year ?male ?female
+			SELECT ?year ?men ?women
 			WHERE {
-				?pop provincepedia:provcode <http://provincepedia.ml/resources/prov/${idprov}>;
+				?pop a provincepedia:Population;
+				provincepedia:provcode <http://provincepedia.ml/resources/prov/${idprov}>;
 				provincepedia:in ?year;
-				provincepedia:malepopulation ?male;
-				provincepedia:femalepopulation ?female.
+				provincepedia:malepopulation ?men;
+				provincepedia:femalepopulation ?women
+
 			}`;
 			const rdf_debt = `PREFIX provincepedia: <http://provincepedia.ml/ontology#>
 			SELECT ?name ?debt
@@ -102,20 +107,36 @@ router.get('/:idprov_name', function(req, res, next) {
 									//Turle qeury execution
 									store.execute(rdf_basic, function(success, rdf_basic_results) {
 										rdf_basic_results = rdf_basic_results[0]
-										console.log(rdf_basic_results[0]);
+										store.execute(rdf_pop, function(success, rdf_pop_results) {
+											console.log(rdf_pop_results);
+											pop_male = parsePop(rdf_pop_results, "men")
+											console.log("pop_male: " + pop_male);
+											pop_female = parsePop(rdf_pop_results, "women")
+											console.log("pop_female: " + pop_female);
+											pop_total = parsePop(rdf_pop_results, "total")
+											console.log("pop_total: " + pop_total);
+											pop_pie = parsePop(rdf_pop_results, "pie")
+											console.log("pop_pie: " + pop_pie);
 
 
-										res.render('province', {
-											sub: './../',
-											prov_idcode: idprov,
-											ac_name: rdf_basic_results.ac_name.value,
-											province_name: rdf_basic_results.province_name.value,
-											capital_name: rdf_basic_results.capital_name.value,
-											title: 'Provice of ' + rdf_basic_results.province_name.value,
-											abstract: abs.split(". ").slice(0, 6).join(". "),
-											pain_nameprov_parsed_plus: pain_nameprov_parsed_plus,
-											image: wikidata_result.image,
-											image_banner: wikidata_result.image_banner
+
+
+											res.render('province', {
+												sub: './../',
+												prov_idcode: idprov,
+												ac_name: rdf_basic_results.ac_name.value,
+												province_name: rdf_basic_results.province_name.value,
+												capital_name: rdf_basic_results.capital_name.value,
+												title: 'Provice of ' + rdf_basic_results.province_name.value,
+												abstract: abs.split(". ").slice(0, 6).join(". "),
+												pain_nameprov_parsed_plus: pain_nameprov_parsed_plus,
+												image: wikidata_result.image,
+												image_banner: wikidata_result.image_banner,
+												pop_male: pop_male,
+												pop_female: pop_female,
+												pop_pie: pop_pie,
+												pop_total: pop_total
+											});
 										});
 									});
 								});
@@ -130,5 +151,37 @@ function toTitleCase(str) {
 	return str.replace(/\w\S*/g, function(txt) {
 		return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
 	});
+}
+
+function parsePop(serie, target, pie = false) {
+	let toRet = []
+	for (measure of serie) {
+
+		let obj = {}
+		obj.x = measure.year.value;
+		if (target == "men") {
+			obj.y = measure.men.value;
+		} else if (target == "women") {
+			obj.y = measure.women.value;
+		} else if (target == "total") {
+			obj.y = parseInt(measure.men.value) + parseInt(measure.women.value);
+		} else if (target == "pie") {
+			obj.y = (parseInt(measure.men.value) / (parseInt(measure.men.value) + parseInt(measure.women.value))) * 100;
+			obj.label = "Men"
+			toRet.push(obj)
+			obj = {}
+			obj.y = (parseInt(measure.women.value) / (parseInt(measure.men.value) + parseInt(measure.women.value))) * 100;
+			obj.label = "Women"
+		} else {
+			console.log("Parse Pop target not valid");
+		}
+		toRet.push(obj)
+		if (target == "pie") break;
+	}
+	//Sort
+	toRet.sort(function(a, b) {
+		return a.x - b.x;
+	})
+	return toRet;
 }
 module.exports = router;
