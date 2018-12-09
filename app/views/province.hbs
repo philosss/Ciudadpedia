@@ -167,43 +167,10 @@
     popDistribution.render();
     chartCrime.render();
     adjustDimension();
+    var word_list = [{{#each debt}}
+              {text: "{{this.text}}",weight: {{this.weight}}, html: { "data-tooltip": "€ {{this.html.data-tooltip}}k" }},
+              {{/each}}];
 
-    var word_list = [{
-        text: "teachers",
-        weight: 50,
-        html: {
-          "data-tooltip": "50€"
-        }
-      },
-      {
-        text: "classes",
-        weight: 44,
-        html: {
-          "data-tooltip": "44"
-        }
-      },
-      {
-        text: "excellent",
-        weight: 26,
-        html: {
-          "data-tooltip": "35"
-        }
-      },
-      {
-        text: "material",
-        weight: 26,
-        html: {
-          "data-tooltip": "32"
-        }
-      },
-      {
-        text: "well",
-        weight: 25,
-        html: {
-          "data-tooltip": "30"
-        }
-      }
-    ];
     $(function() {
       $("#debt_city").jQCloud(word_list, {
         shape: "rectangular",

@@ -108,34 +108,33 @@ router.get('/:idprov_name', function(req, res, next) {
 									store.execute(rdf_basic, function(success, rdf_basic_results) {
 										rdf_basic_results = rdf_basic_results[0]
 										store.execute(rdf_pop, function(success, rdf_pop_results) {
-											console.log(rdf_pop_results);
 											pop_male = parsePop(rdf_pop_results, "men")
-											console.log("pop_male: " + pop_male);
 											pop_female = parsePop(rdf_pop_results, "women")
-											console.log("pop_female: " + pop_female);
 											pop_total = parsePop(rdf_pop_results, "total")
-											console.log("pop_total: " + pop_total);
 											pop_pie = parsePop(rdf_pop_results, "pie")
-											console.log("pop_pie: " + pop_pie);
+											store.execute(rdf_debt, function(success, rdf_debt_results) {
+
+												debt = parseDebt(rdf_debt_results)
 
 
 
-
-											res.render('province', {
-												sub: './../',
-												prov_idcode: idprov,
-												ac_name: rdf_basic_results.ac_name.value,
-												province_name: rdf_basic_results.province_name.value,
-												capital_name: rdf_basic_results.capital_name.value,
-												title: 'Provice of ' + rdf_basic_results.province_name.value,
-												abstract: abs.split(". ").slice(0, 6).join(". "),
-												pain_nameprov_parsed_plus: pain_nameprov_parsed_plus,
-												image: wikidata_result.image,
-												image_banner: wikidata_result.image_banner,
-												pop_male: pop_male,
-												pop_female: pop_female,
-												pop_pie: pop_pie,
-												pop_total: pop_total
+												res.render('province', {
+													sub: './../',
+													prov_idcode: idprov,
+													ac_name: rdf_basic_results.ac_name.value,
+													province_name: rdf_basic_results.province_name.value,
+													capital_name: rdf_basic_results.capital_name.value,
+													title: 'Provice of ' + rdf_basic_results.province_name.value,
+													abstract: abs.split(". ").slice(0, 6).join(". "),
+													pain_nameprov_parsed_plus: pain_nameprov_parsed_plus,
+													image: wikidata_result.image,
+													image_banner: wikidata_result.image_banner,
+													pop_male: pop_male,
+													pop_female: pop_female,
+													pop_pie: pop_pie,
+													pop_total: pop_total,
+													debt: debt
+												});
 											});
 										});
 									});
@@ -151,6 +150,34 @@ function toTitleCase(str) {
 	return str.replace(/\w\S*/g, function(txt) {
 		return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
 	});
+}
+
+function parseDebt(serie) {
+	let toRet = []
+	for (city of serie) {
+		let obj = {}
+		obj.text = city.name.value;
+		obj.weight = parseInt(city.debt.value.replace(".", "").replace(".", ""))
+		obj.html = {
+			"data-tooltip": city.debt.value
+		}
+		toRet.push(obj)
+	}
+
+	toRet.sort(function(a, b) {
+		return b.weight - a.weight;
+	});
+
+	max = toRet[0].weight;
+	for (city of toRet) {
+		city.weight = Math.ceil((city.weight * 50) / max);
+		if (city.weight < 1) {
+			toRet.pop(city)
+		}
+	}
+
+	console.log(toRet);
+	return toRet
 }
 
 function parsePop(serie, target, pie = false) {
