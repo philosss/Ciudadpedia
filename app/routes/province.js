@@ -15,7 +15,7 @@ router.get('/:idprov_name', function(req, res, next) {
 	idprov = req.params.idprov_name.split('_')[0];
 	pain_nameprov = req.params.idprov_name.split('_')[1];
 
-	console.log("--> Arrived requst for " + pain_nameprov + " (to parse) with id: " + idprov);
+	console.log("--> Arrived req for " + pain_nameprov + " (to parse) with id: " + idprov);
 
 
 	//For wikidata
@@ -39,7 +39,7 @@ router.get('/:idprov_name', function(req, res, next) {
 			const wikidata_query = `
 			SELECT ?image ?image_banner WHERE {
 				wd:${capitalQid} wdt:P18 ?image.
-				wd:${capitalQid} wdt:P948 ?image_banner.
+				OPTIONAL { wd:${capitalQid} wdt:P948 ?image_banner. }
 			}`;
 			//Query retrieve the abstract from dbpedia
 			const dbpedia_query = `
@@ -92,7 +92,6 @@ router.get('/:idprov_name', function(req, res, next) {
 			rp(wdk.sparqlQuery(wikidata_query))
 				.then(wdk.simplify.sparqlResults)
 				.then(wikidata_result => {
-
 					wikidata_result = wikidata_result[0]
 					//DBPedia query execution
 					dps.client()
@@ -100,7 +99,8 @@ router.get('/:idprov_name', function(req, res, next) {
 						.timeout(15000) // optional, defaults to 10000
 						.asJson() // or asXml()
 						.then(function(r) {
-							let abs = r["results"]["bindings"][0].abs.value.replace(/\([^)]*\)/g, "")
+							let abs = r["results"]["bindings"][0] != null ? r["results"]["bindings"][0].abs.value.replace(/\([^)]*\)/g, "").split(". ").slice(0, 6).join(". ") : false;
+
 							rdfstore.create(function(err, store) {
 								var rdf = fs.readFileSync('rdf/db.ttl').toString();
 								store.load('text/turtle', rdf, function(s, d) {
@@ -125,10 +125,10 @@ router.get('/:idprov_name', function(req, res, next) {
 														province_name: rdf_basic_results.province_name.value,
 														capital_name: rdf_basic_results.capital_name.value,
 														title: 'Provice of ' + rdf_basic_results.province_name.value,
-														abstract: abs.split(". ").slice(0, 6).join(". "),
+														abstract: abs,
 														pain_nameprov_parsed_plus: pain_nameprov_parsed_plus,
 														image: wikidata_result.image,
-														image_banner: wikidata_result.image_banner,
+														image_banner: wikidata_result.image_banner != null ? wikidata_result.image_banner : false,
 														pop_male: pop_male,
 														pop_female: pop_female,
 														pop_pie: pop_pie,
@@ -158,7 +158,6 @@ function toTitleCase(str) {
 function parseCrime(serie, target) {
 	let toRet = []
 	for (crime of serie) {
-		console.log(crime);
 		let obj = {}
 		obj.label = crime.crime_type.value;
 		if (target == "2015") {
@@ -168,14 +167,12 @@ function parseCrime(serie, target) {
 		} else {
 			console.log("Parse Crime target not valid");
 		}
-		console.log(obj);
 		toRet.push(obj)
 	}
 	//Sort
 	toRet.sort(function(a, b) {
 		return a.label - b.label;
 	})
-	console.log(toRet);
 	return toRet;
 }
 
@@ -183,7 +180,7 @@ function parseDebt(serie) {
 	let toRet = []
 	for (city of serie) {
 		let obj = {}
-		obj.text = city.name.value;
+		obj.text = city.name.value.split("/")[0];
 		obj.weight = parseInt(city.debt.value.replace(".", "").replace(".", ""))
 		obj.html = {
 			"data-tooltip": city.debt.value

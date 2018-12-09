@@ -15,8 +15,8 @@
         //title: "Population in k"
       },
       legend: {
-        verticalAlign: "top",
         horizontalAlign: "right",
+        verticalAlign: "bottom",
         dockInsidePlotArea: true
       },
       toolTip: {
@@ -76,7 +76,7 @@
                   {{/each}}]
       }]
     });
-
+    {{#if crime2015}}
     var chartCrime = new CanvasJS.Chart("chartCrime", {
       animationEnabled: true,
       toolTip: {
@@ -86,7 +86,7 @@
           type: "column",
           name: "2015",
 
-          yValueFormatString: "#,##0.##k reports",
+          yValueFormatString: "#,##0.## reports",
           dataPoints: [{{#each crime2015}}
                     {label: "{{this.label}}",y: {{this.y}} },
                     {{/each}}]
@@ -95,18 +95,20 @@
           type: "column",
           name: "2016",
           axisYType: "secondary",
-          yValueFormatString: "#,##0.##k reports",
+          yValueFormatString: "#,##0.## reports",
           dataPoints: [{{#each crime2016}}
                     {label: "{{this.label}}",y: {{this.y}} },
                     {{/each}}]
         }
       ]
     });
-
+    {{/if}}
     popPie.render();
     popDistribution.render();
-    chartCrime.render();
+    {{#if crime2015}} chartCrime.render(); {{/if}}
     adjustDimension();
+
+    {{#if debt}}
     var word_list = [{{#each debt}}
               {text: "{{this.text}}",weight: {{this.weight}}, html: { "data-tooltip": "€ {{this.html.data-tooltip}}k" }},
               {{/each}}];
@@ -117,12 +119,14 @@
         autoResize: true
       });
     });
+    {{/if}}
   }
+
 
   function adjustDimension() {
     document.getElementById("popPie").style.height = String(parseInt(document.getElementById("popPie").style.height.split("px")[0]) - 10) + "px";
     document.getElementById("popDistribution").style.height = String(parseInt(document.getElementById("popDistribution").style.height.split("px")[0]) - 13) + "px";
-    document.getElementById("chartCrime").style.height = String(parseInt(document.getElementById("chartCrime").style.height.split("px")[0]) - 13) + "px";
+    {{#if crime2015}} document.getElementById("chartCrime").style.height = String(parseInt(document.getElementById("chartCrime").style.height.split("px")[0]) - 13) + "px"; {{/if}}
   }
 </script>
 <div id="main">
@@ -137,16 +141,22 @@
       </div>
     </div>
     <div class="row">
+      {{#if abstract }}
       <div class="col-4 col-12-medium">
+      {{else}}
+      <div class="col-6 col-12-medium">
+      {{/if}}
         <span class="image fit">
           <div class="crop">
             <img src="{{image}}" alt="{{title}}">
           </div>
         </span>
       </div>
+      {{#if abstract }}
       <div class="col-8 col-12-medium">
         {{abstract}}
       </div>
+      {{/if}}
     </div>
     <div class="row">
       <h3>Location</h3>
@@ -179,16 +189,21 @@
     <br />
     <br />
 
-
+    {{#if debt}}
     <div class="row">
       <h3>Composition and debt</h3>
     </div>
     <div class="row">
-      <p>This cloud shows the public debt by city that compose the provice</p>
-      <div id="debt_city" style="width: 100%; height: 450px; margin: auto;"></div>
+      <p>This cloud shows the public debt of each city that compose the {{title}}. The data displayed dates to December 2017.</p>
+      <div id="debt_city" style="width: 100%; height: 400px; margin: auto;"></div>
+      <p><br />For more information visit the <a href="{{sub}}datasetRequirements">Dataset Requirements</a></p>
     </div>
+    {{else}}
+    <i>No information regarding public debt was made available by authority for this province. </i>
+    {{/if}}
     <br />
     <br />
+    {{#if crime2015}}
     <div class="row">
       <h3>Inmates and crime</h3>
     </div>
@@ -196,6 +211,10 @@
     <div class="chart">
       <div id="chartCrime" style="width: 100%; max-width: 900px; height: 370px; margin: auto;"></div>
     </div>
+    {{else}}
+    <i>No information regarding crime was made available by authority for this province. </i>
+    {{/if}}
+
     <br /> <br />
 
     <div class="row">
