@@ -86,79 +86,19 @@
           type: "column",
           name: "2015",
 
-          yValueFormatString: "#,##0.# reports",
-          dataPoints: [{
-              label: "Crimes and misdemeanours",
-              y: 1934.5
-            },
-            {
-              label: "Intentional homicide",
-              y: 20015
-            },
-            {
-              label: "Robbery with violence and intimidation",
-              y: 25342
-            },
-            {
-              label: "Home robberies",
-              y: 20088
-            },
-            {
-              label: "Theft of motor vehicles",
-              y: 28234
-            },
-            {
-              label: "Drug trade",
-              y: 28234 + 30
-            },
-            {
-              label: "Injuries",
-              y: 28234 + 30
-            },
-            {
-              label: "Burglary",
-              y: 28234 + 30
-            }
-          ]
+          yValueFormatString: "#,##0.##k reports",
+          dataPoints: [{{#each crime2015}}
+                    {label: "{{this.label}}",y: {{this.y}} },
+                    {{/each}}]
         },
         {
           type: "column",
           name: "2016",
           axisYType: "secondary",
-          yValueFormatString: "#,##0.# Units",
-          dataPoints: [{
-              label: "Crimes and misdemeanours",
-              y: 19034.5 + 30
-            },
-            {
-              label: "Intentional homicide",
-              y: 20015 + 30
-            },
-            {
-              label: "Robbery with violence and intimidation",
-              y: 25342 + 30
-            },
-            {
-              label: "Home robberies",
-              y: 20088 + 30
-            },
-            {
-              label: "Theft of motor vehicles",
-              y: 28234 + 30
-            },
-            {
-              label: "Drug trade",
-              y: 28234 + 30
-            },
-            {
-              label: "Injuries",
-              y: 28234 + 30
-            },
-            {
-              label: "Burglary",
-              y: 28234 + 30
-            }
-          ]
+          yValueFormatString: "#,##0.##k reports",
+          dataPoints: [{{#each crime2016}}
+                    {label: "{{this.label}}",y: {{this.y}} },
+                    {{/each}}]
         }
       ]
     });
@@ -245,7 +185,7 @@
     </div>
     <div class="row">
       <p>This cloud shows the public debt by city that compose the provice</p>
-      <div id="debt_city" style="width: 100%; height: 200px; margin: auto;"></div>
+      <div id="debt_city" style="width: 100%; height: 450px; margin: auto;"></div>
     </div>
     <br />
     <br />

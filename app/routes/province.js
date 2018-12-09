@@ -113,27 +113,30 @@ router.get('/:idprov_name', function(req, res, next) {
 											pop_total = parsePop(rdf_pop_results, "total")
 											pop_pie = parsePop(rdf_pop_results, "pie")
 											store.execute(rdf_debt, function(success, rdf_debt_results) {
-
 												debt = parseDebt(rdf_debt_results)
+												store.execute(rdf_crime, function(success, rdf_crime_results) {
+													crime2015 = parseCrime(rdf_crime_results, "2015")
+													crime2016 = parseCrime(rdf_crime_results, "2016")
 
-
-
-												res.render('province', {
-													sub: './../',
-													prov_idcode: idprov,
-													ac_name: rdf_basic_results.ac_name.value,
-													province_name: rdf_basic_results.province_name.value,
-													capital_name: rdf_basic_results.capital_name.value,
-													title: 'Provice of ' + rdf_basic_results.province_name.value,
-													abstract: abs.split(". ").slice(0, 6).join(". "),
-													pain_nameprov_parsed_plus: pain_nameprov_parsed_plus,
-													image: wikidata_result.image,
-													image_banner: wikidata_result.image_banner,
-													pop_male: pop_male,
-													pop_female: pop_female,
-													pop_pie: pop_pie,
-													pop_total: pop_total,
-													debt: debt
+													res.render('province', {
+														sub: './../',
+														prov_idcode: idprov,
+														ac_name: rdf_basic_results.ac_name.value,
+														province_name: rdf_basic_results.province_name.value,
+														capital_name: rdf_basic_results.capital_name.value,
+														title: 'Provice of ' + rdf_basic_results.province_name.value,
+														abstract: abs.split(". ").slice(0, 6).join(". "),
+														pain_nameprov_parsed_plus: pain_nameprov_parsed_plus,
+														image: wikidata_result.image,
+														image_banner: wikidata_result.image_banner,
+														pop_male: pop_male,
+														pop_female: pop_female,
+														pop_pie: pop_pie,
+														pop_total: pop_total,
+														debt: debt,
+														crime2015: crime2015,
+														crime2016: crime2016
+													});
 												});
 											});
 										});
@@ -152,6 +155,30 @@ function toTitleCase(str) {
 	});
 }
 
+function parseCrime(serie, target) {
+	let toRet = []
+	for (crime of serie) {
+		console.log(crime);
+		let obj = {}
+		obj.label = crime.crime_type.value;
+		if (target == "2015") {
+			obj.y = parseInt(crime.amount2015.value);
+		} else if (target == "2016") {
+			obj.y = parseInt(crime.amount2016.value);
+		} else {
+			console.log("Parse Crime target not valid");
+		}
+		console.log(obj);
+		toRet.push(obj)
+	}
+	//Sort
+	toRet.sort(function(a, b) {
+		return a.label - b.label;
+	})
+	console.log(toRet);
+	return toRet;
+}
+
 function parseDebt(serie) {
 	let toRet = []
 	for (city of serie) {
@@ -163,11 +190,9 @@ function parseDebt(serie) {
 		}
 		toRet.push(obj)
 	}
-
 	toRet.sort(function(a, b) {
 		return b.weight - a.weight;
 	});
-
 	max = toRet[0].weight;
 	for (city of toRet) {
 		city.weight = Math.ceil((city.weight * 50) / max);
@@ -175,8 +200,6 @@ function parseDebt(serie) {
 			toRet.pop(city)
 		}
 	}
-
-	console.log(toRet);
 	return toRet
 }
 
