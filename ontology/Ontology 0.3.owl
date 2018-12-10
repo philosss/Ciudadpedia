@@ -71,6 +71,12 @@
 
 
 ###  http://provincepedia.ml
+:year rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Population ;
+        rdfs:range xsd:int .
+
+
+###  http://provincepedia.ml
 :debtamount rdf:type owl:DatatypeProperty ;
             rdfs:domain :Town ;
             rdfs:range xsd:float .
