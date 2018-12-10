@@ -15,8 +15,8 @@
         //title: "Population in k"
       },
       legend: {
-        verticalAlign: "top",
         horizontalAlign: "right",
+        verticalAlign: "bottom",
         dockInsidePlotArea: true
       },
       toolTip: {
@@ -32,51 +32,9 @@
           color: "#4F81BC",
           markerSize: 5,
 
-          dataPoints: [{
-              x: new Date(2018, 0),
-              y: 3142095
-            },
-            {
-              x: new Date(2017, 0),
-              y: 3108811
-            },
-            {
-              x: new Date(2016, 0),
-              y: 3084747
-            },
-            {
-              x: new Date(2015, 0),
-              y: 3066776
-            },
-            {
-              x: new Date(2014, 0),
-              y: 3065576
-            },
-            {
-              x: new Date(2013, 0),
-              y: 3086686
-            },
-            {
-              x: new Date(2012, 0),
-              y: 3097459
-            },
-            {
-              x: new Date(2011, 0),
-              y: 3087772
-            },
-            {
-              x: new Date(2010, 0),
-              y: 3082941
-            },
-            {
-              x: new Date(2009, 0),
-              y: 3066114
-            },
-            {
-              x: new Date(2008, 0),
-              y: 3018293
-            }
-          ]
+          dataPoints: [{{#each pop_male}}
+                    {x: new Date({{this.x}},0),y: {{this.y}} },
+                    {{/each}}]
         },
         {
           name: "Women",
@@ -87,51 +45,9 @@
           lineThickness: 2,
           color: "#C0504E",
           markerSize: 5,
-          dataPoints: [{
-              x: new Date(2018, 0),
-              y: 3407885
-            },
-            {
-              x: new Date(2017, 0),
-              y: 3367894
-            },
-            {
-              x: new Date(2016, 0),
-              y: 3339528
-            },
-            {
-              x: new Date(2015, 0),
-              y: 3318521
-            },
-            {
-              x: new Date(2014, 0),
-              y: 3312721
-            },
-            {
-              x: new Date(2013, 0),
-              y: 3328023
-            },
-            {
-              x: new Date(2012, 0),
-              y: 3328114
-            },
-            {
-              x: new Date(2011, 0),
-              y: 3306467
-            },
-            {
-              x: new Date(2010, 0),
-              y: 3290591
-            },
-            {
-              x: new Date(2009, 0),
-              y: 3261480
-            },
-            {
-              x: new Date(2008, 0),
-              y: 3207902
-            }
-          ]
+          dataPoints: [{{#each pop_female}}
+                    {x: new Date({{this.x}},0),y: {{this.y}} },
+                    {{/each}}]
         },
         {
           name: "Total",
@@ -142,51 +58,9 @@
           lineThickness: 3,
           color: "#9BBB58",
           markerSize: 5,
-          dataPoints: [{
-              x: new Date(2018, 0),
-              y: 3142095 + 3407885
-            },
-            {
-              x: new Date(2017, 0),
-              y: 3108811 + 3367894
-            },
-            {
-              x: new Date(2016, 0),
-              y: 3084747 + 3339528
-            },
-            {
-              x: new Date(2015, 0),
-              y: 3066776 + 3318521
-            },
-            {
-              x: new Date(2014, 0),
-              y: 3065576 + 3312721
-            },
-            {
-              x: new Date(2013, 0),
-              y: 3086686 + 3328023
-            },
-            {
-              x: new Date(2012, 0),
-              y: 3097459 + 3328114
-            },
-            {
-              x: new Date(2011, 0),
-              y: 3087772 + 3306467
-            },
-            {
-              x: new Date(2010, 0),
-              y: 3082941 + 3290591
-            },
-            {
-              x: new Date(2009, 0),
-              y: 3066114 + 3261480
-            },
-            {
-              x: new Date(2008, 0),
-              y: 3018293 + 3207902
-            }
-          ]
+          dataPoints: [{{#each pop_total}}
+                    {x: new Date({{this.x}},0),y: {{this.y}} },
+                    {{/each}}]
         }
       ]
     });
@@ -197,18 +71,12 @@
         startAngle: 0,
         yValueFormatString: "##0.00\"%\"",
         indexLabel: "{label} {y}",
-        dataPoints: [{
-            y: 49,
-            label: "Men"
-          },
-          {
-            y: 51,
-            label: "Women"
-          }
-        ]
+        dataPoints: [{{#each pop_pie}}
+                  {label: "{{this.label}}",y: {{this.y}} },
+                  {{/each}}]
       }]
     });
-
+    {{#if crime2015}}
     var chartCrime = new CanvasJS.Chart("chartCrime", {
       animationEnabled: true,
       toolTip: {
@@ -218,136 +86,47 @@
           type: "column",
           name: "2015",
 
-          yValueFormatString: "#,##0.# reports",
-          dataPoints: [{
-              label: "Crimes and misdemeanours",
-              y: 1934.5
-            },
-            {
-              label: "Intentional homicide",
-              y: 20015
-            },
-            {
-              label: "Robbery with violence and intimidation",
-              y: 25342
-            },
-            {
-              label: "Home robberies",
-              y: 20088
-            },
-            {
-              label: "Theft of motor vehicles",
-              y: 28234
-            },
-            {
-              label: "Drug trade",
-              y: 28234 + 30
-            },
-            {
-              label: "Injuries",
-              y: 28234 + 30
-            },
-            {
-              label: "Burglary",
-              y: 28234 + 30
-            }
-          ]
+          yValueFormatString: "#,##0.## reports",
+          dataPoints: [{{#each crime2015}}
+                    {label: "{{this.label}}",y: {{this.y}} },
+                    {{/each}}]
         },
         {
           type: "column",
           name: "2016",
           axisYType: "secondary",
-          yValueFormatString: "#,##0.# Units",
-          dataPoints: [{
-              label: "Crimes and misdemeanours",
-              y: 19034.5 + 30
-            },
-            {
-              label: "Intentional homicide",
-              y: 20015 + 30
-            },
-            {
-              label: "Robbery with violence and intimidation",
-              y: 25342 + 30
-            },
-            {
-              label: "Home robberies",
-              y: 20088 + 30
-            },
-            {
-              label: "Theft of motor vehicles",
-              y: 28234 + 30
-            },
-            {
-              label: "Drug trade",
-              y: 28234 + 30
-            },
-            {
-              label: "Injuries",
-              y: 28234 + 30
-            },
-            {
-              label: "Burglary",
-              y: 28234 + 30
-            }
-          ]
+          yValueFormatString: "#,##0.## reports",
+          dataPoints: [{{#each crime2016}}
+                    {label: "{{this.label}}",y: {{this.y}} },
+                    {{/each}}]
         }
       ]
     });
-
+    {{/if}}
     popPie.render();
     popDistribution.render();
-    chartCrime.render();
+    {{#if crime2015}} chartCrime.render(); {{/if}}
     adjustDimension();
 
-    var word_list = [{
-        text: "teachers",
-        weight: 50,
-        html: {
-          "data-tooltip": "50€"
-        }
-      },
-      {
-        text: "classes",
-        weight: 44,
-        html: {
-          "data-tooltip": "44"
-        }
-      },
-      {
-        text: "excellent",
-        weight: 26,
-        html: {
-          "data-tooltip": "35"
-        }
-      },
-      {
-        text: "material",
-        weight: 26,
-        html: {
-          "data-tooltip": "32"
-        }
-      },
-      {
-        text: "well",
-        weight: 25,
-        html: {
-          "data-tooltip": "30"
-        }
-      }
-    ];
+    {{#if debt}}
+    var word_list = [{{#each debt}}
+              {text: "{{this.text}}",weight: {{this.weight}}, html: { "data-tooltip": "€ {{this.html.data-tooltip}}k" }},
+              {{/each}}];
+
     $(function() {
       $("#debt_city").jQCloud(word_list, {
         shape: "rectangular",
         autoResize: true
       });
     });
+    {{/if}}
   }
+
 
   function adjustDimension() {
     document.getElementById("popPie").style.height = String(parseInt(document.getElementById("popPie").style.height.split("px")[0]) - 10) + "px";
     document.getElementById("popDistribution").style.height = String(parseInt(document.getElementById("popDistribution").style.height.split("px")[0]) - 13) + "px";
-    document.getElementById("chartCrime").style.height = String(parseInt(document.getElementById("chartCrime").style.height.split("px")[0]) - 13) + "px";
+    {{#if crime2015}} document.getElementById("chartCrime").style.height = String(parseInt(document.getElementById("chartCrime").style.height.split("px")[0]) - 13) + "px"; {{/if}}
   }
 </script>
 <div id="main">
@@ -362,16 +141,22 @@
       </div>
     </div>
     <div class="row">
+      {{#if abstract }}
       <div class="col-4 col-12-medium">
+      {{else}}
+      <div class="col-6 col-12-medium">
+      {{/if}}
         <span class="image fit">
           <div class="crop">
             <img src="{{image}}" alt="{{title}}">
           </div>
         </span>
       </div>
+      {{#if abstract }}
       <div class="col-8 col-12-medium">
         {{abstract}}
       </div>
+      {{/if}}
     </div>
     <div class="row">
       <h3>Location</h3>
@@ -404,16 +189,21 @@
     <br />
     <br />
 
-
+    {{#if debt}}
     <div class="row">
       <h3>Composition and debt</h3>
     </div>
     <div class="row">
-      <p>This cloud shows the public debt by city that compose the provice</p>
-      <div id="debt_city" style="width: 100%; height: 200px; margin: auto;"></div>
+      <p>This cloud shows the public debt of each city that compose the {{title}}. The data displayed dates to December 2017.</p>
+      <div id="debt_city" style="width: 100%; height: 400px; margin: auto;"></div>
+      <p><br />For more information visit the <a href="{{sub}}datasetRequirements">Dataset Requirements</a></p>
     </div>
+    {{else}}
+    <i>No information regarding public debt was made available by authority for this province. </i>
+    {{/if}}
     <br />
     <br />
+    {{#if crime2015}}
     <div class="row">
       <h3>Inmates and crime</h3>
     </div>
@@ -421,6 +211,10 @@
     <div class="chart">
       <div id="chartCrime" style="width: 100%; max-width: 900px; height: 370px; margin: auto;"></div>
     </div>
+    {{else}}
+    <i>No information regarding crime was made available by authority for this province. </i>
+    {{/if}}
+
     <br /> <br />
 
     <div class="row">

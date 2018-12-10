@@ -9,6 +9,7 @@
     "bluereq": "^2.1.7",
     "cookie-parser": "^1.4.3",
     "d3-cloud": "^1.2.5",
+    "dbpedia-entity-lookup": "^0.4.1",
     "dbpedia-sparql-client": "^0.9.8",
     "debug": "~2.6.9",
     "express": "~4.16.0",
