@@ -16,15 +16,17 @@ Universidad Politécnica de Madrid 🌞
 Open Linked Big Data Project 📊
 
 
-## Final result
-- [Final presentation](http://localhost:3000/datasetRequirements)
+## App screenshots
 <p align="center">
-<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a1.png" width="600px">
-<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a2.png" width="600px">
-<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a3.png" width="600px">
-<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a4.png" width="600px">
-<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a5.png" width="600px">
-<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a6.png" width="600px">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a1.png" width="100%">
+</p>
+<hr />
+<p align="center">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a2.png" width="100%">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a3.png" width="100%">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a4.png" width="100%">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a5.png" width="100%">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a6.png" width="100%">
 </p>
 
 ## Ontology
@@ -43,7 +45,10 @@ npm install
 ```
 npm start
 ```
-## Requirements
+## Presentation and requirements
+- [Final presentation](https://github.com/philosss/Provincepedia/raw/master/finalSlides.pdf)
+
+
 Make sure npm is running on port 3000
 - [Dataset Requirements](http://localhost:3000/datasetRequirements)
 - [Application Requirements](http://localhost:3000/applicationRequirements)
