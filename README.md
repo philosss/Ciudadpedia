@@ -3,7 +3,7 @@
 </p>
 
 
-Provincepedia is an encyclopedia of Spanish 🇪🇸 provinces containing data collected through different public CSV datasets, transformed into graphs.
+Provincepedia is an encyclopedia of Spanish 🇪🇸 provinces containing data collected through different public CSV datasets, transformed into RDF graphs and represented by the ontology below.
 This project is part of the Open Linked Big Data class taught at Universidad Politécnica de Madrid 🌞 offered by prof. Raúl García-Castro and prof. Óscar Corcho of the Ontology Engineering Group
 
 
@@ -15,7 +15,25 @@ Universidad Politécnica de Madrid 🌞
 
 Open Linked Big Data Project 📊
 
-## To run the project
+
+## Final result
+- [Final presentation](http://localhost:3000/datasetRequirements)
+<p align="center">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a1.png" width="600px">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a2.png" width="600px">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a3.png" width="600px">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a4.png" width="600px">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a5.png" width="600px">
+<img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/a6.png" width="600px">
+</p>
+
+## Ontology
+<p align="center"><img src="https://raw.githubusercontent.com/philosss/Provincepedia/master/lodrefine/capture/Capture11.PNG" width="100%">
+</p>
+
+
+
+## Run the project
 Open the terminal into the app folder
 ### 1. Install the dependencies
 ```
